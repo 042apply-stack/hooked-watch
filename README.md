@@ -61,3 +61,18 @@ No wallet private key or trading key is required.
 ## Safety
 
 This repository never needs a seed phrase, wallet private key, or trading authority. Do not add those to GitHub Secrets or commit them.
+
+
+## Optional secrets
+
+The monitor works without private wallet keys.
+
+For more reliable X monitoring, add this repository secret:
+
+- `X_BEARER_TOKEN` — official X API bearer token. If absent, the monitor falls back to public profile endpoints, which X may rate-limit or block.
+
+Optional Solana RPC override:
+
+- `SOLANA_RPC_URL` — a preferred Solana RPC endpoint. If absent, the monitor uses public RPC fallbacks.
+
+Never store wallet seed phrases or trading private keys in this repository.
