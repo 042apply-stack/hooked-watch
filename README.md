@@ -76,3 +76,23 @@ Optional Solana RPC override:
 - `SOLANA_RPC_URL` — a preferred Solana RPC endpoint. If absent, the monitor uses public RPC fallbacks.
 
 Never store wallet seed phrases or trading private keys in this repository.
+
+
+## Telegram alerts
+
+HOOKED Watch can send every material alert directly to Telegram.
+
+Add these GitHub Actions repository secrets:
+
+- `TELEGRAM_BOT_TOKEN`
+- `TELEGRAM_CHAT_ID`
+
+Setup:
+
+1. Create a Telegram bot with **@BotFather** and copy the bot token.
+2. Start a chat with your bot and send it a message.
+3. Get your numeric chat ID.
+4. In this repository open **Settings → Secrets and variables → Actions → New repository secret**.
+5. Add `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`.
+
+The watcher will then send the same material alerts to Telegram and still create GitHub Issues as a backup.
