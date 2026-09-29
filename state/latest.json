@@ -1,6 +1,6 @@
 {
-  "baseline_initialized": true,
-  "checked_at": "2026-09-29T17:44:00+00:00",
+  "baseline_initialized": false,
+  "checked_at": "2026-09-29T17:44:53+00:00",
   "creator": {
     "latest": "63AeyucPhrusF2axC58VFDaabdNLZiSS4HXXWwwbHRzHktjn9tdrjNJWKgnvCyd5YjtyzupEt1Z9A438jqmR4KJf",
     "sol": 3.858633369,
@@ -15,19 +15,19 @@
     }
   },
   "dex": {
-    "b1": 142,
+    "b1": 140,
     "b24": 24318,
-    "c1": -12.43,
-    "c24": 2051.0,
+    "c1": -13.14,
+    "c24": 2048.0,
     "dex": "meteora",
-    "liq": 243212.5,
-    "mc": 1337234.0,
+    "liq": 243109.42,
+    "mc": 1335631.0,
     "pair": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
     "pairs": 30,
-    "price": 0.001353,
-    "s1": 237,
-    "s24": 21278,
-    "vol24": 10603536.88
+    "price": 0.001351,
+    "s1": 236,
+    "s24": 21279,
+    "vol24": 10603594.33
   },
   "errors": {},
   "events_this_run": [],
@@ -164,7 +164,7 @@
     "creator_balance": 0,
     "freeze_authority": null,
     "graph_error": null,
-    "graph_hash": "a6be8180774f4aedcc739913dde204f31f5d0c396c0d0b8e2342f3b2980b4666",
+    "graph_hash": "c2960cf6f6c291dc0051ed3ce6a84cd7b93b4d2d42eb2686e9cd5e266072032a",
     "graph_insiders": 9,
     "insider_networks": [
       {
@@ -589,7 +589,7 @@
     ],
     "home_hash": "b04a0e8a3f39029c293a8f2e427b8573d2b7547cf1e4f8ceb708c595fc1587ed",
     "launch_count": 82,
-    "launch_hash": "e6f0c91b365c2ea6c44a3ac530d37dac541841394a6ae73309173b48f3be7d14"
+    "launch_hash": "de8690abce6f6672deaa30b26e103347bc598893d8cedfebd340c6164652309b"
   },
   "supply_rpc": {
     "decimals": 6,
