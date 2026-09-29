@@ -1,18 +1,18 @@
 # HOOKED Watch - Latest
 
-Checked: **2026-09-29T17:44:53+00:00**
+Checked: **2026-09-29T17:46:10+00:00**
 
 ## Position
 - Entry reference: **1,000 USD at ~950,000 USD MC**
-- Current MC: **1,335,631 USD**
-- MC vs entry: **+40.6%**
-- Rough value if token amount unchanged: **1,406 USD**
+- Current MC: **1,194,362 USD**
+- MC vs entry: **+25.7%**
+- Rough value if token amount unchanged: **1,257 USD**
 
 ## Market
-- Price: **0.00135100 USD**
-- Liquidity: **243,109 USD**
-- 24h volume: **10,603,594 USD**
-- Top pair 1h buys/sells: **140 / 236**
+- Price: **0.00120800 USD**
+- Liquidity: **233,548 USD**
+- 24h volume: **10,618,334 USD**
+- Top pair 1h buys/sells: **163 / 247**
 
 ## Token / security
 - Supply: **987,164,814 HOOKED**

@@ -1,6 +1,6 @@
 {
   "baseline_initialized": false,
-  "checked_at": "2026-09-29T17:44:53+00:00",
+  "checked_at": "2026-09-29T17:46:10+00:00",
   "creator": {
     "latest": "63AeyucPhrusF2axC58VFDaabdNLZiSS4HXXWwwbHRzHktjn9tdrjNJWKgnvCyd5YjtyzupEt1Z9A438jqmR4KJf",
     "sol": 3.858633369,
@@ -15,19 +15,19 @@
     }
   },
   "dex": {
-    "b1": 140,
-    "b24": 24318,
-    "c1": -13.14,
-    "c24": 2048.0,
+    "b1": 163,
+    "b24": 24342,
+    "c1": -21.89,
+    "c24": 1821.0,
     "dex": "meteora",
-    "liq": 243109.42,
-    "mc": 1335631.0,
+    "liq": 233548.22,
+    "mc": 1194362.0,
     "pair": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
     "pairs": 30,
-    "price": 0.001351,
-    "s1": 236,
-    "s24": 21279,
-    "vol24": 10603594.33
+    "price": 0.001208,
+    "s1": 247,
+    "s24": 21292,
+    "vol24": 10618334.100000001
   },
   "errors": {},
   "events_this_run": [],
@@ -164,7 +164,7 @@
     "creator_balance": 0,
     "freeze_authority": null,
     "graph_error": null,
-    "graph_hash": "c2960cf6f6c291dc0051ed3ce6a84cd7b93b4d2d42eb2686e9cd5e266072032a",
+    "graph_hash": "b89e352a1d2c77d93caaef88335dd0bfe7432089bbd63484823195c02669f0c7",
     "graph_insiders": 9,
     "insider_networks": [
       {
@@ -589,7 +589,7 @@
     ],
     "home_hash": "b04a0e8a3f39029c293a8f2e427b8573d2b7547cf1e4f8ceb708c595fc1587ed",
     "launch_count": 82,
-    "launch_hash": "de8690abce6f6672deaa30b26e103347bc598893d8cedfebd340c6164652309b"
+    "launch_hash": "57d393fa3e2cf05e845fd38bbe6320d2a02976631e884d3905f6fb6a94e78b2c"
   },
   "supply_rpc": {
     "decimals": 6,
@@ -602,7 +602,7 @@
   },
   "x": {
     "addresses": [],
-    "error": "HTTPError: HTTP Error 403: Forbidden",
+    "error": "HTTPError: HTTP Error 403: Forbidden; API: X_BEARER_TOKEN not configured",
     "excerpt": "",
     "hash": null,
     "ids": [],
