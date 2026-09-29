@@ -7,6 +7,7 @@ on:
       - "monitor.py"
       - ".github/workflows/hooked-watch.yml"
       - "README.md"
+      - "config.json"
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch:
