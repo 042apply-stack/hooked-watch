@@ -202,15 +202,34 @@ def site():
  return {"home_hash":sha(clean(h)),"launch_hash":sha(p),"launch_count":cnt,"addresses":addrs[:100]}
 
 def xstate():
+ bearer=os.getenv("X_BEARER_TOKEN","").strip()
+ if bearer:
+  try:
+   hdr={"Authorization":"Bearer "+bearer,"Accept":"application/json"}
+   u=json.loads(request("https://api.x.com/2/users/by/username/"+X_HANDLE,headers=hdr).decode())
+   uid=(u.get("data") or {}).get("id")
+   if not uid:raise RuntimeError("X user id not returned")
+   q="https://api.x.com/2/users/"+uid+"/tweets?max_results=10&tweet.fields=created_at,text"
+   tw=json.loads(request(q,headers=hdr).decode())
+   rows=tw.get("data") or []
+   ids=[str(x.get("id")) for x in rows if x.get("id")]
+   blob="\n".join(str(x.get("text") or "") for x in rows)
+   addrs=sorted(set(re.findall(r"\b[1-9A-HJ-NP-Za-km-z]{32,44}\b",blob)))
+   return {"source":"x_api","hash":sha(json.dumps(rows,sort_keys=True)),"ids":ids[:20],"addresses":addrs[:50],"excerpt":clean(blob)[:700],"error":None}
+  except Exception as e:
+   api_err=type(e).__name__+": "+str(e)
+ else:
+  api_err="X_BEARER_TOKEN not configured"
+
  urls=["https://syndication.twitter.com/srv/timeline-profile/screen-name/"+X_HANDLE,"https://r.jina.ai/https://x.com/"+X_HANDLE]
- err=None
+ err=api_err
  for u in urls:
   try:
    t=tget(u);p=clean(t)
    ids=re.findall(r"(?:status/|status%2F)(\d{12,24})",t)
    addrs=sorted(set(re.findall(r"\b[1-9A-HJ-NP-Za-km-z]{32,44}\b",t)))
    return {"source":u,"hash":sha(p),"ids":ids[:20],"addresses":addrs[:50],"excerpt":p[:700],"error":None}
-  except Exception as e:err=type(e).__name__+": "+str(e)
+  except Exception as e:err=type(e).__name__+": "+str(e)+"; API: "+api_err
  return {"source":None,"hash":None,"ids":[],"addresses":[],"excerpt":"","error":err}
 
 def program(pid):
