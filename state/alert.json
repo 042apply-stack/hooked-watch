@@ -1,5 +1,37 @@
 {
-  "checked_at": "2026-09-29T17:46:10+00:00",
-  "events": [],
-  "issue": null
+  "checked_at": "2026-09-29T19:22:20+00:00",
+  "events": [
+    {
+      "action": "REVIEW PROFIT / RISK",
+      "detail": "1,194,362 USD -> 899,802 USD",
+      "key": "mc_move",
+      "severity": "MEDIUM",
+      "title": "Market cap moved -24.7%"
+    },
+    {
+      "action": "THESIS STRENGTHENED",
+      "detail": "Current supply 987,033,031; cumulative burn ~12,966,969",
+      "key": "burn",
+      "severity": "MEDIUM",
+      "title": "Supply fell by 131,783 HOOKED"
+    },
+    {
+      "action": "REVIEW TRANSACTION",
+      "detail": "Latest tx 3aZuaCH2wq3UxDdFzg29GEUUm8YPJ3udq3oC1tRo6ucADnH6q5G7voL4Q3hzrMs5157H5gQ4Fm9hRv5TbEjKPeWj",
+      "key": "creator_activity",
+      "severity": "HIGH",
+      "title": "Creator/deployer wallet has new activity"
+    },
+    {
+      "action": "USAGE SIGNAL",
+      "detail": "82 -> 83",
+      "key": "launches",
+      "severity": "INFO",
+      "title": "New Hooked launches"
+    }
+  ],
+  "issue": {
+    "number": 1,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/1"
+  }
 }
