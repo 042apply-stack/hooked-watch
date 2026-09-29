@@ -362,6 +362,42 @@ def report(cur,ev):
  L+=["","_Monitor only. No automatic trading._",""]
  return "\n".join(L)
 
+def telegram(ev,cur):
+ if not ev:return None
+ tok=os.getenv("TELEGRAM_BOT_TOKEN","").strip()
+ chat=os.getenv("TELEGRAM_CHAT_ID","").strip()
+ if not tok or not chat:return {"error":"telegram secrets not configured"}
+ rank={"INFO":0,"MEDIUM":1,"HIGH":2,"CRITICAL":3}
+ top=max(ev,key=lambda e:rank.get(e["severity"],0))
+ d=cur.get("dex") or {}
+ lines=[
+  "HOOKED WATCH ALERT",
+  "",
+  "["+top["severity"]+"] "+top["title"],
+  "CA: "+MINT,
+  "Current MC: "+format(float(d.get("mc") or 0),",.0f")+" USD",
+  "Entry reference: 950,000 USD MC",
+  ""
+ ]
+ for e in ev:
+  lines += [
+   "["+e["severity"]+"] "+e["title"],
+   e["detail"],
+   "Action: "+e["action"],
+   ""
+  ]
+ text="\n".join(lines)[:3900]
+ payload=json.dumps({"chat_id":chat,"text":text,"disable_web_page_preview":True}).encode()
+ try:
+  out=json.loads(request(
+   "https://api.telegram.org/bot"+tok+"/sendMessage",
+   "POST",
+   payload,
+   {"Content-Type":"application/json"}
+  ))
+  return {"ok":bool(out.get("ok")),"message_id":((out.get("result") or {}).get("message_id"))}
+ except Exception as e:return {"error":type(e).__name__+": "+str(e)}
+
 def issue(ev,cur):
  if not ev:return None
  tok=os.getenv("GITHUB_TOKEN");repo=os.getenv("GITHUB_REPOSITORY")
@@ -382,8 +418,9 @@ def main():
  cur["events_this_run"]=ev;cur["baseline_initialized"]=not bool(prev)
  REPORT.parent.mkdir(parents=True,exist_ok=True);REPORT.write_text(report(cur,ev))
  cur["issue_created"]=issue(ev,cur) if prev else None
- save(STATE,cur);save(ALERT,{"checked_at":cur["checked_at"],"events":ev,"issue":cur["issue_created"]})
- print(json.dumps({"events":ev,"errors":cur.get("errors"),"issue":cur.get("issue_created")},indent=2))
+ cur["telegram_sent"]=telegram(ev,cur) if prev else None
+ save(STATE,cur);save(ALERT,{"checked_at":cur["checked_at"],"events":ev,"issue":cur["issue_created"],"telegram":cur["telegram_sent"]})
+ print(json.dumps({"events":ev,"errors":cur.get("errors"),"issue":cur.get("issue_created"),"telegram":cur.get("telegram_sent")},indent=2))
  return 0
 
 if __name__=="__main__":raise SystemExit(main())
