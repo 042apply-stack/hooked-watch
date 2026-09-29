@@ -1,6 +1,6 @@
 {
   "baseline_initialized": false,
-  "checked_at": "2026-09-29T19:22:20+00:00",
+  "checked_at": "2026-09-29T19:23:55+00:00",
   "creator": {
     "latest": "3aZuaCH2wq3UxDdFzg29GEUUm8YPJ3udq3oC1tRo6ucADnH6q5G7voL4Q3hzrMs5157H5gQ4Fm9hRv5TbEjKPeWj",
     "sol": 79.822409852,
@@ -9,51 +9,22 @@
   "creator_burns": [],
   "creator_funded": {},
   "dex": {
-    "b1": 185,
-    "b24": 24616,
-    "c1": -23.86,
-    "c24": 1349.0,
+    "b1": 227,
+    "b24": 24658,
+    "c1": -32.57,
+    "c24": 1181.0,
     "dex": "meteora",
-    "liq": 221471.38,
-    "mc": 899802.0,
+    "liq": 200848.45,
+    "mc": 795926.0,
     "pair": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
     "pairs": 30,
-    "price": 0.0009115,
-    "s1": 197,
-    "s24": 21580,
-    "vol24": 10827150.28
+    "price": 0.0008063,
+    "s1": 207,
+    "s24": 21592,
+    "vol24": 10837833.14
   },
   "errors": {},
-  "events_this_run": [
-    {
-      "action": "REVIEW PROFIT / RISK",
-      "detail": "1,194,362 USD -> 899,802 USD",
-      "key": "mc_move",
-      "severity": "MEDIUM",
-      "title": "Market cap moved -24.7%"
-    },
-    {
-      "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 987,033,031; cumulative burn ~12,966,969",
-      "key": "burn",
-      "severity": "MEDIUM",
-      "title": "Supply fell by 131,783 HOOKED"
-    },
-    {
-      "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 3aZuaCH2wq3UxDdFzg29GEUUm8YPJ3udq3oC1tRo6ucADnH6q5G7voL4Q3hzrMs5157H5gQ4Fm9hRv5TbEjKPeWj",
-      "key": "creator_activity",
-      "severity": "HIGH",
-      "title": "Creator/deployer wallet has new activity"
-    },
-    {
-      "action": "USAGE SIGNAL",
-      "detail": "82 -> 83",
-      "key": "launches",
-      "severity": "INFO",
-      "title": "New Hooked launches"
-    }
-  ],
+  "events_this_run": [],
   "flywheel": {
     "latest": "4EwwcMw37eJLkiojBvpay4ZZZjB9namCDVn8G7tYYxNGTbou4YgKXhUcSBdbV5qmaxY8aJK6xp3m66EV65jbYxW8",
     "sol": 0.412478636,
@@ -71,10 +42,7 @@
       "time": 1790706802
     }
   ],
-  "issue_created": {
-    "number": 1,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/1"
-  },
+  "issue_created": null,
   "mint": "C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE",
   "programs": {
     "anti_bundle": {
@@ -144,9 +112,9 @@
       "data_hash": "31ef3d87a8b768b74861fb54cf8d8032d591cc71a361a4ad96f57cb8893c69c8",
       "exec": false,
       "exists": true,
-      "latest": "qL4chUeHoCQsceZ2DaFij2zwTUbUJV7epPcJsPUdbtpHbb3y352kobyqRxUbs4jjf6DnYDnuhYo1J4FxMk2YHeQ",
+      "latest": "ckf7ukZhx3eXfqhH156jRY23NDrLpd2z1fEYuy6EBwfu36ZzLKWdKnE6vSeQZUnruM7HtGGVmttpztdsjvWbAqg",
       "owner": "11111111111111111111111111111111",
-      "time": 1790707114
+      "time": 1790709776
     },
     "surfaced_5": {
       "address": "2LNs9dtv19wrNx6WnqJPJfAinz9A3KVh2xuMZHiSxoHt",
@@ -195,7 +163,7 @@
     "creator_balance": 0,
     "freeze_authority": null,
     "graph_error": null,
-    "graph_hash": "c2960cf6f6c291dc0051ed3ce6a84cd7b93b4d2d42eb2686e9cd5e266072032a",
+    "graph_hash": "21df18825d4ad1447aaeea031670a0c9048808ab34f9773f220ed7471e8ab03a",
     "graph_insiders": 9,
     "insider_networks": [
       {
@@ -620,12 +588,13 @@
     ],
     "home_hash": "b04a0e8a3f39029c293a8f2e427b8573d2b7547cf1e4f8ceb708c595fc1587ed",
     "launch_count": 83,
-    "launch_hash": "b4669a4ba5e5b98929f8cefc46b646ace15b36a34b4a443cfd2b9a4cf3fedeee"
+    "launch_hash": "195a5ffc8a57dd6a404a42b86467b32cdace889929ec62ade410e8d01725e4f1"
   },
   "supply_rpc": {
     "decimals": 6,
     "supply": 987033031.19597
   },
+  "telegram_sent": null,
   "upgrade": {
     "latest": "5rF5YVUMKVJFX5aFGtgDtk6jpQfQJUeDUm4XuzaYgupfYRW9BzkGRhLzpSKhNWrBFs6Fr67apo69SEVYdpqJM7Ui",
     "sol": 3.94748424,
@@ -633,10 +602,10 @@
   },
   "x": {
     "addresses": [],
-    "error": null,
-    "excerpt": "{\"props\":{\"pageProps\":{\"contextProvider\":{\"features\":{},\"scribeData\":{\"client_version\":null,\"dnt\":false,\"widget_id\":\"embed-0\",\"widget_origin\":\"\",\"widget_frame\":\"\",\"widget_partner\":\"\",\"widget_site_screen_name\":\"\",\"widget_site_user_id\":\"\",\"widget_creator_screen_name\":\"\",\"widget_creator_user_id\":\"\",\"widget_iframe_version\":\"6a3f4bd:1779931425403\",\"widget_data_source\":\"screen-name:Hoookedpad\",\"session_id\":\"\"},\"messengerContext\":{\"embedId\":\"embed-0\"},\"hasResults\":true,\"lang\":\"en\",\"theme\":\"light\"},\"lang\":\"en\",\"maxHeight\":null,\"showHeader\":true,\"hideBorder\":false,\"hideFooter\":false,\"hideScrollBar\":false,\"transparent\":false,\"timeline\":{\"entries\":[]},\"headerProps\":{\"screenName\":\"Hoookedpad\"}},\"__N_SSP",
-    "hash": "bc45add60ac3f0798842051d0d8781e0d43e39cb5455e9b897cff4f92cd432e0",
+    "error": "HTTPError: HTTP Error 403: Forbidden; API: X_BEARER_TOKEN not configured",
+    "excerpt": "",
+    "hash": null,
     "ids": [],
-    "source": "https://syndication.twitter.com/srv/timeline-profile/screen-name/Hoookedpad"
+    "source": null
   }
 }
