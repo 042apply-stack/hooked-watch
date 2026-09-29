@@ -276,6 +276,19 @@ def evaluate(prev,cur):
  nr=risks(r.get("risks"))-risks(o.get("risks"))
  if prev and nr:event(out,"HIGH","new_risk","New RugCheck risk flag","; ".join(sorted(nr)),"DO NOT ADD UNTIL VERIFIED")
 
+ # Holder concentration deterioration.
+ nt=float(r.get("top10") or 0);ot=float(o.get("top10") or 0)
+ if nt and ot and nt-ot>=3:
+  event(out,"HIGH","top10_growth","Top-10 holder concentration increased",format(ot,".2f")+"% -> "+format(nt,".2f")+"%","REVIEW WHALE / INSIDER RISK")
+
+ # LP-lock/control deterioration by exact pool address.
+ om={str(x.get("pubkey")):x for x in (o.get("markets") or []) if x.get("pubkey")}
+ for m in (r.get("markets") or []):
+  pid=str(m.get("pubkey") or "");old=om.get(pid) or {}
+  nl=m.get("locked_pct");ol=old.get("locked_pct")
+  if nl is not None and ol is not None and float(nl)+5<float(ol):
+   event(out,"CRITICAL","lp_unlock:"+pid,"LP locked percentage fell materially",pid+" "+format(float(ol),".2f")+"% -> "+format(float(nl),".2f")+"%","REDUCE RISK / VERIFY LIQUIDITY CONTROL")
+
  of=prev.get("creator_funded") or {};nf=cur.get("creator_funded") or {}
  for w,z in nf.items():
   if w not in of:event(out,"MEDIUM","funded:"+w,"New creator-funded wallet",w+" funded with "+format(z.get("sol",0),".5f")+" SOL; holds "+format(z.get("hooked",0),",.0f")+" HOOKED","INVESTIGATE")
@@ -318,7 +331,8 @@ def report(cur,ev):
  "- 24h volume: **"+format(float(d.get("vol24") or 0),",.0f")+" USD**","- Top pair 1h buys/sells: **"+str(d.get("b1",0))+" / "+str(d.get("s1",0))+"**","",
  "## Token / security","- Supply: **"+format(s,",.0f")+" HOOKED**","- Burned from 1B ref: **"+format(max(0,INITIAL_SUPPLY-s),",.0f")+" HOOKED**",
  "- Mint authority: **"+str(r.get("mint_authority"))+"**","- Freeze authority: **"+str(r.get("freeze_authority"))+"**",
- "- Creator direct balance: **"+str(r.get("creator_balance"))+"**","- RugCheck graph insiders: **"+str(r.get("graph_insiders"))+"**","",
+ "- Creator direct balance: **"+str(r.get("creator_balance"))+"**","- RugCheck graph insiders: **"+str(r.get("graph_insiders"))+"**",
+ "- Top-10 holder concentration: **"+format(float(r.get("top10") or 0),".2f")+"%**","",
  "## Product","- Launches detected: **"+str((cur.get("site") or {}).get("launch_count","?"))+"**","",
  "## Alerts this run"]
  if ev:
