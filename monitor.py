@@ -370,7 +370,8 @@ def issue(ev,cur):
  title="[HOOKED "+top["severity"]+"] "+top["title"]
  body=["Automated HOOKED alert at **"+str(cur.get("checked_at"))+"**.","","Token: `"+MINT+"`","Entry reference: **1,000 USD near 950k MC**",""]
  for e in ev:body+=["### ["+e["severity"]+"] "+e["title"],e["detail"],"","**Action view:** "+e["action"],""]
- payload=json.dumps({"title":title[:250],"body":"\n".join(body)}).encode()
+ body.insert(0,"@042apply-stack")
+ payload=json.dumps({"title":title[:250],"body":"\n".join(body),"assignees":["042apply-stack"]}).encode()
  try:
   out=json.loads(request("https://api.github.com/repos/"+repo+"/issues","POST",payload,{"Authorization":"Bearer "+tok,"Accept":"application/vnd.github+json","Content-Type":"application/json","X-GitHub-Api-Version":"2022-11-28"}))
   return {"number":out.get("number"),"url":out.get("html_url")}
