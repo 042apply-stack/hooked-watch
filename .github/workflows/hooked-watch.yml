@@ -39,6 +39,8 @@ jobs:
           GITHUB_REPOSITORY: ${{ github.repository }}
           SOLANA_RPC_URL: ${{ secrets.SOLANA_RPC_URL }}
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python monitor.py
 
       - name: Persist state and report
