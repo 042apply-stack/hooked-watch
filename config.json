@@ -1,0 +1,32 @@
+{
+  "token": {
+    "name": "Hooked",
+    "symbol": "HOOKED",
+    "mint": "C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE",
+    "chain": "solana"
+  },
+  "position_reference": {
+    "invested_usd": 1000,
+    "entry_market_cap_usd": 950000,
+    "note": "Reference only. Monitor never trades automatically."
+  },
+  "watched_addresses": {
+    "creator": "Dpmutmc4ZLqvJwHbwabvKYeFJ9zkQ86nutUAUviRrXG2",
+    "flywheel": "2oXT6oMgNPfToahWG48QTBPWS9UJ8a7TSSeEoeoSLMGt",
+    "program_upgrade_authority": "8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz"
+  },
+  "official": {
+    "website": "https://www.hookedpad.com/",
+    "launches": "https://www.hookedpad.com/launches",
+    "x": "https://x.com/Hoookedpad"
+  },
+  "alert_thresholds": {
+    "market_cap_change_pct": 15,
+    "liquidity_drop_pct": 15,
+    "critical_liquidity_drop_pct": 30,
+    "supply_burn_hooked": 100000,
+    "high_supply_burn_hooked": 1000000,
+    "creator_linked_wallet_hooked": 1000000,
+    "lp_locked_pct_drop_points": 5
+  }
+}
