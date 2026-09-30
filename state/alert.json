@@ -1,45 +1,24 @@
 {
-  "checked_at": "2026-09-30T18:16:43+00:00",
+  "checked_at": "2026-09-30T22:28:28+00:00",
   "events": [
     {
-      "action": "REVIEW PROFIT / RISK",
-      "detail": "709,055 USD -> 541,581 USD",
-      "key": "mc_move",
-      "severity": "MEDIUM",
-      "title": "Market cap moved -23.6%"
-    },
-    {
-      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
-      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 32.38% -> 27.16%",
-      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
-      "severity": "CRITICAL",
-      "title": "LP locked percentage fell materially"
-    },
-    {
-      "action": "INVESTIGATE",
-      "detail": "9Yq6xMdY1bifAZyMLchSr1P3L8p3FJh7rachEL9pvafF funded with 126.00000 SOL; holds 0 HOOKED",
-      "key": "funded:9Yq6xMdY1bifAZyMLchSr1P3L8p3FJh7rachEL9pvafF",
-      "severity": "MEDIUM",
-      "title": "New creator-funded wallet"
-    },
-    {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 5AF9111Gi4fPB1MCHeNPtJQ5W4tbRPeJN9vzR3PmorEjUAZbm4zpsxuUJ2BaUHTh2YEEmfN4vcri3Kcixrdjnr6W",
+      "detail": "Latest tx D6UQn87Rb1r3Cjey6PPzHT8N4ExfvDyQ4an9o3jQKHydMBHpqGtfmeFKz8zRK1fB1wdzMj8FrNtunBSaGxhuejK",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 5twEbi4BXazeYCVRce5S1bBzkWvcDqWEfGkaWMWk1tkHYxCLvE7Aanb9bkRDYT713KKAcpsvLknPHXfskgsnh17P",
+      "detail": "Latest tx 2UoBw91xDnuQVmUkjpxEcHsds1oXSLNKBBmHdz9ABJDyzUW8MQcdAsQhnFqRQBW89qVYCHVf9BoEy2ckC9Juc7ZM",
       "key": "upgrade_activity",
       "severity": "HIGH",
       "title": "Upgrade authority wallet has new activity"
     }
   ],
   "issue": {
-    "number": 7,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/7"
+    "number": 8,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/8"
   },
   "telegram": {
     "error": "telegram secrets not configured"
