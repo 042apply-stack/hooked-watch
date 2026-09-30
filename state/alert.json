@@ -1,38 +1,52 @@
 {
-  "checked_at": "2026-09-29T21:32:26+00:00",
+  "checked_at": "2026-09-30T00:46:08+00:00",
   "events": [
     {
-      "action": "REDUCE RISK / VERIFY LP",
-      "detail": "200,848 USD -> 164,827 USD",
-      "key": "liq_drop",
+      "action": "REVIEW PROFIT / RISK",
+      "detail": "781,907 USD -> 363,952 USD",
+      "key": "mc_move",
       "severity": "HIGH",
-      "title": "Liquidity dropped -17.9%"
+      "title": "Market cap moved -53.5%"
+    },
+    {
+      "action": "REDUCE RISK / VERIFY LP",
+      "detail": "164,827 USD -> 91,982 USD",
+      "key": "liq_drop",
+      "severity": "CRITICAL",
+      "title": "Liquidity dropped -44.2%"
     },
     {
       "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 986,906,834; cumulative burn ~13,093,166",
+      "detail": "Current supply 986,758,364; cumulative burn ~13,241,636",
       "key": "burn",
       "severity": "MEDIUM",
-      "title": "Supply fell by 126,197 HOOKED"
+      "title": "Supply fell by 148,471 HOOKED"
     },
     {
-      "action": "REVIEW LINKED WALLETS",
-      "detail": "9 -> 10",
-      "key": "insider_growth",
+      "action": "REVIEW WHALE / INSIDER RISK",
+      "detail": "20.48% -> 26.46%",
+      "key": "top10_growth",
       "severity": "HIGH",
-      "title": "Insider graph expanded"
+      "title": "Top-10 holder concentration increased"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 3udx1FfnWNaECMLyrxHekcQH2MfbpVzsHJiWQZBAPbadAYbDmnBCDjEN3pcbSg2GzaiAJEbrMSDrhwSki4cEyT45",
+      "detail": "Latest tx 5enRRiYjdXDWgXk4M3hJY8d4c12d5G41DNzfwo9Aua9W1tJyKzfYpmRmnTkCe1DNt1wvKdxFEX8ZsmSRBEYAAHrH",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
+    },
+    {
+      "action": "USAGE SIGNAL",
+      "detail": "83 -> 86",
+      "key": "launches",
+      "severity": "MEDIUM",
+      "title": "New Hooked launches"
     }
   ],
   "issue": {
-    "number": 2,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/2"
+    "number": 3,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/3"
   },
   "telegram": {
     "error": "telegram secrets not configured"
