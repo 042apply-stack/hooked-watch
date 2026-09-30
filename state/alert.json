@@ -1,24 +1,45 @@
 {
-  "checked_at": "2026-09-30T12:53:04+00:00",
+  "checked_at": "2026-09-30T18:16:43+00:00",
   "events": [
     {
+      "action": "REVIEW PROFIT / RISK",
+      "detail": "709,055 USD -> 541,581 USD",
+      "key": "mc_move",
+      "severity": "MEDIUM",
+      "title": "Market cap moved -23.6%"
+    },
+    {
+      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
+      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 32.38% -> 27.16%",
+      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
+      "severity": "CRITICAL",
+      "title": "LP locked percentage fell materially"
+    },
+    {
+      "action": "INVESTIGATE",
+      "detail": "9Yq6xMdY1bifAZyMLchSr1P3L8p3FJh7rachEL9pvafF funded with 126.00000 SOL; holds 0 HOOKED",
+      "key": "funded:9Yq6xMdY1bifAZyMLchSr1P3L8p3FJh7rachEL9pvafF",
+      "severity": "MEDIUM",
+      "title": "New creator-funded wallet"
+    },
+    {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 3rE3zKrnRwBKzyw4mzD9p9xGKwoatgUAdbJ3jsZMeizjrAwQW7o7xYdtBrotbaXMUSgPnrzR9un1cVsZgKX9oVjV",
+      "detail": "Latest tx 5AF9111Gi4fPB1MCHeNPtJQ5W4tbRPeJN9vzR3PmorEjUAZbm4zpsxuUJ2BaUHTh2YEEmfN4vcri3Kcixrdjnr6W",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     },
     {
-      "action": "USAGE SIGNAL",
-      "detail": "86 -> 87",
-      "key": "launches",
-      "severity": "INFO",
-      "title": "New Hooked launches"
+      "action": "REVIEW TRANSACTION",
+      "detail": "Latest tx 5twEbi4BXazeYCVRce5S1bBzkWvcDqWEfGkaWMWk1tkHYxCLvE7Aanb9bkRDYT713KKAcpsvLknPHXfskgsnh17P",
+      "key": "upgrade_activity",
+      "severity": "HIGH",
+      "title": "Upgrade authority wallet has new activity"
     }
   ],
   "issue": {
-    "number": 5,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/5"
+    "number": 7,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/7"
   },
   "telegram": {
     "error": "telegram secrets not configured"
