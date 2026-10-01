@@ -1,39 +1,39 @@
 # HOOKED Watch - Latest
 
-Checked: **2026-10-01T07:39:15+00:00**
+Checked: **2026-10-01T14:46:55+00:00**
 
 ## Position
 - Entry reference: **1,000 USD at ~950,000 USD MC**
-- Current MC: **1,315,717 USD**
-- MC vs entry: **+38.5%**
-- Rough value if token amount unchanged: **1,385 USD**
+- Current MC: **2,253,147 USD**
+- MC vs entry: **+137.2%**
+- Rough value if token amount unchanged: **2,372 USD**
 
 ## Market
-- Price: **0.00133300 USD**
-- Liquidity: **158,929 USD**
-- 24h volume: **786,205 USD**
-- Top pair 1h buys/sells: **215 / 310**
+- Price: **0.00228400 USD**
+- Liquidity: **279,943 USD**
+- 24h volume: **1,490,011 USD**
+- Top pair 1h buys/sells: **199 / 219**
 
 ## Token / security
-- Supply: **986,144,890 HOOKED**
-- Burned from 1B ref: **13,855,110 HOOKED**
+- Supply: **985,647,237 HOOKED**
+- Burned from 1B ref: **14,352,763 HOOKED**
 - Mint authority: **None**
 - Freeze authority: **None**
 - Creator direct balance: **0**
 - RugCheck graph insiders: **12**
-- Top-10 holder concentration: **24.80%**
+- Top-10 holder concentration: **24.27%**
 
 ## Product
-- Launches detected: **89**
+- Launches detected: **93**
 
 ## Alerts this run
-- **[HIGH] Market cap moved +137.4%** - 554,240 USD -> 1,315,717 USD - Action: **REVIEW PROFIT / RISK**
-- **[MEDIUM] Supply fell by 331,230 HOOKED** - Current supply 986,144,890; cumulative burn ~13,855,110 - Action: **THESIS STRENGTHENED**
-- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 5NurU9d7MuDdi16jQ3NVVPpvKAXjvMFRt5PWo4cUsS1GErz9iGmqGBZ8ZNEBpkpi5bniR1gkX68qY63kNJJ9pjbp - Action: **REVIEW TRANSACTION**
-- **[MEDIUM] New flywheel burn** - 211,695 HOOKED burned - Action: **THESIS STRENGTHENED**
-- **[INFO] New Hooked launches** - 87 -> 89 - Action: **USAGE SIGNAL**
-- **[HIGH] Program account data changed** - surfaced_8 2Uc67biy74MqqKogKEFGNR39h8gGWDESBfg9Tyc94Whx - Action: **REVIEW UPGRADE**
-- **[HIGH] Program account data changed** - surfaced_9 2WsdXUpABzpXbiPcKrDYypdgzr2EybGorWFHBDXYtSGx - Action: **REVIEW UPGRADE**
-- **[HIGH] Program account data changed** - surfaced_10 2XGv25bbj6hEsPgU1huUZsrkGrjPWdJRcXJhKoTfESHw - Action: **REVIEW UPGRADE**
+- **[HIGH] Market cap moved +71.2%** - 1,315,717 USD -> 2,253,147 USD - Action: **REVIEW PROFIT / RISK**
+- **[MEDIUM] Supply fell by 497,653 HOOKED** - Current supply 985,647,237; cumulative burn ~14,352,763 - Action: **THESIS STRENGTHENED**
+- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 5t1r8MM3v6SoYJNdVp9GSX2dEwx3MqJT55mnHuJAYFDGRET8fBdB5SJKjKb9FpYvwerQNocFuanzvzmPeHwu2BqW - Action: **REVIEW TRANSACTION**
+- **[MEDIUM] New Hooked launches** - 89 -> 93 - Action: **USAGE SIGNAL**
+- **[HIGH] Program account data changed** - surfaced_4 29WShQxH8PpQdtEmyQpdQycPEMQu8AbejubT5zupzqBA - Action: **REVIEW UPGRADE**
+- **[HIGH] Program account data changed** - surfaced_8 2TkJso9xYQjCJXCe6PVskoZeVHfYQbhg39WTdFFuXXh8 - Action: **REVIEW UPGRADE**
+- **[HIGH] Program account data changed** - surfaced_9 2Uc67biy74MqqKogKEFGNR39h8gGWDESBfg9Tyc94Whx - Action: **REVIEW UPGRADE**
+- **[HIGH] Program account data changed** - surfaced_10 2WsdXUpABzpXbiPcKrDYypdgzr2EybGorWFHBDXYtSGx - Action: **REVIEW UPGRADE**
 
 _Monitor only. No automatic trading._
