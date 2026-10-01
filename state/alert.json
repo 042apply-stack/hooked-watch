@@ -1,66 +1,115 @@
 {
-  "checked_at": "2026-10-01T14:46:55+00:00",
+  "checked_at": "2026-10-01T20:06:46+00:00",
   "events": [
     {
       "action": "REVIEW PROFIT / RISK",
-      "detail": "1,315,717 USD -> 2,253,147 USD",
+      "detail": "2,253,147 USD -> 7,130,153 USD",
       "key": "mc_move",
       "severity": "HIGH",
-      "title": "Market cap moved +71.2%"
+      "title": "Market cap moved +216.5%"
     },
     {
       "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 985,647,237; cumulative burn ~14,352,763",
+      "detail": "Current supply 977,985,389; cumulative burn ~22,014,611",
       "key": "burn",
-      "severity": "MEDIUM",
-      "title": "Supply fell by 497,653 HOOKED"
+      "severity": "HIGH",
+      "title": "Supply fell by 7,661,847 HOOKED"
+    },
+    {
+      "action": "REVIEW LINKED WALLETS",
+      "detail": "12 -> 17",
+      "key": "insider_growth",
+      "severity": "HIGH",
+      "title": "Insider graph expanded"
+    },
+    {
+      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
+      "detail": "4BVLfyKKb4YHDhScADscYVJ7ie9jG9i7t8KxdkVm7YU9 55.00% -> 0.00%",
+      "key": "lp_unlock:4BVLfyKKb4YHDhScADscYVJ7ie9jG9i7t8KxdkVm7YU9",
+      "severity": "CRITICAL",
+      "title": "LP locked percentage fell materially"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 5t1r8MM3v6SoYJNdVp9GSX2dEwx3MqJT55mnHuJAYFDGRET8fBdB5SJKjKb9FpYvwerQNocFuanzvzmPeHwu2BqW",
+      "detail": "Latest tx 4fgvwixovVBcZPEsPPmcDQq5PjZrdHy5JZwxzoZ2XB5Tfp4uhtLoKN9tnjWHUGjsdpkbGBAxz3oZVuvLVHsS4C6K",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     },
     {
+      "action": "REVIEW TRANSACTION",
+      "detail": "Latest tx 25KTsqa8uvwhBbipNj5qYi9kHMo2oUQbjN2RuvotV3XqDsVxMnjuydYbDHF2pBLgtjCNk5VMFcDJShJYTPGrFihE",
+      "key": "upgrade_activity",
+      "severity": "HIGH",
+      "title": "Upgrade authority wallet has new activity"
+    },
+    {
+      "action": "THESIS STRENGTHENED",
+      "detail": "352,454 HOOKED burned",
+      "key": "burn:3WB2JSc9UAcjX6t9Jrt3AA3YRQEjz8vELdR1cs2jRjXRoxHkvUvM5owBtHGxSycAR3v6dci9cCNKvkjs1JLrDKLh",
+      "severity": "MEDIUM",
+      "title": "New flywheel burn"
+    },
+    {
       "action": "USAGE SIGNAL",
-      "detail": "89 -> 93",
+      "detail": "93 -> 219",
       "key": "launches",
       "severity": "MEDIUM",
       "title": "New Hooked launches"
     },
     {
       "action": "REVIEW UPGRADE",
-      "detail": "surfaced_4 29WShQxH8PpQdtEmyQpdQycPEMQu8AbejubT5zupzqBA",
-      "key": "progchg:29WShQxH8PpQdtEmyQpdQycPEMQu8AbejubT5zupzqBA",
+      "detail": "surfaced_1 12ypsCgFnKHH2Ux9Dn8B1NgsoHWY92cVrkRjAK1oBsYg",
+      "key": "progchg:12ypsCgFnKHH2Ux9Dn8B1NgsoHWY92cVrkRjAK1oBsYg",
       "severity": "HIGH",
       "title": "Program account data changed"
     },
     {
       "action": "REVIEW UPGRADE",
-      "detail": "surfaced_8 2TkJso9xYQjCJXCe6PVskoZeVHfYQbhg39WTdFFuXXh8",
-      "key": "progchg:2TkJso9xYQjCJXCe6PVskoZeVHfYQbhg39WTdFFuXXh8",
+      "detail": "surfaced_3 243mUJSidaDFvKa1gnf2Zvb3mRBT9Q85wGrtXZcTaS7e",
+      "key": "progchg:243mUJSidaDFvKa1gnf2Zvb3mRBT9Q85wGrtXZcTaS7e",
       "severity": "HIGH",
       "title": "Program account data changed"
     },
     {
       "action": "REVIEW UPGRADE",
-      "detail": "surfaced_9 2Uc67biy74MqqKogKEFGNR39h8gGWDESBfg9Tyc94Whx",
-      "key": "progchg:2Uc67biy74MqqKogKEFGNR39h8gGWDESBfg9Tyc94Whx",
+      "detail": "surfaced_4 24g27U5hP41P1s9v81gZQNBUyz1Rv1739tBRJFQs1fJt",
+      "key": "progchg:24g27U5hP41P1s9v81gZQNBUyz1Rv1739tBRJFQs1fJt",
       "severity": "HIGH",
       "title": "Program account data changed"
     },
     {
       "action": "REVIEW UPGRADE",
-      "detail": "surfaced_10 2WsdXUpABzpXbiPcKrDYypdgzr2EybGorWFHBDXYtSGx",
-      "key": "progchg:2WsdXUpABzpXbiPcKrDYypdgzr2EybGorWFHBDXYtSGx",
+      "detail": "surfaced_5 24pAVFQ1NZLFaGXMGMifLc5GFJpmtChwNT3srwVk5y3K",
+      "key": "progchg:24pAVFQ1NZLFaGXMGMifLc5GFJpmtChwNT3srwVk5y3K",
+      "severity": "HIGH",
+      "title": "Program account data changed"
+    },
+    {
+      "action": "REVIEW UPGRADE",
+      "detail": "surfaced_6 25N88W7kKELMZq9EjfZe9S1Cxwkdp6UTcjPCQXS9gT35",
+      "key": "progchg:25N88W7kKELMZq9EjfZe9S1Cxwkdp6UTcjPCQXS9gT35",
+      "severity": "HIGH",
+      "title": "Program account data changed"
+    },
+    {
+      "action": "REVIEW UPGRADE",
+      "detail": "surfaced_8 25vGgy5fsjxN9jLF9QQ5Tqf6fVKdLpz1X7muLcspvLXh",
+      "key": "progchg:25vGgy5fsjxN9jLF9QQ5Tqf6fVKdLpz1X7muLcspvLXh",
+      "severity": "HIGH",
+      "title": "Program account data changed"
+    },
+    {
+      "action": "REVIEW UPGRADE",
+      "detail": "surfaced_9 27WeB9oXT5ptdcyNfFGPnTpLrh9zX7PoNY6iHSM6H5ME",
+      "key": "progchg:27WeB9oXT5ptdcyNfFGPnTpLrh9zX7PoNY6iHSM6H5ME",
       "severity": "HIGH",
       "title": "Program account data changed"
     }
   ],
   "issue": {
-    "number": 11,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/11"
+    "number": 12,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/12"
   },
   "telegram": {
     "error": "telegram secrets not configured"
