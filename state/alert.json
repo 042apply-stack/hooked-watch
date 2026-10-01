@@ -1,24 +1,24 @@
 {
-  "checked_at": "2026-09-30T22:28:28+00:00",
+  "checked_at": "2026-10-01T01:28:00+00:00",
   "events": [
     {
-      "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx D6UQn87Rb1r3Cjey6PPzHT8N4ExfvDyQ4an9o3jQKHydMBHpqGtfmeFKz8zRK1fB1wdzMj8FrNtunBSaGxhuejK",
-      "key": "creator_activity",
-      "severity": "HIGH",
-      "title": "Creator/deployer wallet has new activity"
+      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
+      "detail": "4BVLfyKKb4YHDhScADscYVJ7ie9jG9i7t8KxdkVm7YU9 55.00% -> 0.00%",
+      "key": "lp_unlock:4BVLfyKKb4YHDhScADscYVJ7ie9jG9i7t8KxdkVm7YU9",
+      "severity": "CRITICAL",
+      "title": "LP locked percentage fell materially"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 2UoBw91xDnuQVmUkjpxEcHsds1oXSLNKBBmHdz9ABJDyzUW8MQcdAsQhnFqRQBW89qVYCHVf9BoEy2ckC9Juc7ZM",
-      "key": "upgrade_activity",
+      "detail": "Latest tx 3ZB4iJd1Ej6LvkCUXCTmiP5jj1eXzhNLHxw9jsNtQwz5vAYac7VV32u37sZQwNFhesuNjJF6YBAqHws8LYRcgLJ1",
+      "key": "creator_activity",
       "severity": "HIGH",
-      "title": "Upgrade authority wallet has new activity"
+      "title": "Creator/deployer wallet has new activity"
     }
   ],
   "issue": {
-    "number": 8,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/8"
+    "number": 9,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/9"
   },
   "telegram": {
     "error": "telegram secrets not configured"
