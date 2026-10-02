@@ -1,4 +1,5 @@
 name: NPC Whale Graph
+# rerun-v1: 2026-10-02
 on:
   push:
     paths:
