@@ -1,0 +1,28 @@
+name: NPC Launch Deployer
+on:
+  push:
+    paths:
+      - '.github/workflows/npc-launch.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  trace:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Trace launch
+        env:
+          SOLANA_RPC_URL: ${{ secrets.SOLANA_RPC_URL }}
+        run: python3 tools/npc_launch.py
+      - name: Commit report
+        run: |
+          git config user.name "npc-trace-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add trace/npc_launch.json
+          git commit -m "Add NPC launch report" || exit 0
+          git pull --rebase
+          git push
