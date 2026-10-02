@@ -1,0 +1,470 @@
+{
+  "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH": {
+    "signatureCountFetched": 183,
+    "newest": "2026-10-02T09:30:12+00:00",
+    "oldest": "2026-08-31T04:47:03+00:00",
+    "sampledNativeTransfers": [
+      {
+        "time": "2026-09-13T12:08:40+00:00",
+        "signature": "pPkJG2Gr1cRWR138HJLcwbTxTh3TnovK2aH1CALi848TLJSF8qA5nYD2gMNqjocWTy6tLydGW3LzcW9FYFYuJzf",
+        "source": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "destination": "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH",
+        "sol": 0.003010684,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-14T12:32:13+00:00",
+        "signature": "r4qFJC8XyggP3UiK6omcVKXXeaB2toSfCKPydcJCTEf8CELYnnZjEhNb6ndiSGN6yA5kG76Jz84RwYLZSTistcK",
+        "source": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "destination": "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH",
+        "sol": 0.00406558,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-15T12:45:05+00:00",
+        "signature": "3u4NWufpFwSejntFSJAHsyKJztkLujUA6drELTAomaKzQjYZukb17Lrb5u4VSjvdy8FXV8fpYLDdF5Q9QXXq55AN",
+        "source": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "destination": "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH",
+        "sol": 0.019552195,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-16T00:50:36+00:00",
+        "signature": "RYFez2cPZikk3VdtEBUTigcLJjqGd2x2LaHUbasTegctikXHPETYHkfrK4f19s3Qt5nPSHvvq8FTA9Ho31jP4Y1",
+        "source": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "destination": "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH",
+        "sol": 0.008629588,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-16T12:54:47+00:00",
+        "signature": "4yRLMcCtB9rMXNNRsN2cBSfk8tCsJzdVax3W6a27VhJ2GJVUZmyBXgHNP18zQ7M1iMmysPfqcuw7cDYGTRwZGBxF",
+        "source": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "destination": "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH",
+        "sol": 0.002966006,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-17T01:09:50+00:00",
+        "signature": "2Sr3pSW5Bif1JAzvCAgeSiWPFrEXW8HUy67o8H5WxnnCngNMB3kSyFo8Z7BtLJLZ8DXXXs2bq6X8GkYqSMrBmR5c",
+        "source": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "destination": "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH",
+        "sol": 0.016319625,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-18T20:15:54+00:00",
+        "signature": "22zDu4aQHDbuXpAHLnJwLpcbRjEdANfKRQhxaGZdgKqDxoJYs3KmpBA3sEu4QVPspLhaAtHbrgNJvt4weYgBGW2W",
+        "source": "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH",
+        "destination": "7iVCXQn4u6tiTEfNVqbWSEsRdEi69E9oYsSMiepuECwi",
+        "sol": 0.00148844,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-19T05:27:08+00:00",
+        "signature": "5r2xxenTs1LsA2QZpZcfimNG8DWN6BGjHomuQQL2ZmcieuvxbU3Krx42GmJycgQbjFoYfFe6bjuMZJm8HuRRc4ab",
+        "source": "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH",
+        "destination": "7iVCXQn4u6tiTEfNVqbWSEsRdEi69E9oYsSMiepuECwi",
+        "sol": 0.00148844,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-20T07:36:33+00:00",
+        "signature": "23WnfCFT2Jujwrci9tTM89E9bbsnUhwfzzotsFqgLSvkSbsJfxFwRmA7vv5ZwjrHkaaEzD5yLpmYpPYvqL87ZJYT",
+        "source": "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH",
+        "destination": "7iVCXQn4u6tiTEfNVqbWSEsRdEi69E9oYsSMiepuECwi",
+        "sol": 0.00148844,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-22T19:30:18+00:00",
+        "signature": "ctrKusDwkRev2HhzGiWbHik6ebhTGSYUyQmU4wg5k3nAavxtYtdgfw9Z2FKTNhpg2RNSJ8k9212KExR6ezvmAUN",
+        "source": "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH",
+        "destination": "7iVCXQn4u6tiTEfNVqbWSEsRdEi69E9oYsSMiepuECwi",
+        "sol": 0.00148844,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-22T22:11:26+00:00",
+        "signature": "3dnbrLsHa3nSKRFWSmXtSg6WJoSiLzYuUbVnjzSbbCnEfXnjP79o9aKu4tFj8gKDb8XbwrXV4bqqDhFhNsoXsgK3",
+        "source": "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH",
+        "destination": "7iVCXQn4u6tiTEfNVqbWSEsRdEi69E9oYsSMiepuECwi",
+        "sol": 0.00148844,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-25T14:25:21+00:00",
+        "signature": "qeYTpq2GFbtvLFC4751sqjg7431D6tKVqWxmyEswo7r8J6fy1V3Re6fhX28RzCYTb6NYxzfdeiLivzK45rx7U8c",
+        "source": "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH",
+        "destination": "7iVCXQn4u6tiTEfNVqbWSEsRdEi69E9oYsSMiepuECwi",
+        "sol": 0.00148844,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-25T16:25:06+00:00",
+        "signature": "4dBz24y4wCjswb8Z6fbapkreY8kN6CmDvb8YSkiyRbKS2va3RHiyNSDVSUov1aNa6bztBBRPBEBzKKBgY22aSpJv",
+        "source": "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH",
+        "destination": "7iVCXQn4u6tiTEfNVqbWSEsRdEi69E9oYsSMiepuECwi",
+        "sol": 0.00148844,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-30T17:16:04+00:00",
+        "signature": "3DZVTmFEQj7o92SidSLeQUi9LEdtnXKVPaj1WKAv86UH2aQhBAFZr2RvGVbZ8DN4wCA7WTTQwth9UGXKDYyWqNgm",
+        "source": "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH",
+        "destination": "7iVCXQn4u6tiTEfNVqbWSEsRdEi69E9oYsSMiepuECwi",
+        "sol": 0.00148844,
+        "counterpartyKnown": true
+      }
+    ],
+    "solBalance": 0.243989734,
+    "accountProgramOwner": "11111111111111111111111111111111"
+  },
+  "4aVR9rGRVt9q5jAVfxHPnE75bN6uW6bBFM2mwkjz7hbi": {
+    "signatureCountFetched": 2,
+    "newest": "2026-10-02T08:25:47+00:00",
+    "oldest": "2026-10-01T20:42:47+00:00",
+    "sampledNativeTransfers": [
+      {
+        "time": "2026-10-02T08:25:47+00:00",
+        "signature": "hQe9Zw1QJexY55VEMeRRKh4VYe9Xw5jbiFFEdLSP7bQca4ciVpMWg5TxtzeKff8cDNDib8YbGNXR9dJ9Jbi9vhq",
+        "source": "cK6c44U2Wo4imKhkFibtiF5mCHPtAXKhbCX7AjaP2M9",
+        "destination": "4aVR9rGRVt9q5jAVfxHPnE75bN6uW6bBFM2mwkjz7hbi",
+        "sol": 0.405523078,
+        "counterpartyKnown": true
+      }
+    ],
+    "solBalance": 0.405523078,
+    "accountProgramOwner": "11111111111111111111111111111111"
+  },
+  "BZBPNij3AaVsk2zogTKYFnAHmRjw9ZEYJoWzakgQbRN9": {
+    "signatureCountFetched": 45,
+    "newest": "2026-09-25T16:16:52+00:00",
+    "oldest": "2026-09-05T01:51:09+00:00",
+    "sampledNativeTransfers": [
+      {
+        "time": "2026-09-05T16:56:09+00:00",
+        "signature": "5NJKnufa8vjVGYnjo9LF56U33mMJLAjeR4tKZpTa9XfhxJtWpWY4H1SCKhPo3e8vtcho5VEnioMoGv2Pdhoffe8t",
+        "source": "BZBPNij3AaVsk2zogTKYFnAHmRjw9ZEYJoWzakgQbRN9",
+        "destination": "6x8RjWf3CMzi9G1q5Bpmddb1gdrsuP5mmdH4MpHAJjkc",
+        "sol": 0.150473897,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-18T04:43:16+00:00",
+        "signature": "2NoveiocYRYHsshy3YhcCfxG2ig9hrXBEPJ7EUDB2JDjZHgwahdvutKrQuwZJJR3FZNUZRNcGBNTesa3T3omtAfj",
+        "source": "HrXANCJz7A7oXP4SzSvajpJPozco1bt7m78Qt44Q7tDq",
+        "destination": "BZBPNij3AaVsk2zogTKYFnAHmRjw9ZEYJoWzakgQbRN9",
+        "sol": 0.000127973,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-18T04:56:28+00:00",
+        "signature": "21o8LXTcrYzKKgdxB7MFMx2LpoZXmoC6GouZYZm8yFq7bs6Rw61cCJ5YodVRzwsPpeakdzxm7PfHN8JRFqZSTePs",
+        "source": "HrXANCJz7A7oXP4SzSvajpJPozco1bt7m78Qt44Q7tDq",
+        "destination": "BZBPNij3AaVsk2zogTKYFnAHmRjw9ZEYJoWzakgQbRN9",
+        "sol": 0.000256884,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-18T05:11:26+00:00",
+        "signature": "2f92D4T9iPYwSZjDWVJe49vkRF41xq3EZWQG7o4XShustf4tsibBL2BgrjT934LvJZnyorUQUGzZpqxraxiArXfc",
+        "source": "HrXANCJz7A7oXP4SzSvajpJPozco1bt7m78Qt44Q7tDq",
+        "destination": "BZBPNij3AaVsk2zogTKYFnAHmRjw9ZEYJoWzakgQbRN9",
+        "sol": 0.000245679,
+        "counterpartyKnown": true
+      }
+    ],
+    "solBalance": 0,
+    "accountProgramOwner": null
+  },
+  "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk": {
+    "signatureCountFetched": 10000,
+    "newest": "2026-10-02T08:27:49+00:00",
+    "oldest": "2026-09-30T16:11:00+00:00",
+    "sampledNativeTransfers": [
+      {
+        "time": "2026-09-30T16:11:00+00:00",
+        "signature": "5yGZs2sfQDz5BQGgBRqEeWLogh1Z3kBtHn7rrh3svUc1VYp295auj9nTyHb9twMHqT5dUFTcoRvsAKvVFDMEEZn1",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000630546,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-30T16:11:00+00:00",
+        "signature": "FpEa9ejr7mVNuRMqncdKMHhKRjNSmrNP8nnCUmoVakFjxBZHnj9Fn5q5A9JAoZJ5o5L3qpEfeyAngFkj9XewA6e",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000586459,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-30T16:11:00+00:00",
+        "signature": "2q6uom96WzFnJzN3yX9Lkr3zsxGZ79AsCLzvtd2UR6SGiWqLn9K4ixCXbmbiaAX2k7nSoPbtscx3EpvbBwFQTFB5",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.022138447,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-30T16:12:20+00:00",
+        "signature": "2Lk8vtcLNpMiMYK9zzWgmy4PrDgSV81p7knVEpGhp5nKh7p2ozTrLVtSHYSVdmRmzNmC3wanoJjD7w878pjg5FC4",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000737045,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-30T16:21:19+00:00",
+        "signature": "3CiYuPkkEAAAiCEd5wZeSyaxhH3FK5taQWPARBKr3DkqMthpizTnqu7BwXVo7zwMhmXNyPoBoKhfpEizMtYmmtr1",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.00029105,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-30T16:22:39+00:00",
+        "signature": "F2qDT8NJnJEEna8Ny5FFZuC2AtYiCUDtXggAgsFwqEzbawwEvSU6ebqVST5LvtLNMKbEugb2JTZe3txqmFRMpqr",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000289118,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-30T16:43:04+00:00",
+        "signature": "3auY2xJi5qEgRXoiaXtnzMDcYy3mCzFCwrjKwAogoQnGr9TcbD2pKhVCcExsNLYvfTahvMTFAbhiwjVseDN3ZmAN",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.0130677,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-09-30T16:44:11+00:00",
+        "signature": "5ZC6Wsm27NTfPGQZfvMabXswCwb92upHLZ1D48fHf9C2DZhe119u2NfQ612GqajLFyAX2qEgwur7SNr5cXS1ndwF",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.964707553,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:20:36+00:00",
+        "signature": "2q5AhUKdrnRfhu1E7yBhkFDLzuMBPyjp6FrL5q61SAVjGSDEwRtxFNLZTxqExZNQkVboEpyipVyE1haZBSfcu8Mn",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000293249,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:20:36+00:00",
+        "signature": "r5Ce4r1LPMtWPdTgPMwUwcg3wru7h9sDWoFNwJ6h2P5kFockoq7TqrW4ZbCEtAcnUMmKwRgo9bMr7y8V3FrFLfz",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000289159,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:20:36+00:00",
+        "signature": "5hiYWJBD89TUeiEb7GVAY6HWm8cuhGKdR4DoEAG2GKhHmY58jjR9vmAUCVkTkYGDtRcGvzXTyGWwxiaP8ii6CuQU",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.00013861,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:20:36+00:00",
+        "signature": "aPx86xwWbD1TanahwKHJaWX2aUPb5s2QVyjDwThEFK7B6TmABGsobez1gDPwTqikAgHxJB57CkkepDRrv1K8Puu",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.010136964,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:20:36+00:00",
+        "signature": "3PJRZC92ALnuNJ9QgJMAeQfcDJsPnmQ1abvfXx7qAXWDtNfjoMitJ7YVMwDurCTnYLupe9aVPSquZSG6ggjG98wb",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.003762371,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:23:05+00:00",
+        "signature": "5S29hgZwvRiSdBTjoS4iA9QtpazvcVc1tESBxNBaq5TAfMxdhu2srqsZwqkG4edAYg662Jf1bsNLxY8Q9hMXgmQo",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000131317,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:23:05+00:00",
+        "signature": "3ms7UVFYnesnLoqrPSvdmDbgrPWyunmkWwDxEasjfoYo5XooM1ymXUrzutsuaUafaSiQ17Hu1eZVBE7sEiNkZdZo",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.00181296,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:23:05+00:00",
+        "signature": "8bFdLEPHhZN1L2GqLkcDdjQ1FTpQNUgKYKu7vx9UEUUugoy4RGhKaZrAd1mZvBvPnq9TS7qxyLmTHEvNPfe5F7B",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.006548848,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:23:05+00:00",
+        "signature": "2xVFQj4qrQ8j58EDq8o5NvseCTznB8L8iooUKFNbB9buZk3wFC55YXZr77NShrKLW8rV2TBxkxH62QZqrFNWGFkG",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.022437614,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:23:05+00:00",
+        "signature": "4ZTMs4qH9xQeGV2tafpVCo2pf2GhUob7mdQedmNckY7jrQRFVgPi3rDb9ktAbvqW65uPULj2hvHtAnj2JYpXGXNu",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.002908516,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:26:50+00:00",
+        "signature": "2m6nAkk3jzcb26Jx9ZDum7g823wrb68sxEQPp1z3LJvCHxVeHmM7QWwJf82Uu1ZANn6bkiJ1TGdTXkSvUwu2FfE4",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000395286,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:27:49+00:00",
+        "signature": "5aWC6NMqgFNrFqni9DYm5EmcQGyBCnZ9xT4x63UJ3CDz2Cd7jQFQ4vTKiY68ccXXHahYiN99zNsdYSGAHRVfYGPs",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000791063,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:27:49+00:00",
+        "signature": "bxo5uqCLtWzB46cP3dBhTAg42g24jEQsLp4xEDNW1kVNjVFqBWmqaASutu5iwApMEA8TLK9ceGPn42CYyoFwqb3",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000456425,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:27:49+00:00",
+        "signature": "rEQAg3cTtgiXWn3ouje9EPZBqut1FXxFzoH8yf1hKpCYZzHwpgYmh7BboJFQt4vhR3LNW2wUAw73VRxkvdzVCnZ",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000348894,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:27:49+00:00",
+        "signature": "48CdWrPa6wpsKTPKux9EhsvBf8f6ujiBHXA6DEKWvN9vZjkQGNo3NnsLzj3sPqpvPS6Wz2KcsD5M7x6x3uXP4kiX",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.024635022,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:27:49+00:00",
+        "signature": "3kKWUUDirCz3QCNyBWiKybz3uBJSwr1YAzW9hMrG3ssxJb3cb49Uzuwh9n9KVbJ9iE2BYDUZjYi7VnGchod15fqh",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000425083,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:27:49+00:00",
+        "signature": "4b38bcUrDffFPpRe2subPpEi6qtUKNq7gYGeUNUv93MeQiJhESAzugL4GBh5MSLckv4ZpFcrFZ1anMhkhXNUebmr",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.005806688,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:27:49+00:00",
+        "signature": "2CXLBAY3jHfJPJNpbAwQR8fmMXB3eB3m8zeRyrHHNnmc5ZCcYWDatVWFtK2oTAKZUg95xni7JjsAFa32DVM2c9uU",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000165419,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:27:49+00:00",
+        "signature": "3ve24Uzyn1uPdgFXST4jVagXyTkzAUC8bBLDyeAbdPb9R2CB8tfdCV7vsAh9LrZ3A84EUkZ4b4NUAUPxDcJLHw7B",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000758112,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:27:49+00:00",
+        "signature": "5uszsx8QDNw5aoKL8qyJrTg47oZDUjb1zAXiV6CSUki7KN7xYRVebb8V2FFehrxaFXzuq3A4fwgwZtKWNEkCWPmZ",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.011285487,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:27:49+00:00",
+        "signature": "3N9jfa4xTtBdTZpJXpVwguBsjsnrcnH3oNCpsZ3J8f1KBMPu7ygR81DiaBL3VZ9LySSTeks4ZhbjXzuLLhrCBs8J",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000240636,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:27:49+00:00",
+        "signature": "2gV76GMAjbTU77fRrPMBo8zApn9w6ybNSx8m1uowKikyUqNz3FBuvvxAJ9Fm4NG4rAZoH6V5Q744uDoUWtbRBkBb",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000108082,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:27:49+00:00",
+        "signature": "Ue8Qvcb9onz9W2cnC2PpwGF2eav1EhUv1T3VHfHvxBgiYxRxJ5CksrYsqNzyfBVGMceuSjNAAjhPp94maFfkYRd",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000157131,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:27:49+00:00",
+        "signature": "5aDdYAfnAxBpYBqGFpE88KR4mXECoiBSX2wsCgDb5LzBC7PKi8mL2kFinq6ZExfoSYK4ufAcx9uUGiCwLM88yS35",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000101215,
+        "counterpartyKnown": true
+      },
+      {
+        "time": "2026-10-02T08:27:49+00:00",
+        "signature": "5N7FTYCBwr8SrhRkE4h8GgMTYnYUhdXWwQRPK99phzhUYWqVTNLhhVCq65PCocH52jF7pggwtLPJFPeQ7uw3Lc6T",
+        "source": "2k5hrzuykwyTbUe8L7UriYAQhr5hijNLgBvEB4B9pP5y",
+        "destination": "94v857jGb4z4nWEKqGizrNM9gD68n2Wnfot6dbbtLVnk",
+        "sol": 0.000135675,
+        "counterpartyKnown": true
+      }
+    ],
+    "solBalance": 1.861339265,
+    "accountProgramOwner": "11111111111111111111111111111111"
+  },
+  "542RqmbGmMHxvw5bLtbiGyVu4pBuKLw3dBkZ4AcB5Kix": {
+    "signatureCountFetched": 10000,
+    "newest": "2026-10-02T10:21:40+00:00",
+    "oldest": "2026-08-11T15:19:03+00:00",
+    "sampledNativeTransfers": [],
+    "solBalance": 108.639025029,
+    "accountProgramOwner": "11111111111111111111111111111111"
+  },
+  "8eEWHgnSmx48ZYo8czQLY1xznBLCJfdRQEq5vURJYi6P": {
+    "signatureCountFetched": 10000,
+    "newest": "2026-10-02T10:28:32+00:00",
+    "oldest": "2026-08-11T17:06:07+00:00",
+    "sampledNativeTransfers": [],
+    "solBalance": 108.267246712,
+    "accountProgramOwner": "11111111111111111111111111111111"
+  }
+}
