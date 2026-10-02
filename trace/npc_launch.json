@@ -1,0 +1,3688 @@
+{
+  "mint": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+  "signatureCount": 1000,
+  "newest": "2026-10-02T10:30:24+00:00",
+  "oldest": "2026-10-02T06:00:45+00:00",
+  "oldestRows": [
+    {
+      "time": "2026-10-02T06:00:45+00:00",
+      "signature": "4oSw1W2L2Q9BWXndNo162iX7inmX66Mjhaj45KetBRt2XKSrV1TpksBPTFuv3t94vJ7AziU3iJM7EgQEc5SPLtLQ",
+      "keys": [
+        {
+          "pubkey": "3fStH2LFcRVFcC2VqAYFHR9F3WN2vkbLsZKyQRG6D3sU",
+          "signer": true,
+          "writable": true,
+          "solDelta": 0.036950886
+        },
+        {
+          "pubkey": "6tknWeH5WGMPCtzuKB8LcH4psbn3MsRAcdtCq7FkLjg9",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "FnitRus3s4uNKDWuApnbE62A4SRvN9D1KZsZRE5on6Va",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "96gYZGLnJYVFmbjzopPSU6QiEV5fGqZNyN9nmNhvrZU5",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1e-05
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "jitodontfront111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "39FWQJxqTmUkFqHKjEs3CawQ1b1rqLcKmHfJ1FWMAWdu",
+          "signer": false,
+          "writable": true,
+          "solDelta": 3.7052e-05
+        },
+        {
+          "pubkey": "X5QPJcpph4mBAJDzc4hRziFftSbcygV59kRb2Fu6Je1",
+          "signer": false,
+          "writable": true,
+          "solDelta": 9.372e-06
+        },
+        {
+          "pubkey": "HjQjngTDqoHE6aaGhUqfz9aQ7WZcBRjy5xB8PScLSr8i",
+          "signer": false,
+          "writable": true,
+          "solDelta": 9.371e-06
+        },
+        {
+          "pubkey": "BRjMA8UALNp3diTKHfdeAn5riQrYPoaYez7KhYWD4oEs",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "FK1n9CbrtSZi4MgCdaJDmeA2WzdticQNkzR3DZjvSGxt",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "B5gyrrq2Bj76hhzZEN9v46mC4NBc4G869BPtKs21QepS",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.037409038
+        },
+        {
+          "pubkey": "75mhQAcZeGKiL3wcuuVjTjg2SHJewZuQpd59ukiG24yv",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.000337357
+        },
+        {
+          "pubkey": "So11111111111111111111111111111111111111112",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7hTckgnGnLQR6sdH7YkqFTAA7VwTfYFaZ6EhEsU3saCX",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5YxQFdt3Tr9zJLvkFccqXVUwhdTWJQc1fFg2YPbxvxeD",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "jitodontfront1111111111111111JustUseJupiter",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ADyA8hdefvWN2dbGGWFotbzWxrAvLW83WG6QCVXvJKqw",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "F2Ne1XNs5f7LQNBdfB5WE69AGunwjAa6akdVGfVXiZxY",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5PHirr8joyTMp9JMm6nW7hNDVyEYdkzDqazxPD7RaTjx",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GQy76sRyN9GfBZUhK7nQ7BayWBaxGf6j7jNd9o2yQKKJ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "11111111111111111111111111111111"
+      ],
+      "feeSol": 5.5e-05
+    },
+    {
+      "time": "2026-10-02T06:00:53+00:00",
+      "signature": "3N8NgnM2RNftTYyiCigQEaZRyXLdvrdNwdq7mAnajmkZUsfAcArWF5Le8MCXcMe25KkE5AxPyHGEfRVNFVXvNWjX",
+      "keys": [
+        {
+          "pubkey": "53MNAWf67SgVnqjmcwZ3ynYbGjVmAftpuLeL5Tez1nJT",
+          "signer": true,
+          "writable": true,
+          "solDelta": 0.001249789
+        },
+        {
+          "pubkey": "F2Ne1XNs5f7LQNBdfB5WE69AGunwjAa6akdVGfVXiZxY",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "75mhQAcZeGKiL3wcuuVjTjg2SHJewZuQpd59ukiG24yv",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.001254869
+        },
+        {
+          "pubkey": "AUR26KrgwHHJexXiQX6Fiv6n1ukoYmx9vUUSWCcXAKnS",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "So11111111111111111111111111111111111111112",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "31FSHEvoTogwRne8GVoTzDke69EeauzDGg7DYLMrY63f",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "EjuYpXBs3L6Dto2h8JXUbyuKb4nQpdA8xZpR4JP9yyd",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "Ce6TQqeHC9p8KetsN6JsjHK7UTZk7nasjjnr7XxXp9F1",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
+      ],
+      "feeSol": 5.08e-06
+    },
+    {
+      "time": "2026-10-02T06:03:05+00:00",
+      "signature": "5Ra5wNEDpZFdmJcSDxLXbZx8qs4ad3wa5sgbXiwZakyEyE42BsMwWDpkMS95BJ6kn4zZAEhv1Wx8HpgxYtz1v6Yj",
+      "keys": [
+        {
+          "pubkey": "7UbHHFtF43ypnGozxjBiAoFCojbxDJ3BjLcANhASXDBR",
+          "signer": true,
+          "writable": true,
+          "solDelta": -0.00906264
+        },
+        {
+          "pubkey": "2Y8o7GaxZBFLTikPBAd3tEyMFdDeLVEyo82b4WcmuB7T",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.00151384
+        },
+        {
+          "pubkey": "5Qa2bNZSfWZkAbk1isFCnoptwr2xahiYoZaDpN2Xd2PZ",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.00151384
+        },
+        {
+          "pubkey": "7nrRCZb3cjLbjRMSjUBBjuofUJVRF56QcpKoGSFcpJre",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.00148844
+        },
+        {
+          "pubkey": "9WVjrdcVgcZqXE9VCqiXCeDtXG6f5xECK4Zdhrwcyaau",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.00151384
+        },
+        {
+          "pubkey": "9maKKBayhhJ6GBYLvjZSXHzmvM6ugfkCes4eQzSkwAEw",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.00151384
+        },
+        {
+          "pubkey": "JBiZhZ5q2wcjJ7Ev7SKgidnwtzegJxyThekGfzoMBHe2",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.00151384
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5sD8hmitvDkDxbAjZF4CrX1NX8eA5Cwn8kK67tp9DevH",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "9rJsqPD1UqeXo1dgPybwTKm7Luga8bXVQ5A3EiYFhfeA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "AVBN6kXdaw27ySuvMevKYzNTL8d39b7sGQFDCmsvpump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "DkQYd9q2p7VSruiKhj54wu4F9CbyqruCRKFewg3dpump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "F458Huat36hKjLPc7dmL4uEixBAgX7fUjxWwnUEkpump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL"
+      ],
+      "feeSol": 5e-06
+    },
+    {
+      "time": "2026-10-02T06:04:25+00:00",
+      "signature": "5i1ZdpptD24gLnpoqy6thdE1TxkmiCXQqpskooiwXwUo6RxNjJjZCuaud1VyjBeCNBvi8TVUS1WbYCAkq9C647oW",
+      "keys": [
+        {
+          "pubkey": "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51",
+          "signer": true,
+          "writable": true,
+          "solDelta": -0.00041
+        },
+        {
+          "pubkey": "FJPX3PUiJvPgSnbwRzzRReK64tNfHUBEtzQXELmBGmQX",
+          "signer": true,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "2gz3NYFqyojPTfHAuA1qgUdGSLo5XyDxPw8YCyVGbhJd",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "6ywDF2EpkXa1Z3qn7JXfD6BZrJSQZwwFQ6wwMnbZ7PCe",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "8uFBqNYYfWkWtJw7gAN93aTMYpk8qXZbEbwC9DLjnEtY",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "AhSFBCAUGwTdB1YtqEAgu4TFnv4Gx8eWmm6ni3UnY6yJ",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ByfkbY6pJg5nJ59yVGBf8g76Q6hwJz4gfE1uxSKCnAK9",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "31u6Trjvb8RibaokKouRQ4a6iiNtgoqQxRnUqvoi7KJv",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "6b5LxeDVxqCGAhZjjjgieGP71c5GBt2cBwiafCFX6NMU",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "XRNgJkizFb5NsQdvZ5m6DZcEuHniqr6AkZrBghjKnJA",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.068605501
+        },
+        {
+          "pubkey": "7GFUN3bWzJMKMRZ34JLsvcqdssDbXnp589SiE33KVwcC",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1.7351e-05
+        },
+        {
+          "pubkey": "GYH1Gae1wJytMSvMvw8JVcv7nuAbxi8i9erNVbERnzXd",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1.7351e-05
+        },
+        {
+          "pubkey": "9WE61HgLksf8FRmn58ckHZxRMPU6byPUH1VrUXbDVdWm",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "HrTf9CzXR1dRH4Sof5QrpmGWwpwAf3qZzwCsEjQpXcSq",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "CQUfYBxF2KFVjYyCPyGa7JCFX9zw2PwmNnECzY3merGA",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "F2KCaXcp7AoQtxTDvNEDCyMyWjSCAMWNzcyN9dsPfPs5",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "H18xqLYd5uEenmiFKoXkgrTvyhnLgJMPT8sSvdZPpi3p",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "75mhQAcZeGKiL3wcuuVjTjg2SHJewZuQpd59ukiG24yv",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.000624633
+        },
+        {
+          "pubkey": "B5gyrrq2Bj76hhzZEN9v46mC4NBc4G869BPtKs21QepS",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.069264836
+        },
+        {
+          "pubkey": "BRjMA8UALNp3diTKHfdeAn5riQrYPoaYez7KhYWD4oEs",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "FK1n9CbrtSZi4MgCdaJDmeA2WzdticQNkzR3DZjvSGxt",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "4cG31VNF9TzFinNc7BmnjhFvGjxkY3sCETVMtMgbrhPs",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5cjcW9wExnJJiqgLjq7DEG75Pm6JBgE1hNv4B2vHXUW6",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5PHirr8joyTMp9JMm6nW7hNDVyEYdkzDqazxPD7RaTjx",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7VtfL8fvgNfhz17qKRMjzQEXgbdpnHHHQRh54R9jP2RJ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "8xeaWCsJYxRoudEZGJWURdfrtFhLYZz9b4iHJnW5tb3d",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ADyA8hdefvWN2dbGGWFotbzWxrAvLW83WG6QCVXvJKqw",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ALPHAQmeA7bjrVuccPsYPiCvsi428SNwte66Srvs4pHA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "BiSoNHVpsVZW2F7rx2eQ59yQwKxzU5NvBcmKshCSUypi",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "So11111111111111111111111111111111111111112",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "Sysvar1nstructions1111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "jitodontfront1111111111111111111TradeonFomo",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "9xPhpwq6GLUkrDBNfXCbnSP9ARAMMyUQqgkrqaDW6NLV",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "F2Ne1XNs5f7LQNBdfB5WE69AGunwjAa6akdVGfVXiZxY",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GQy76sRyN9GfBZUhK7nQ7BayWBaxGf6j7jNd9o2yQKKJ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+      ],
+      "feeSol": 0.00041
+    },
+    {
+      "time": "2026-10-02T06:05:16+00:00",
+      "signature": "2efkJsiWHypFSNqbmRTGqPGeD8X55XwEZ9xQYpwPPX2LbxuUoGyA6uY48nfUS6hKS9dvmhWiHkmURhuzGZ3xaEJ8",
+      "keys": [
+        {
+          "pubkey": "3bT5AL71EB5QpLW2ztLtRSxc5cZ6ASDzSc5b3eavZeWu",
+          "signer": true,
+          "writable": true,
+          "solDelta": -0.45074824
+        },
+        {
+          "pubkey": "sighWH8KaiT7QhtV4w29ReVF8kG6D5yG3EQP1KYyGVF",
+          "signer": true,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "27nucbY98HMCN5fJD9gogtfgWuhpiCV29PJ5DFnYiyeR",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "2Gc6R5vpGYSrGyFQcbittfVMbr41DMxv8aNVnCA1RrSD",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5SF7eCHQwQB1ogFCsFM2NxYSQLwg5XysSxLC17nuW5pG",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "EaUghZfmuhgtZEEwaZwX5EBroz4WyH8VM5NSXi4tam5A",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.000450735
+        },
+        {
+          "pubkey": "HjQjngTDqoHE6aaGhUqfz9aQ7WZcBRjy5xB8PScLSr8i",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.000111291
+        },
+        {
+          "pubkey": "X5QPJcpph4mBAJDzc4hRziFftSbcygV59kRb2Fu6Je1",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.000111292
+        },
+        {
+          "pubkey": "75mhQAcZeGKiL3wcuuVjTjg2SHJewZuQpd59ukiG24yv",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.004006491
+        },
+        {
+          "pubkey": "B5gyrrq2Bj76hhzZEN9v46mC4NBc4G869BPtKs21QepS",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.446055888
+        },
+        {
+          "pubkey": "BRjMA8UALNp3diTKHfdeAn5riQrYPoaYez7KhYWD4oEs",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "C2aFPdENg4A2HQsmrd5rTw5TaYBX5Ku887cWjbFKtZpw",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "FK1n9CbrtSZi4MgCdaJDmeA2WzdticQNkzR3DZjvSGxt",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5YxQFdt3Tr9zJLvkFccqXVUwhdTWJQc1fFg2YPbxvxeD",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7hTckgnGnLQR6sdH7YkqFTAA7VwTfYFaZ6EhEsU3saCX",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "jitodontfront11111111111JustUseJupiterU1tra",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "So11111111111111111111111111111111111111112",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5PHirr8joyTMp9JMm6nW7hNDVyEYdkzDqazxPD7RaTjx",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ADyA8hdefvWN2dbGGWFotbzWxrAvLW83WG6QCVXvJKqw",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "F2Ne1XNs5f7LQNBdfB5WE69AGunwjAa6akdVGfVXiZxY",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GQy76sRyN9GfBZUhK7nQ7BayWBaxGf6j7jNd9o2yQKKJ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "11111111111111111111111111111111",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+      ],
+      "feeSol": 1.2543e-05
+    },
+    {
+      "time": "2026-10-02T06:05:17+00:00",
+      "signature": "4EL8DtLzFDT4JuGd6WQSPcPauCSEjJVXmSTsagmsrPWAo8fwEk4HSVTYEyBRtCXP4rbV2x6G4NMNMqjnpZjLX1sG",
+      "keys": [
+        {
+          "pubkey": "53MNAWf67SgVnqjmcwZ3ynYbGjVmAftpuLeL5Tez1nJT",
+          "signer": true,
+          "writable": true,
+          "solDelta": 0.00462588
+        },
+        {
+          "pubkey": "F2Ne1XNs5f7LQNBdfB5WE69AGunwjAa6akdVGfVXiZxY",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "75mhQAcZeGKiL3wcuuVjTjg2SHJewZuQpd59ukiG24yv",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.004631124
+        },
+        {
+          "pubkey": "AUR26KrgwHHJexXiQX6Fiv6n1ukoYmx9vUUSWCcXAKnS",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "So11111111111111111111111111111111111111112",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "31FSHEvoTogwRne8GVoTzDke69EeauzDGg7DYLMrY63f",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "EjuYpXBs3L6Dto2h8JXUbyuKb4nQpdA8xZpR4JP9yyd",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "Ce6TQqeHC9p8KetsN6JsjHK7UTZk7nasjjnr7XxXp9F1",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
+      ],
+      "feeSol": 5.244e-06
+    },
+    {
+      "time": "2026-10-02T06:06:44+00:00",
+      "signature": "pgc4nJf5q9oFHgSPT8sG5rcVuZUzpKEZ24rP7u8X5b9j7wkqP4o4w4AbLRtRGFmwSHQeBinn2sKdmmgCnMDVgYf",
+      "keys": [
+        {
+          "pubkey": "EYvwg12vXcUN7pF1fASQZZgQ9RbVUMLjKqqCfi961ptw",
+          "signer": true,
+          "writable": true,
+          "solDelta": -6.157e-06
+        },
+        {
+          "pubkey": "3T5x87TMaVxNDiGjNfTn6BchFiNU4hkagMmvMcwnHSdy",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "8Zo3x55Q81YL8Bev6EPULCNmoGNtwCT58d1KswzRTvbQ",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "9hzszBFvXSd1ReZxW939Zu4iKL9Wd5RFaQ7z8KMeDDN7",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "BFYDqqwkQvuqoWedVSLqDZy7Hdwq1rxsrZkb1xWdsbLD",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "CmsLoJVTf9wPqPexGyj81mViaiDpyLRe6HZs6dNqfn6K",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "FWWN4jYTotWCFxZQftLUGnpXujz4MFH8Lc6BBGPFDVkT",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "2QdhepnKRTLjjSqPL1PtKNwqrUkoLee5Gqs8bvZhRdMv",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "4d35yC7C8zhCDec7JbPptL9SEb4NUddKHxURgmvD8hfo",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "4fEjbMXTet3w8qhScPmT6X79ypagRydKLHPqcGsrhcmP",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "9z9VTNvaTpJuwjn4LSnjHwZgUR9iGuy59BwXTNbxRF6s",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "E2BcoCeJLTa27mAXDA4xwEq3pBUcyH6XXEHYk4KvKYTv",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.113024565
+        },
+        {
+          "pubkey": "X5QPJcpph4mBAJDzc4hRziFftSbcygV59kRb2Fu6Je1",
+          "signer": false,
+          "writable": true,
+          "solDelta": 2.8585e-05
+        },
+        {
+          "pubkey": "75mhQAcZeGKiL3wcuuVjTjg2SHJewZuQpd59ukiG24yv",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.001029056
+        },
+        {
+          "pubkey": "B5gyrrq2Bj76hhzZEN9v46mC4NBc4G869BPtKs21QepS",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.114110791
+        },
+        {
+          "pubkey": "BRjMA8UALNp3diTKHfdeAn5riQrYPoaYez7KhYWD4oEs",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "FK1n9CbrtSZi4MgCdaJDmeA2WzdticQNkzR3DZjvSGxt",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "HjQjngTDqoHE6aaGhUqfz9aQ7WZcBRjy5xB8PScLSr8i",
+          "signer": false,
+          "writable": true,
+          "solDelta": 2.8585e-05
+        },
+        {
+          "pubkey": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "HfERMT5DRA6C1TAqecrJQFpmkf3wsWTMncqnj3RDg5aw",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "So11111111111111111111111111111111111111112",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5PHirr8joyTMp9JMm6nW7hNDVyEYdkzDqazxPD7RaTjx",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5YxQFdt3Tr9zJLvkFccqXVUwhdTWJQc1fFg2YPbxvxeD",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7hTckgnGnLQR6sdH7YkqFTAA7VwTfYFaZ6EhEsU3saCX",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ADyA8hdefvWN2dbGGWFotbzWxrAvLW83WG6QCVXvJKqw",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "F2Ne1XNs5f7LQNBdfB5WE69AGunwjAa6akdVGfVXiZxY",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GQy76sRyN9GfBZUhK7nQ7BayWBaxGf6j7jNd9o2yQKKJ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+      ],
+      "feeSol": 6.157e-06
+    },
+    {
+      "time": "2026-10-02T06:06:44+00:00",
+      "signature": "3ousz2oNjBYEtTBZiBvbQ76FXdAP8YbGTHZoyR7QDbnUbYHbXAhY3AArwQZRjpTYknnVCCRx2XMim9FFHuVUzHtW",
+      "keys": [
+        {
+          "pubkey": "6Qt8a3Y6B4nekSRQ1p2e5yqP5bSCbE6HzUTdWwdfYXmR",
+          "signer": true,
+          "writable": true,
+          "solDelta": 0.005441804
+        },
+        {
+          "pubkey": "2DVxJGefX1mQ621zo6s7J9xjZMBATkhfHgACuZgMGo6o",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "75mhQAcZeGKiL3wcuuVjTjg2SHJewZuQpd59ukiG24yv",
+          "signer": false,
+          "writable": true,
+          "solDelta": 5.0277e-05
+        },
+        {
+          "pubkey": "ADyA8hdefvWN2dbGGWFotbzWxrAvLW83WG6QCVXvJKqw",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "B5gyrrq2Bj76hhzZEN9v46mC4NBc4G869BPtKs21QepS",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.005575095
+        },
+        {
+          "pubkey": "B5Pb89aZVvLJRjrtjHpXgfre9ecnCvaQdHVtz66vdXi3",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "BRjMA8UALNp3diTKHfdeAn5riQrYPoaYez7KhYWD4oEs",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "DymeoWc5WLNiQBaoLuxrxDnDRvLgGZ1QGsEoCAM7Jsrx",
+          "signer": false,
+          "writable": true,
+          "solDelta": 5.522e-05
+        },
+        {
+          "pubkey": "Euznbr2WLEqm3j5V7ZHtuRGkARD32wBpDe4ofUns5DAQ",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1e-05
+        },
+        {
+          "pubkey": "FK1n9CbrtSZi4MgCdaJDmeA2WzdticQNkzR3DZjvSGxt",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "HjQjngTDqoHE6aaGhUqfz9aQ7WZcBRjy5xB8PScLSr8i",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1.397e-06
+        },
+        {
+          "pubkey": "X5QPJcpph4mBAJDzc4hRziFftSbcygV59kRb2Fu6Je1",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1.397e-06
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5PHirr8joyTMp9JMm6nW7hNDVyEYdkzDqazxPD7RaTjx",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5YxQFdt3Tr9zJLvkFccqXVUwhdTWJQc1fFg2YPbxvxeD",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7hTckgnGnLQR6sdH7YkqFTAA7VwTfYFaZ6EhEsU3saCX",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "F2Ne1XNs5f7LQNBdfB5WE69AGunwjAa6akdVGfVXiZxY",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GQy76sRyN9GfBZUhK7nQ7BayWBaxGf6j7jNd9o2yQKKJ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "jitodontfront111111111117111111111111165532",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "So11111111111111111111111111111111111111112",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "11111111111111111111111111111111",
+        "11111111111111111111111111111111"
+      ],
+      "feeSol": 1.5e-05
+    },
+    {
+      "time": "2026-10-02T06:06:45+00:00",
+      "signature": "2Fxichk5dLbutg42WgUvZtV3yW2bYWSf9eEK2MJFuu3Yefv1m5Hco412kprydgbXa4mGxrPFeZ6bLwr6jPeEkZZf",
+      "keys": [
+        {
+          "pubkey": "3fStH2LFcRVFcC2VqAYFHR9F3WN2vkbLsZKyQRG6D3sU",
+          "signer": true,
+          "writable": true,
+          "solDelta": 0.043508399
+        },
+        {
+          "pubkey": "6tknWeH5WGMPCtzuKB8LcH4psbn3MsRAcdtCq7FkLjg9",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "FnitRus3s4uNKDWuApnbE62A4SRvN9D1KZsZRE5on6Va",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "DttWaMuVvTiduZRnguLF7jNxTgiMBZ1hyAumKUiL2KRL",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1e-05
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "jitodontfront111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "39FWQJxqTmUkFqHKjEs3CawQ1b1rqLcKmHfJ1FWMAWdu",
+          "signer": false,
+          "writable": true,
+          "solDelta": 4.3617e-05
+        },
+        {
+          "pubkey": "X5QPJcpph4mBAJDzc4hRziFftSbcygV59kRb2Fu6Je1",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1.1032e-05
+        },
+        {
+          "pubkey": "HjQjngTDqoHE6aaGhUqfz9aQ7WZcBRjy5xB8PScLSr8i",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1.1031e-05
+        },
+        {
+          "pubkey": "BRjMA8UALNp3diTKHfdeAn5riQrYPoaYez7KhYWD4oEs",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "FK1n9CbrtSZi4MgCdaJDmeA2WzdticQNkzR3DZjvSGxt",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "B5gyrrq2Bj76hhzZEN9v46mC4NBc4G869BPtKs21QepS",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.0440362
+        },
+        {
+          "pubkey": "75mhQAcZeGKiL3wcuuVjTjg2SHJewZuQpd59ukiG24yv",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.000397121
+        },
+        {
+          "pubkey": "So11111111111111111111111111111111111111112",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7hTckgnGnLQR6sdH7YkqFTAA7VwTfYFaZ6EhEsU3saCX",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5YxQFdt3Tr9zJLvkFccqXVUwhdTWJQc1fFg2YPbxvxeD",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "jitodontfront1111111111111111JustUseJupiter",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ADyA8hdefvWN2dbGGWFotbzWxrAvLW83WG6QCVXvJKqw",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "F2Ne1XNs5f7LQNBdfB5WE69AGunwjAa6akdVGfVXiZxY",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5PHirr8joyTMp9JMm6nW7hNDVyEYdkzDqazxPD7RaTjx",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GQy76sRyN9GfBZUhK7nQ7BayWBaxGf6j7jNd9o2yQKKJ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "11111111111111111111111111111111"
+      ],
+      "feeSol": 5.5e-05
+    },
+    {
+      "time": "2026-10-02T06:06:47+00:00",
+      "signature": "549kirkVJnKKrBm4cfz2EYauPdurTaUqH8CAM6FzM2BqKRFSEL1P3k5w2QYe3bb3ZmHUsfkzjshGVWTiMB2pf819",
+      "keys": [
+        {
+          "pubkey": "EYvwg12vXcUN7pF1fASQZZgQ9RbVUMLjKqqCfi961ptw",
+          "signer": true,
+          "writable": true,
+          "solDelta": -1.9905e-05
+        },
+        {
+          "pubkey": "3T5x87TMaVxNDiGjNfTn6BchFiNU4hkagMmvMcwnHSdy",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "BFYDqqwkQvuqoWedVSLqDZy7Hdwq1rxsrZkb1xWdsbLD",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "CmsLoJVTf9wPqPexGyj81mViaiDpyLRe6HZs6dNqfn6K",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "X5QPJcpph4mBAJDzc4hRziFftSbcygV59kRb2Fu6Je1",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1.9026e-05
+        },
+        {
+          "pubkey": "2Y7HATmn9aJBcxCskE5V2U2epmjvkZmB51zTJBbhj4cU",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "8FnX3xo2yYw3EUE6w3nQA4GfXGS9wpK6oj3veJpbFzLo",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATRsNGv2nDw7hSMfkUTBoVUDsFDwN7po7KbecyiGWNB4",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.075225863
+        },
+        {
+          "pubkey": "75mhQAcZeGKiL3wcuuVjTjg2SHJewZuQpd59ukiG24yv",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.00068491
+        },
+        {
+          "pubkey": "B5gyrrq2Bj76hhzZEN9v46mC4NBc4G869BPtKs21QepS",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.075948824
+        },
+        {
+          "pubkey": "BRjMA8UALNp3diTKHfdeAn5riQrYPoaYez7KhYWD4oEs",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "FK1n9CbrtSZi4MgCdaJDmeA2WzdticQNkzR3DZjvSGxt",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "HjQjngTDqoHE6aaGhUqfz9aQ7WZcBRjy5xB8PScLSr8i",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1.9025e-05
+        },
+        {
+          "pubkey": "So11111111111111111111111111111111111111112",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "Sysvar1nstructions1111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5PHirr8joyTMp9JMm6nW7hNDVyEYdkzDqazxPD7RaTjx",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7hTckgnGnLQR6sdH7YkqFTAA7VwTfYFaZ6EhEsU3saCX",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ADyA8hdefvWN2dbGGWFotbzWxrAvLW83WG6QCVXvJKqw",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "BiSoNHVpsVZW2F7rx2eQ59yQwKxzU5NvBcmKshCSUypi",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "J1to1yufRnoWn81KYg1XkTWzmKjnYSnmE2VY8DGUJ9Qv",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5YxQFdt3Tr9zJLvkFccqXVUwhdTWJQc1fFg2YPbxvxeD",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "F2Ne1XNs5f7LQNBdfB5WE69AGunwjAa6akdVGfVXiZxY",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GQy76sRyN9GfBZUhK7nQ7BayWBaxGf6j7jNd9o2yQKKJ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+      ],
+      "feeSol": 1.9905e-05
+    },
+    {
+      "time": "2026-10-02T06:06:48+00:00",
+      "signature": "34m7qfRP87CWhHdgBHY2HVAA24RzfaMpRqRcyw8vxU3a5rJtUo65cpdDw9pHfKGPkQGCDdjJo4wWb9mqsnxt2Bao",
+      "keys": [
+        {
+          "pubkey": "6Qt8a3Y6B4nekSRQ1p2e5yqP5bSCbE6HzUTdWwdfYXmR",
+          "signer": true,
+          "writable": true,
+          "solDelta": 0.003454135
+        },
+        {
+          "pubkey": "2DVxJGefX1mQ621zo6s7J9xjZMBATkhfHgACuZgMGo6o",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "75mhQAcZeGKiL3wcuuVjTjg2SHJewZuQpd59ukiG24yv",
+          "signer": false,
+          "writable": true,
+          "solDelta": 3.1997e-05
+        },
+        {
+          "pubkey": "ADyA8hdefvWN2dbGGWFotbzWxrAvLW83WG6QCVXvJKqw",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "B5gyrrq2Bj76hhzZEN9v46mC4NBc4G869BPtKs21QepS",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.003548052
+        },
+        {
+          "pubkey": "B5Pb89aZVvLJRjrtjHpXgfre9ecnCvaQdHVtz66vdXi3",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "BRjMA8UALNp3diTKHfdeAn5riQrYPoaYez7KhYWD4oEs",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "BvH5CteddzPsNquinN4NKTHqcUtAnxDjVtFeGrx9E8jQ",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1e-05
+        },
+        {
+          "pubkey": "FK1n9CbrtSZi4MgCdaJDmeA2WzdticQNkzR3DZjvSGxt",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "HeZVpHj9jLwTVtMMbzQRf6mLtFPkWNSg11o68qrbUBa3",
+          "signer": false,
+          "writable": true,
+          "solDelta": 3.5142e-05
+        },
+        {
+          "pubkey": "HjQjngTDqoHE6aaGhUqfz9aQ7WZcBRjy5xB8PScLSr8i",
+          "signer": false,
+          "writable": true,
+          "solDelta": 8.89e-07
+        },
+        {
+          "pubkey": "X5QPJcpph4mBAJDzc4hRziFftSbcygV59kRb2Fu6Je1",
+          "signer": false,
+          "writable": true,
+          "solDelta": 8.89e-07
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5PHirr8joyTMp9JMm6nW7hNDVyEYdkzDqazxPD7RaTjx",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5YxQFdt3Tr9zJLvkFccqXVUwhdTWJQc1fFg2YPbxvxeD",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7hTckgnGnLQR6sdH7YkqFTAA7VwTfYFaZ6EhEsU3saCX",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "F2Ne1XNs5f7LQNBdfB5WE69AGunwjAa6akdVGfVXiZxY",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GQy76sRyN9GfBZUhK7nQ7BayWBaxGf6j7jNd9o2yQKKJ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "jitodontfront111111111117111111111111165532",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "So11111111111111111111111111111111111111112",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "11111111111111111111111111111111",
+        "11111111111111111111111111111111"
+      ],
+      "feeSol": 1.5e-05
+    },
+    {
+      "time": "2026-10-02T06:06:48+00:00",
+      "signature": "2US7DWEBDAk85YWkvC3XMRgKz83EYPymcNADN66FaLskNgsdFU6h9cjU3EvjC3UHqVuRCm8jcvCYsBDefpr1Lc4",
+      "keys": [
+        {
+          "pubkey": "3fStH2LFcRVFcC2VqAYFHR9F3WN2vkbLsZKyQRG6D3sU",
+          "signer": true,
+          "writable": true,
+          "solDelta": 0.028942308
+        },
+        {
+          "pubkey": "6tknWeH5WGMPCtzuKB8LcH4psbn3MsRAcdtCq7FkLjg9",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "FnitRus3s4uNKDWuApnbE62A4SRvN9D1KZsZRE5on6Va",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "DfXygSm4jCyNCybVYYK6DwvWqjKee8pbDmJGcLWNDXjh",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1e-05
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "jitodontfront111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "6AMWTvaL1pscDo5CAaBhPfv7xnSLjJ3ZXScV9yt5Gr5G",
+          "signer": false,
+          "writable": true,
+          "solDelta": 2.9036e-05
+        },
+        {
+          "pubkey": "X5QPJcpph4mBAJDzc4hRziFftSbcygV59kRb2Fu6Je1",
+          "signer": false,
+          "writable": true,
+          "solDelta": 7.344e-06
+        },
+        {
+          "pubkey": "HjQjngTDqoHE6aaGhUqfz9aQ7WZcBRjy5xB8PScLSr8i",
+          "signer": false,
+          "writable": true,
+          "solDelta": 7.344e-06
+        },
+        {
+          "pubkey": "BRjMA8UALNp3diTKHfdeAn5riQrYPoaYez7KhYWD4oEs",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "FK1n9CbrtSZi4MgCdaJDmeA2WzdticQNkzR3DZjvSGxt",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "B5gyrrq2Bj76hhzZEN9v46mC4NBc4G869BPtKs21QepS",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.0293154
+        },
+        {
+          "pubkey": "75mhQAcZeGKiL3wcuuVjTjg2SHJewZuQpd59ukiG24yv",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.000264368
+        },
+        {
+          "pubkey": "So11111111111111111111111111111111111111112",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7hTckgnGnLQR6sdH7YkqFTAA7VwTfYFaZ6EhEsU3saCX",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5YxQFdt3Tr9zJLvkFccqXVUwhdTWJQc1fFg2YPbxvxeD",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "jitodontfront1111111111111111JustUseJupiter",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ADyA8hdefvWN2dbGGWFotbzWxrAvLW83WG6QCVXvJKqw",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "F2Ne1XNs5f7LQNBdfB5WE69AGunwjAa6akdVGfVXiZxY",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5PHirr8joyTMp9JMm6nW7hNDVyEYdkzDqazxPD7RaTjx",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GQy76sRyN9GfBZUhK7nQ7BayWBaxGf6j7jNd9o2yQKKJ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "11111111111111111111111111111111"
+      ],
+      "feeSol": 5.5e-05
+    },
+    {
+      "time": "2026-10-02T06:06:51+00:00",
+      "signature": "3vFuySbu62DcjVZNJddKaGt1yLaJemU1xqVp3t99YqCGNm5SKo1xLVWchLHEWfriz4NZtNQEe21r1WJN8LtpwjjR",
+      "keys": [
+        {
+          "pubkey": "EYvwg12vXcUN7pF1fASQZZgQ9RbVUMLjKqqCfi961ptw",
+          "signer": true,
+          "writable": true,
+          "solDelta": -9.344e-06
+        },
+        {
+          "pubkey": "3T5x87TMaVxNDiGjNfTn6BchFiNU4hkagMmvMcwnHSdy",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "BFYDqqwkQvuqoWedVSLqDZy7Hdwq1rxsrZkb1xWdsbLD",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "CmsLoJVTf9wPqPexGyj81mViaiDpyLRe6HZs6dNqfn6K",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "XxTYxadQG1SUrjWRXnDDNzUQEh1STTYV6bfRHLy7CJE",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.06812871
+        },
+        {
+          "pubkey": "EjyhRdvu3iNPngdoUcwaG6q5bTF7BUUT2vig5t7nXfR8",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "X5QPJcpph4mBAJDzc4hRziFftSbcygV59kRb2Fu6Je1",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1.7231e-05
+        },
+        {
+          "pubkey": "75mhQAcZeGKiL3wcuuVjTjg2SHJewZuQpd59ukiG24yv",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.000620292
+        },
+        {
+          "pubkey": "B5gyrrq2Bj76hhzZEN9v46mC4NBc4G869BPtKs21QepS",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.068783463
+        },
+        {
+          "pubkey": "BRjMA8UALNp3diTKHfdeAn5riQrYPoaYez7KhYWD4oEs",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "FK1n9CbrtSZi4MgCdaJDmeA2WzdticQNkzR3DZjvSGxt",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "HjQjngTDqoHE6aaGhUqfz9aQ7WZcBRjy5xB8PScLSr8i",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1.723e-05
+        },
+        {
+          "pubkey": "So11111111111111111111111111111111111111112",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "Sysvar1nstructions1111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "2dyTwqYbDT2NwvCSZ55mep3Cnom1YzBqBA5Rdwn6yqTn",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5PHirr8joyTMp9JMm6nW7hNDVyEYdkzDqazxPD7RaTjx",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7hTckgnGnLQR6sdH7YkqFTAA7VwTfYFaZ6EhEsU3saCX",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ADyA8hdefvWN2dbGGWFotbzWxrAvLW83WG6QCVXvJKqw",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "HBVw6bZtcCaezhcBrmfyXBSBRWCdv72271xQ4GPvms2z",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5YxQFdt3Tr9zJLvkFccqXVUwhdTWJQc1fFg2YPbxvxeD",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "F2Ne1XNs5f7LQNBdfB5WE69AGunwjAa6akdVGfVXiZxY",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GQy76sRyN9GfBZUhK7nQ7BayWBaxGf6j7jNd9o2yQKKJ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+      ],
+      "feeSol": 9.344e-06
+    },
+    {
+      "time": "2026-10-02T06:06:51+00:00",
+      "signature": "5kP4Rkgnz7FH3Q6CqefJH3x4Z28SA9NAZC1mazM5h3BSPbQN1XPfYrPy2hk7F477Bdg2fnpLJcJ6W6PLMMw4toS6",
+      "keys": [
+        {
+          "pubkey": "6Qt8a3Y6B4nekSRQ1p2e5yqP5bSCbE6HzUTdWwdfYXmR",
+          "signer": true,
+          "writable": true,
+          "solDelta": 0.003142369
+        },
+        {
+          "pubkey": "2DVxJGefX1mQ621zo6s7J9xjZMBATkhfHgACuZgMGo6o",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "75mhQAcZeGKiL3wcuuVjTjg2SHJewZuQpd59ukiG24yv",
+          "signer": false,
+          "writable": true,
+          "solDelta": 2.913e-05
+        },
+        {
+          "pubkey": "7sHXjs1j7sDJGVSMSPjD1b4v3FD6uRSvRWfhRdfv5BiA",
+          "signer": false,
+          "writable": true,
+          "solDelta": 3.1993e-05
+        },
+        {
+          "pubkey": "ADyA8hdefvWN2dbGGWFotbzWxrAvLW83WG6QCVXvJKqw",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "B5gyrrq2Bj76hhzZEN9v46mC4NBc4G869BPtKs21QepS",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.003230111
+        },
+        {
+          "pubkey": "B5Pb89aZVvLJRjrtjHpXgfre9ecnCvaQdHVtz66vdXi3",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "BRjMA8UALNp3diTKHfdeAn5riQrYPoaYez7KhYWD4oEs",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "FK1n9CbrtSZi4MgCdaJDmeA2WzdticQNkzR3DZjvSGxt",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "HjQjngTDqoHE6aaGhUqfz9aQ7WZcBRjy5xB8PScLSr8i",
+          "signer": false,
+          "writable": true,
+          "solDelta": 8.09e-07
+        },
+        {
+          "pubkey": "uXYxbbhcD9kHU1KzZM6ZNzPvieEvRcJCPHpqcnpwdcR",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1e-05
+        },
+        {
+          "pubkey": "X5QPJcpph4mBAJDzc4hRziFftSbcygV59kRb2Fu6Je1",
+          "signer": false,
+          "writable": true,
+          "solDelta": 8.1e-07
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5PHirr8joyTMp9JMm6nW7hNDVyEYdkzDqazxPD7RaTjx",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5YxQFdt3Tr9zJLvkFccqXVUwhdTWJQc1fFg2YPbxvxeD",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7hTckgnGnLQR6sdH7YkqFTAA7VwTfYFaZ6EhEsU3saCX",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "F2Ne1XNs5f7LQNBdfB5WE69AGunwjAa6akdVGfVXiZxY",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GQy76sRyN9GfBZUhK7nQ7BayWBaxGf6j7jNd9o2yQKKJ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "jitodontfront111111111117111111111111165532",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "So11111111111111111111111111111111111111112",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "11111111111111111111111111111111",
+        "11111111111111111111111111111111"
+      ],
+      "feeSol": 1.5e-05
+    },
+    {
+      "time": "2026-10-02T06:06:51+00:00",
+      "signature": "3uVnZ4ZRZ4zPLjx8W6Lz6LhLGSvTMyNvQcEYrLPUmRnJCpMcpJL8VzEiNjQafsiGpq6W9VD4ESddC9U9JMCT7vMP",
+      "keys": [
+        {
+          "pubkey": "3fStH2LFcRVFcC2VqAYFHR9F3WN2vkbLsZKyQRG6D3sU",
+          "signer": true,
+          "writable": true,
+          "solDelta": 0.026206654
+        },
+        {
+          "pubkey": "6tknWeH5WGMPCtzuKB8LcH4psbn3MsRAcdtCq7FkLjg9",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "FnitRus3s4uNKDWuApnbE62A4SRvN9D1KZsZRE5on6Va",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "96gYZGLnJYVFmbjzopPSU6QiEV5fGqZNyN9nmNhvrZU5",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1e-05
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "jitodontfront111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "EaUghZfmuhgtZEEwaZwX5EBroz4WyH8VM5NSXi4tam5A",
+          "signer": false,
+          "writable": true,
+          "solDelta": 2.6297e-05
+        },
+        {
+          "pubkey": "X5QPJcpph4mBAJDzc4hRziFftSbcygV59kRb2Fu6Je1",
+          "signer": false,
+          "writable": true,
+          "solDelta": 6.651e-06
+        },
+        {
+          "pubkey": "HjQjngTDqoHE6aaGhUqfz9aQ7WZcBRjy5xB8PScLSr8i",
+          "signer": false,
+          "writable": true,
+          "solDelta": 6.651e-06
+        },
+        {
+          "pubkey": "BRjMA8UALNp3diTKHfdeAn5riQrYPoaYez7KhYWD4oEs",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "FK1n9CbrtSZi4MgCdaJDmeA2WzdticQNkzR3DZjvSGxt",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "B5gyrrq2Bj76hhzZEN9v46mC4NBc4G869BPtKs21QepS",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.026550689
+        },
+        {
+          "pubkey": "75mhQAcZeGKiL3wcuuVjTjg2SHJewZuQpd59ukiG24yv",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.000239436
+        },
+        {
+          "pubkey": "So11111111111111111111111111111111111111112",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7hTckgnGnLQR6sdH7YkqFTAA7VwTfYFaZ6EhEsU3saCX",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5YxQFdt3Tr9zJLvkFccqXVUwhdTWJQc1fFg2YPbxvxeD",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "jitodontfront1111111111111111JustUseJupiter",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ADyA8hdefvWN2dbGGWFotbzWxrAvLW83WG6QCVXvJKqw",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "F2Ne1XNs5f7LQNBdfB5WE69AGunwjAa6akdVGfVXiZxY",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5PHirr8joyTMp9JMm6nW7hNDVyEYdkzDqazxPD7RaTjx",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GQy76sRyN9GfBZUhK7nQ7BayWBaxGf6j7jNd9o2yQKKJ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "11111111111111111111111111111111"
+      ],
+      "feeSol": 5.5e-05
+    },
+    {
+      "time": "2026-10-02T06:06:52+00:00",
+      "signature": "2QDGWV5HAVVYp91RJSBFbnDbr3Z3ehhv2GNHvZShjsyxdG19vEu7bPFoeVCzuixYubfeDxuWiaJpUXGBNMkpWZxs",
+      "keys": [
+        {
+          "pubkey": "53MNAWf67SgVnqjmcwZ3ynYbGjVmAftpuLeL5Tez1nJT",
+          "signer": true,
+          "writable": true,
+          "solDelta": 0.003341432
+        },
+        {
+          "pubkey": "F2Ne1XNs5f7LQNBdfB5WE69AGunwjAa6akdVGfVXiZxY",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "75mhQAcZeGKiL3wcuuVjTjg2SHJewZuQpd59ukiG24yv",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.003346587
+        },
+        {
+          "pubkey": "AUR26KrgwHHJexXiQX6Fiv6n1ukoYmx9vUUSWCcXAKnS",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "So11111111111111111111111111111111111111112",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "31FSHEvoTogwRne8GVoTzDke69EeauzDGg7DYLMrY63f",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "EjuYpXBs3L6Dto2h8JXUbyuKb4nQpdA8xZpR4JP9yyd",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "Ce6TQqeHC9p8KetsN6JsjHK7UTZk7nasjjnr7XxXp9F1",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
+      ],
+      "feeSol": 5.155e-06
+    },
+    {
+      "time": "2026-10-02T06:08:02+00:00",
+      "signature": "32kks4bBG3nEQMBquig6zLt7vLLfoQBstk4vKpa2USbjbVHqwxxtXGhXSXYiuTdP2wLhri5bjS4ezsqpMYLD7aPW",
+      "keys": [
+        {
+          "pubkey": "H6EtpNNizCppByyt5Jj5bmpm1GN9MMpBoycBzDhiWrQS",
+          "signer": true,
+          "writable": true,
+          "solDelta": -0.00408356
+        },
+        {
+          "pubkey": "cnrFekwtYX6BsDML1cS8efCSigjGV76UeTWsN35ovep",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.00407856
+        },
+        {
+          "pubkey": "29xuKuGauKuHQ9QvFGLBwvYce7et2Z4a8MhsgnUupmfX",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "6QoyqXbEGCBJgAgX8QMUG9nb1Am69hPFCodWsvC5vuob",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.291584837
+        },
+        {
+          "pubkey": "8Hx9syPPY8Mo4eTU6iE5S94AL2iWDJ3pATWx3aTP4nWz",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "8ubFDxpb7br9gWTPTssXHGb4zUVdq6q3BSvk6s3P8B7f",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "AmaXypeQm17dbkUECQJVcEE7Az6QvCr3bEszPcAtwuas",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.00146525
+        },
+        {
+          "pubkey": "BUfVNrxm6UN7pXBiA1QNKRh21wPQBNNeCDAV9hTVHVeW",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "Gc7yeq2PjTodNjPPSgsqUgqX6k628EpysA76mPZACwVA",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "sa12qbQyuQqEaDcEqEPKmZEGTdzSMaqj87nKRYbE3QE",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "va1t8sdGkReA6XFgAeZGXmdQoiEtMirwy4ifLv7yGdH",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "94qWNrtmfn42h3ZjUZwWvK1MEo9uVmmrBPd2hpNjYDjb",
+          "signer": false,
+          "writable": true,
+          "solDelta": 7.4115e-05
+        },
+        {
+          "pubkey": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "At2V6ddck5c8BLxcQ1D4fJnznCYSTAT6hxqCPXMUgY5i",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "DT2krA8vSP96D68nH86eAztZHVM18YB5i4gDXjLBDXm7",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "75mhQAcZeGKiL3wcuuVjTjg2SHJewZuQpd59ukiG24yv",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.002668135
+        },
+        {
+          "pubkey": "B5gyrrq2Bj76hhzZEN9v46mC4NBc4G869BPtKs21QepS",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.295866452
+        },
+        {
+          "pubkey": "BRjMA8UALNp3diTKHfdeAn5riQrYPoaYez7KhYWD4oEs",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "CA7v8gHfbquYXyDnDx6QxWW8hmL1H7X6Y2RYDrGLnuck",
+          "signer": false,
+          "writable": true,
+          "solDelta": 7.4115e-05
+        },
+        {
+          "pubkey": "FK1n9CbrtSZi4MgCdaJDmeA2WzdticQNkzR3DZjvSGxt",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "So11111111111111111111111111111111111111112",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "Sysvar1nstructions1111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5PHirr8joyTMp9JMm6nW7hNDVyEYdkzDqazxPD7RaTjx",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "62qc2CNXwrYqQScmEdiZFFAnJR262PxWEuNQtxfafNgV",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ADyA8hdefvWN2dbGGWFotbzWxrAvLW83WG6QCVXvJKqw",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "Ag3hiK9svNixH9Vu5sD2CmK5fyDWrx9a1iVSbZW22bUS",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "EHAAiTxcdDwQ3U4bU6YcMsQGaekdzLS3B5SmYo46kJtL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "F2Ne1XNs5f7LQNBdfB5WE69AGunwjAa6akdVGfVXiZxY",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GQy76sRyN9GfBZUhK7nQ7BayWBaxGf6j7jNd9o2yQKKJ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ComputeBudget111111111111111111111111111111",
+        "11111111111111111111111111111111",
+        "sa12qbQyuQqEaDcEqEPKmZEGTdzSMaqj87nKRYbE3QE",
+        "va1t8sdGkReA6XFgAeZGXmdQoiEtMirwy4ifLv7yGdH"
+      ],
+      "feeSol": 5e-06
+    },
+    {
+      "time": "2026-10-02T06:08:06+00:00",
+      "signature": "4kjScbgEPFnenQvZJojJhi4pBut4RsKUSgZ78HeaaBFG5wmmpmrdAdzjYBh3DnzXMYQFt2mdjRvhLSQtHU22m1Cw",
+      "keys": [
+        {
+          "pubkey": "53MNAWf67SgVnqjmcwZ3ynYbGjVmAftpuLeL5Tez1nJT",
+          "signer": true,
+          "writable": true,
+          "solDelta": 0.002662862
+        },
+        {
+          "pubkey": "F2Ne1XNs5f7LQNBdfB5WE69AGunwjAa6akdVGfVXiZxY",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "75mhQAcZeGKiL3wcuuVjTjg2SHJewZuQpd59ukiG24yv",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.002668135
+        },
+        {
+          "pubkey": "AUR26KrgwHHJexXiQX6Fiv6n1ukoYmx9vUUSWCcXAKnS",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "So11111111111111111111111111111111111111112",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "31FSHEvoTogwRne8GVoTzDke69EeauzDGg7DYLMrY63f",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "EjuYpXBs3L6Dto2h8JXUbyuKb4nQpdA8xZpR4JP9yyd",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "Ce6TQqeHC9p8KetsN6JsjHK7UTZk7nasjjnr7XxXp9F1",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
+      ],
+      "feeSol": 5.273e-06
+    },
+    {
+      "time": "2026-10-02T06:08:33+00:00",
+      "signature": "4oX7FtjgBW1uKL7vieZbsNuD5uLPdmRuMY4xPqtEpfyqMYDdr8h9e5AySgCX4xhjRGD4x2CjrXBA73m7cuBpsMtq",
+      "keys": [
+        {
+          "pubkey": "29D64GZ8C5dByEP9RRAd2Mwz9CadzmP7TQecUJiW7r6c",
+          "signer": true,
+          "writable": true,
+          "solDelta": 0.01614303
+        },
+        {
+          "pubkey": "5kcJz9yt7y2xdYccwnkU2mDS3x8zBNQiYtPk6DPWBiZr",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "79FCJqG2DrYzH2G3eCQedRoWRbjri7MSgMkyGeZ7cLrm",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ARPwPPWbaj3FYBf6k1Lt2jqRkv9JJUg3Hxav5aHKTEem",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "AzEP9c7Kz1wm3RE35pG8g6yyetQqmZu2PSjVoiFAJrtt",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "CMuvWQ6qQbSt7NUQdPGcVKCoDgETieuqS68qu6BaeVgR",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "EVyRhqrVibtaRxnsYQrw4cB983FYaiLvGkvhooamTT9V",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.00151384
+        },
+        {
+          "pubkey": "EWHg4zCRVC3ohfjMNtkVFM6xJavi1tNc6qSqDGKKp6WS",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.00151384
+        },
+        {
+          "pubkey": "EYcFnyf6Jw3eVaHMNjxvKkEN61c6H963fMnHbmhJFhYb",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.00196323
+        },
+        {
+          "pubkey": "EYvTykeMbRSsbA53Ks6D8C3KsypVhEZQuHm91LZ46Hyd",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.00207408
+        },
+        {
+          "pubkey": "Eauu4Pw4ZKeKpoin6eSiwbnu1rs8UJyCEtEUMBiE77aC",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.00151384
+        },
+        {
+          "pubkey": "EdApCpxLc42dTE6j3oYNEHkBVMGgJ3SQwhz8yrC9a4DV",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.00151384
+        },
+        {
+          "pubkey": "EgSkBVydsfYgCDhQv8CGp8Xb9eBwa8rkKRM3Li9dcXmL",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.00151384
+        },
+        {
+          "pubkey": "Ek3ohL9G5jRvX8tvZV317Vf21EgRVFEp84LT1UdGwsMx",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.00151384
+        },
+        {
+          "pubkey": "EkMY2u5zdqLuFACSjrkUZ7VyQP4rFyf9atRj4J7dphbk",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.00151384
+        },
+        {
+          "pubkey": "EkbpPKptk4sbzSyXvBCYRFBJPtzLDE4ZN9ze8YDBVLh8",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.00151384
+        },
+        {
+          "pubkey": "GRehQKv9E3fVuNJGQTwAAjYpcixRCYKkzAXAb5kGpump",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "H4KUxsEgCp2yDpFvyDuGM5k6XevSKKrrKUxZ3Zr6nyJc",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+      ],
+      "feeSol": 5e-06
+    },
+    {
+      "time": "2026-10-02T06:09:48+00:00",
+      "signature": "62ZvWE5EPy2bYMAsJmZkbCyu8Bp8n7Wfibg7DnVp3q8op7M67rj1wNP1MhdXCSsbGR5DvvUyVmAMYYoaFA8Kxe7",
+      "keys": [
+        {
+          "pubkey": "A4nTWuWtKhfQ5eeA1ix7heqUftDCA6pK5Uv1RRggyp7e",
+          "signer": true,
+          "writable": true,
+          "solDelta": 0.065243462
+        },
+        {
+          "pubkey": "5JtjCfLt8QDtUL6y6B67tPzQDMBAahSFowzw1gqpKcY1",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "B45FZbBx6c5aDRBSrDQ6Vun9g44d47sbm7qupugD53iu",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "BWXT6RUhit9FfJQM3pBmqeFLPYmuxgmyhMGC5sGr8RbA",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1.6504e-05
+        },
+        {
+          "pubkey": "HFqU5x63VTqvQss8hp11i4wVV8bD44PvwucfZ2bU7gRe",
+          "signer": false,
+          "writable": true,
+          "solDelta": 7e-06
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "75mhQAcZeGKiL3wcuuVjTjg2SHJewZuQpd59ukiG24yv",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.000594132
+        },
+        {
+          "pubkey": "B5gyrrq2Bj76hhzZEN9v46mC4NBc4G869BPtKs21QepS",
+          "signer": false,
+          "writable": true,
+          "solDelta": -0.065882602
+        },
+        {
+          "pubkey": "BRjMA8UALNp3diTKHfdeAn5riQrYPoaYez7KhYWD4oEs",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "CA7v8gHfbquYXyDnDx6QxWW8hmL1H7X6Y2RYDrGLnuck",
+          "signer": false,
+          "writable": true,
+          "solDelta": 1.6504e-05
+        },
+        {
+          "pubkey": "FK1n9CbrtSZi4MgCdaJDmeA2WzdticQNkzR3DZjvSGxt",
+          "signer": false,
+          "writable": true,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "So11111111111111111111111111111111111111112",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "5PHirr8joyTMp9JMm6nW7hNDVyEYdkzDqazxPD7RaTjx",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "ADyA8hdefvWN2dbGGWFotbzWxrAvLW83WG6QCVXvJKqw",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "EHAAiTxcdDwQ3U4bU6YcMsQGaekdzLS3B5SmYo46kJtL",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "F2Ne1XNs5f7LQNBdfB5WE69AGunwjAa6akdVGfVXiZxY",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "G5UZAVbAf46s7cKWoyKu8kYTip9DGTpbLZ2qa9Aq69dP",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GQy76sRyN9GfBZUhK7nQ7BayWBaxGf6j7jNd9o2yQKKJ",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        },
+        {
+          "pubkey": "GS4CU59F31iL7aR2Q8zVS8DRrcRnXX1yjQ66TqNVQnaR",
+          "signer": false,
+          "writable": false,
+          "solDelta": 0.0
+        }
+      ],
+      "programs": [
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "11111111111111111111111111111111"
+      ],
+      "feeSol": 5e-06
+    }
+  ]
+}
