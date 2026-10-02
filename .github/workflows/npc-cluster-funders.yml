@@ -1,0 +1,28 @@
+name: NPC Cluster Funders
+on:
+  push:
+    paths:
+      - '.github/workflows/npc-cluster-funders.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  trace:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Trace funders
+        env:
+          SOLANA_RPC_URL: ${{ secrets.SOLANA_RPC_URL }}
+        run: python3 tools/npc_cluster_funders.py
+      - name: Commit report
+        run: |
+          git config user.name "npc-trace-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add trace/npc_cluster_funders.json
+          git commit -m "Add NPC cluster funding report" || exit 0
+          git pull --rebase
+          git push
