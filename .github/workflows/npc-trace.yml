@@ -1,0 +1,34 @@
+name: NPC Whale Trace
+
+on:
+  push:
+    paths:
+      - '.github/workflows/npc-trace.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  trace:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Trace NPC whale
+        env:
+          SOLANA_RPC_URL: ${{ secrets.SOLANA_RPC_URL }}
+        run: python3 tools/npc_trace.py
+      - name: Commit trace report
+        run: |
+          git config user.name "npc-trace-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add trace/npc_hhmz_trace.json trace/npc_hhmz_trace.md
+          if git diff --cached --quiet; then
+            echo "No report changes"
+          else
+            git commit -m "Add NPC whale trace report"
+            git push
+          fi
