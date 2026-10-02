@@ -1,0 +1,18 @@
+name: NPC Compact Accumulation Decode
+on:
+  push:
+    paths:
+      - '.github/workflows/npc-inspect-compact.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Decode
+        env:
+          SOLANA_RPC_URL: ${{ secrets.SOLANA_RPC_URL }}
+        run: python3 tools/npc_inspect_compact.py
