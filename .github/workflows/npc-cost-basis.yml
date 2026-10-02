@@ -16,3 +16,4 @@ jobs:
         env:
           SOLANA_RPC_URL: ${{ secrets.SOLANA_RPC_URL }}
         run: python3 tools/npc_cost_basis.py
+\n# rerun compact\n
