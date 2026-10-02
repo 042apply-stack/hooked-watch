@@ -52,4 +52,5 @@ for sig in SIGS:
   "execUSDC":next((x["delta"]for x in rr if x["owner"]==EXEC and x["mint"]=="EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"),0),
   "execWSOL":next((x["delta"]for x in rr if x["owner"]==EXEC and x["mint"]=="So11111111111111111111111111111111111111112"),0),
   "ownerMintDeltas":rr})
-print(json.dumps(out,indent=2))
+compact=[{"signature":x["signature"],"blockTime":x["blockTime"],"npc":x["targetNPC"],"usdcSpent":-x["execUSDC"] if x["execUSDC"]<0 else 0,"wsolSpent":-x["execWSOL"] if x["execWSOL"]<0 else 0} for x in out]
+print(json.dumps({"rows":compact,"totalNpc":sum(x["npc"] for x in compact),"totalUsdcSpent":sum(x["usdcSpent"] for x in compact),"weightedUsdcPerNpc":sum(x["usdcSpent"] for x in compact)/sum(x["npc"] for x in compact)},indent=2))
