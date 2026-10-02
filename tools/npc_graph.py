@@ -93,7 +93,11 @@ while queue and len(owners)<MAX_OWNERS:
    sig=si["signature"]
    if sig in txseen:continue
    txseen.add(sig)
-   tx=rpc("getTransaction",[sig,{"encoding":"jsonParsed","maxSupportedTransactionVersion":0,"commitment":"confirmed"}])
+   try:
+    tx=rpc("getTransaction",[sig,{"encoding":"jsonParsed","maxSupportedTransactionVersion":1,"commitment":"confirmed"}])
+   except Exception as e:
+    owners[owner].setdefault("txErrors",[]).append({"signature":sig,"error":str(e)})
+    continue
    if not tx:continue
    ds=deltas(tx)
    neg=[(o,-v/10**DEC)for o,v in ds.items()if v<0]
