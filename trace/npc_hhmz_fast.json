@@ -1,0 +1,205 @@
+{
+  "target": "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH",
+  "mint": "7GUnr7krtQhJwd6ASY2VUprd9t4c64zcgCsjdmZepump",
+  "tokenAccount": "oQJpC9tRecH2Yn7sNF4REeK6xtNEzftLxTPpD2eAK6F",
+  "signatureCount": 9,
+  "npcTxCount": 9,
+  "rows": [
+    {
+      "time": "2026-10-01T20:42:47+00:00",
+      "blockTime": 1790887367,
+      "signature": "4YzovAwc971cGpdx3y2UYAMpJSK7ZGQs3VCsWDuLvWKVQVH48xqR1GdSrq7H8BTLjJSg2TWcfbAXQ4BJsVwq9ntX",
+      "npcDelta": -643056.451529,
+      "targetSigned": true,
+      "targetSolDelta": 0.0,
+      "otherNpcOwnerDeltas": {
+        "4aVR9rGRVt9q5jAVfxHPnE75bN6uW6bBFM2mwkjz7hbi": 643056.451529
+      },
+      "signers": [
+        "542RqmbGmMHxvw5bLtbiGyVu4pBuKLw3dBkZ4AcB5Kix",
+        "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH"
+      ],
+      "programs": [
+        "11111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+      ],
+      "systemTransfers": [],
+      "feeSol": 1e-05
+    },
+    {
+      "time": "2026-10-01T20:46:15+00:00",
+      "blockTime": 1790887575,
+      "signature": "5aMMPDdYh5H3XMCvhqKq1jTEWFC9T8orCtpTBKjwLRNzfBZgRp1YycjMtwgRWRdQ4nRXQjxT5SxYwfdcH3LUakbG",
+      "npcDelta": -3254556.381633,
+      "targetSigned": true,
+      "targetSolDelta": 0.0,
+      "otherNpcOwnerDeltas": {
+        "4aVR9rGRVt9q5jAVfxHPnE75bN6uW6bBFM2mwkjz7hbi": 3254556.381633
+      },
+      "signers": [
+        "542RqmbGmMHxvw5bLtbiGyVu4pBuKLw3dBkZ4AcB5Kix",
+        "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH"
+      ],
+      "programs": [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+      ],
+      "systemTransfers": [],
+      "feeSol": 1e-05
+    },
+    {
+      "time": "2026-10-01T20:48:17+00:00",
+      "blockTime": 1790887697,
+      "signature": "4aFAocv7VGLSejQfWjW6SnKuJL5KRbgxmJvFAa7GNYwFJieUQqNMo3w1nrFGQkGCBpqbstwXd5rvfTH4pbwjALxX",
+      "npcDelta": -9770514.842851,
+      "targetSigned": true,
+      "targetSolDelta": 0.0,
+      "otherNpcOwnerDeltas": {
+        "4aVR9rGRVt9q5jAVfxHPnE75bN6uW6bBFM2mwkjz7hbi": 9770514.842851
+      },
+      "signers": [
+        "8eEWHgnSmx48ZYo8czQLY1xznBLCJfdRQEq5vURJYi6P",
+        "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH"
+      ],
+      "programs": [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+      ],
+      "systemTransfers": [],
+      "feeSol": 1e-05
+    },
+    {
+      "time": "2026-10-01T20:49:59+00:00",
+      "blockTime": 1790887799,
+      "signature": "3wz5wZDD49bioNnUE7g1qCyURMgQdKqqeBiUtQ5ieFGB8vAgawW3ddS7hxgEKx3vTdgQrmWorCP1JfWPPpKAaG6L",
+      "npcDelta": -9770685.566145,
+      "targetSigned": true,
+      "targetSolDelta": 0.0,
+      "otherNpcOwnerDeltas": {
+        "4aVR9rGRVt9q5jAVfxHPnE75bN6uW6bBFM2mwkjz7hbi": 9770685.566145
+      },
+      "signers": [
+        "8eEWHgnSmx48ZYo8czQLY1xznBLCJfdRQEq5vURJYi6P",
+        "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH"
+      ],
+      "programs": [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+      ],
+      "systemTransfers": [],
+      "feeSol": 1e-05
+    },
+    {
+      "time": "2026-10-01T20:51:58+00:00",
+      "blockTime": 1790887918,
+      "signature": "Pb3j3vuuDLry7KYG7uSm38kCShwHKZLB8tEEj7yfx4hSxXz3ChMPNQVxjRY4KM4DpuKZgu6Wn1U4K5XDQRMos4c",
+      "npcDelta": -9802808.954602,
+      "targetSigned": true,
+      "targetSolDelta": 0.0,
+      "otherNpcOwnerDeltas": {
+        "4aVR9rGRVt9q5jAVfxHPnE75bN6uW6bBFM2mwkjz7hbi": 9802808.954602
+      },
+      "signers": [
+        "542RqmbGmMHxvw5bLtbiGyVu4pBuKLw3dBkZ4AcB5Kix",
+        "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH"
+      ],
+      "programs": [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+      ],
+      "systemTransfers": [],
+      "feeSol": 1e-05
+    },
+    {
+      "time": "2026-10-01T20:54:40+00:00",
+      "blockTime": 1790888080,
+      "signature": "4PKmNm1Uvt7PZTxoRPu84LyUykCdY8UpsJwEqGb8QMqdgxjdtudtHoEdo5BG9Va5MuQiL1EaLkcyrwiQfDxr2wDd",
+      "npcDelta": -6801894.740008,
+      "targetSigned": true,
+      "targetSolDelta": 0.0,
+      "otherNpcOwnerDeltas": {
+        "4aVR9rGRVt9q5jAVfxHPnE75bN6uW6bBFM2mwkjz7hbi": 6801894.740008
+      },
+      "signers": [
+        "8eEWHgnSmx48ZYo8czQLY1xznBLCJfdRQEq5vURJYi6P",
+        "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH"
+      ],
+      "programs": [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+      ],
+      "systemTransfers": [],
+      "feeSol": 1e-05
+    },
+    {
+      "time": "2026-10-02T00:09:50+00:00",
+      "blockTime": 1790899790,
+      "signature": "3npeZV3remAfnXJUhub3Hi7eskunJkdm65BAfTkxP871Z6eGPfC7VHrai7f2qahm2p1WWNHKcUowyv8mzpvFGakJ",
+      "npcDelta": 3119170.304695,
+      "targetSigned": false,
+      "targetSolDelta": 0.0,
+      "otherNpcOwnerDeltas": {
+        "BRjMA8UALNp3diTKHfdeAn5riQrYPoaYez7KhYWD4oEs": -3119170.304695
+      },
+      "signers": [
+        "7iVCXQn4u6tiTEfNVqbWSEsRdEi69E9oYsSMiepuECwi"
+      ],
+      "programs": [
+        "11111111111111111111111111111111",
+        "58PMEdUAwvLytNNwCbzrYyhLoh3jpsNV4fW9dT9ibuRc",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "ComputeBudget111111111111111111111111111111",
+        "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH",
+        "TessVdML9pBGgG9yGks7o4HewRaXVAMuoVj4x83GLQH",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+        "pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ"
+      ],
+      "systemTransfers": [
+        {
+          "source": "7iVCXQn4u6tiTEfNVqbWSEsRdEi69E9oYsSMiepuECwi",
+          "destination": "3XCBmEGtot44VFAoBXWoDoBDii7tCaVdQXA5pVV26qfo",
+          "sol": 0.001
+        }
+      ],
+      "feeSol": 5.518e-06
+    },
+    {
+      "time": "2026-10-02T08:19:01+00:00",
+      "blockTime": 1790929141,
+      "signature": "onTEP47RphHaPHTfHLYiEXRTgwrfsFzAqRAMQKdxeaDmZmCKFr8msC3X8fhs1BK1AzrBASKcvbo5UnMJgvALaa9",
+      "npcDelta": -958523.451964,
+      "targetSigned": true,
+      "targetSolDelta": 0.0,
+      "otherNpcOwnerDeltas": {
+        "BZBPNij3AaVsk2zogTKYFnAHmRjw9ZEYJoWzakgQbRN9": 958523.451964
+      },
+      "signers": [
+        "542RqmbGmMHxvw5bLtbiGyVu4pBuKLw3dBkZ4AcB5Kix",
+        "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH"
+      ],
+      "programs": [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+      ],
+      "systemTransfers": [],
+      "feeSol": 1e-05
+    },
+    {
+      "time": "2026-10-02T08:21:19+00:00",
+      "blockTime": 1790929279,
+      "signature": "58eh7g1c6c7UsUTdGXXLV2nXvLPAFvpTA58uoxtcURYhbyy8jeUhMiVkhRujMJNV1JSe5naY4QAiJXsZunxgo7Xg",
+      "npcDelta": -14350627.901811,
+      "targetSigned": true,
+      "targetSolDelta": 0.0,
+      "otherNpcOwnerDeltas": {
+        "BZBPNij3AaVsk2zogTKYFnAHmRjw9ZEYJoWzakgQbRN9": 14350627.901811
+      },
+      "signers": [
+        "8eEWHgnSmx48ZYo8czQLY1xznBLCJfdRQEq5vURJYi6P",
+        "HhmZp65YmWSddyumkFcHDzaykYKCDeLMTSwJqnw9sbtH"
+      ],
+      "programs": [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+      ],
+      "systemTransfers": [],
+      "feeSol": 1e-05
+    }
+  ]
+}
