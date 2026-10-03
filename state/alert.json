@@ -1,73 +1,45 @@
 {
-  "checked_at": "2026-10-03T00:10:01+00:00",
+  "checked_at": "2026-10-03T05:18:02+00:00",
   "events": [
     {
       "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 960,897,911; cumulative burn ~39,102,089",
+      "detail": "Current supply 959,990,899; cumulative burn ~40,009,101",
       "key": "burn",
-      "severity": "HIGH",
-      "title": "Supply fell by 4,807,885 HOOKED"
+      "severity": "MEDIUM",
+      "title": "Supply fell by 907,012 HOOKED"
     },
     {
       "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
-      "detail": "4BVLfyKKb4YHDhScADscYVJ7ie9jG9i7t8KxdkVm7YU9 45.00% -> 0.00%",
-      "key": "lp_unlock:4BVLfyKKb4YHDhScADscYVJ7ie9jG9i7t8KxdkVm7YU9",
+      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 100.00% -> 29.96%",
+      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
       "severity": "CRITICAL",
       "title": "LP locked percentage fell materially"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 5JVPSrty4o8kQUURtpVJfoKQm2mBZ6qtc9KaktGWZkf6dJe9n2FsbSDVcJNpgBpXdLpu4eHaWPi4nqHgSf7om1CH",
+      "detail": "Latest tx 2kuwLU4NCcsZYz3mxH43V6aG12t1bhMJt5Uv695GCwvsbVTLjQG8YpYaoarnu8ykAseQT1GSsqG1tUhB8DT6ansc",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 2BCdwhCtwQLetFDvGpvoEUe1opbSr6zzJC4WBXrD552FcdPCqBCMkYXzdNRAnk8u7WExo8atHz8KLJNYVyqDs7ew",
+      "detail": "Latest tx 48UJYnDthqLmXB9iZUxSDCyK5c7GCbbRGZmnDfnfLWtyUwqV1ywf6B7xgBFoccRGm5ynTXkr4Lrymf77fpBcFpY4",
       "key": "upgrade_activity",
       "severity": "HIGH",
       "title": "Upgrade authority wallet has new activity"
     },
     {
       "action": "THESIS STRENGTHENED",
-      "detail": "177,357 HOOKED burned",
-      "key": "burn:23BkdM8uHzQxD157RcpZDWtMksdzRShKdSqzEjjeXw6z1VczM7gEB6JmFZ4A5CFuE4MAt3hY4bwpJfNnAEY2ZJZm",
+      "detail": "88,478 HOOKED burned",
+      "key": "burn:4svKgxgAu5w7Gch8uAT5i4Ru922FKfHpoeXkywLa4o9mzbz4xgYZZNUixLjBSPMaCmJTxPPSNoroUe2AGh3opasX",
       "severity": "MEDIUM",
       "title": "New flywheel burn"
-    },
-    {
-      "action": "USAGE SIGNAL",
-      "detail": "371 -> 500",
-      "key": "launches",
-      "severity": "MEDIUM",
-      "title": "New Hooked launches"
-    },
-    {
-      "action": "REVIEW UPGRADE",
-      "detail": "surfaced_2 12ypsCgFnKHH2Ux9Dn8B1NgsoHWY92cVrkRjAK1oBsYg",
-      "key": "progchg:12ypsCgFnKHH2Ux9Dn8B1NgsoHWY92cVrkRjAK1oBsYg",
-      "severity": "HIGH",
-      "title": "Program account data changed"
-    },
-    {
-      "action": "REVIEW UPGRADE",
-      "detail": "surfaced_6 21Ju2Gz56cVKX8SBobrULep1XhninLxqoL12ujGmWEFF",
-      "key": "progchg:21Ju2Gz56cVKX8SBobrULep1XhninLxqoL12ujGmWEFF",
-      "severity": "HIGH",
-      "title": "Program account data changed"
-    },
-    {
-      "action": "REVIEW UPGRADE",
-      "detail": "surfaced_9 243mUJSidaDFvKa1gnf2Zvb3mRBT9Q85wGrtXZcTaS7e",
-      "key": "progchg:243mUJSidaDFvKa1gnf2Zvb3mRBT9Q85wGrtXZcTaS7e",
-      "severity": "HIGH",
-      "title": "Program account data changed"
     }
   ],
   "issue": {
-    "number": 18,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/18"
+    "number": 19,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/19"
   },
   "telegram": {
     "error": "telegram secrets not configured"
