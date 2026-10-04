@@ -1,45 +1,52 @@
 {
-  "checked_at": "2026-10-04T19:54:53+00:00",
+  "checked_at": "2026-10-04T22:45:21+00:00",
   "events": [
     {
-      "action": "REVIEW PROFIT / RISK",
-      "detail": "8,783,320 USD -> 10,103,729 USD",
-      "key": "mc_move",
-      "severity": "MEDIUM",
-      "title": "Market cap moved +15.0%"
-    },
-    {
       "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 955,856,654; cumulative burn ~44,143,346",
+      "detail": "Current supply 953,132,636; cumulative burn ~46,867,364",
       "key": "burn",
-      "severity": "MEDIUM",
-      "title": "Supply fell by 514,441 HOOKED"
+      "severity": "HIGH",
+      "title": "Supply fell by 2,724,019 HOOKED"
     },
     {
-      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
-      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 61.05% -> 38.45%",
-      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
-      "severity": "CRITICAL",
-      "title": "LP locked percentage fell materially"
+      "action": "INVESTIGATE",
+      "detail": "8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz funded with 6.00000 SOL; holds 0 HOOKED",
+      "key": "funded:8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz",
+      "severity": "MEDIUM",
+      "title": "New creator-funded wallet"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 3mt89zpveTzfH8eu8ahaXFADWPsVAJz2Ajqhstjce353eFzY6KzVG3p4X2CFHkvt8FVFbEUKct4DMMvay9yQHGE7",
+      "detail": "Latest tx 4gxPMEqMVdCtz1JcxjVYBLEeEJ8WzQC9cvEWbQzDR2ZoFgkFVXfE4erNj7yuU9TxxD33RaHopY4ug9MFejKF9bXT",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 3wChjKkihBcTNRqi36J2Cx3m6YZWGjvNLWWmc2HDReTKiTDwdauqYhwtaXHZtXE154q3HBaLy8XvefWwuThkkfDN",
+      "detail": "Latest tx 2BbJoqVeASzWcAjYGRCK2oPjHDY4VJhyesehnVynhAGdzYvDYyE5NNASVtVfzhTpbpDer8Y2A4uWreV4gFMbyoEx",
       "key": "upgrade_activity",
       "severity": "HIGH",
       "title": "Upgrade authority wallet has new activity"
+    },
+    {
+      "action": "THESIS STRENGTHENED",
+      "detail": "92,189 HOOKED burned",
+      "key": "burn:51VrvG4Enouytiuu6SBHjGu6yPg3BD2weXtNeJ9rK6qZXgafwiy8hAHp1vc7tX42nQDD6vLPzDe4gjpVBsUzG8D5",
+      "severity": "MEDIUM",
+      "title": "New flywheel burn"
+    },
+    {
+      "action": "REVIEW UPGRADE",
+      "detail": "surfaced_8 14db9tcpdGzzTkHRgsmSGu2C6h1QgVVUbymjQyVnHg9r",
+      "key": "progchg:14db9tcpdGzzTkHRgsmSGu2C6h1QgVVUbymjQyVnHg9r",
+      "severity": "HIGH",
+      "title": "Program account data changed"
     }
   ],
   "issue": {
-    "number": 28,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/28"
+    "number": 29,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/29"
   },
   "telegram": {
     "error": "telegram secrets not configured"
