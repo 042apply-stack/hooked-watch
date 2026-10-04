@@ -1,35 +1,34 @@
 # HOOKED Watch - Latest
 
-Checked: **2026-10-04T06:10:55+00:00**
+Checked: **2026-10-04T12:23:25+00:00**
 
 ## Position
 - Entry reference: **1,000 USD at ~950,000 USD MC**
-- Current MC: **9,736,612 USD**
-- MC vs entry: **+924.9%**
-- Rough value if token amount unchanged: **10,249 USD**
+- Current MC: **8,934,967 USD**
+- MC vs entry: **+840.5%**
+- Rough value if token amount unchanged: **9,405 USD**
 
 ## Market
-- Price: **0.00973600 USD**
-- Liquidity: **1,127,550 USD**
-- 24h volume: **9,647,732 USD**
-- Top pair 1h buys/sells: **367 / 155**
+- Price: **0.00893400 USD**
+- Liquidity: **1,134,574 USD**
+- 24h volume: **10,025,606 USD**
+- Top pair 1h buys/sells: **159 / 276**
 
 ## Token / security
-- Supply: **956,975,590 HOOKED**
-- Burned from 1B ref: **43,024,410 HOOKED**
+- Supply: **956,818,871 HOOKED**
+- Burned from 1B ref: **43,181,129 HOOKED**
 - Mint authority: **None**
 - Freeze authority: **None**
 - Creator direct balance: **0**
 - RugCheck graph insiders: **32**
-- Top-10 holder concentration: **21.79%**
+- Top-10 holder concentration: **21.71%**
 
 ## Product
 - Launches detected: **100**
 
 ## Alerts this run
-- **[MEDIUM] Market cap moved -24.2%** - 12,848,204 USD -> 9,736,612 USD - Action: **REVIEW PROFIT / RISK**
-- **[MEDIUM] Supply fell by 874,239 HOOKED** - Current supply 956,975,590; cumulative burn ~43,024,410 - Action: **THESIS STRENGTHENED**
-- **[HIGH] Insider graph expanded** - 31 -> 32 - Action: **REVIEW LINKED WALLETS**
-- **[HIGH] Creator/deployer wallet has new activity** - Latest tx s48wD8o6Ay1bDSkZ7V7GacYeLGPJNpueUckSTsxX2AeS6p9LUfG4RP5P798fbGaMd7LDYm6EZP6treheUs8Vsjn - Action: **REVIEW TRANSACTION**
+- **[MEDIUM] Supply fell by 156,719 HOOKED** - Current supply 956,818,871; cumulative burn ~43,181,129 - Action: **THESIS STRENGTHENED**
+- **[CRITICAL] LP locked percentage fell materially** - C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 100.00% -> 44.53% - Action: **REDUCE RISK / VERIFY LIQUIDITY CONTROL**
+- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 3UhGYN3WmW1TJQQhZC4SqPVHxbk9ajBMUJd9ap7R58ru69JSyj86cEXxyPssRqnQAVherFfoR41VoMA2y5ruU1gQ - Action: **REVIEW TRANSACTION**
 
 _Monitor only. No automatic trading._
