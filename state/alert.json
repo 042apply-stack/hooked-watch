@@ -1,31 +1,45 @@
 {
-  "checked_at": "2026-10-04T12:23:25+00:00",
+  "checked_at": "2026-10-04T16:55:54+00:00",
   "events": [
     {
       "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 956,818,871; cumulative burn ~43,181,129",
+      "detail": "Current supply 956,371,096; cumulative burn ~43,628,904",
       "key": "burn",
       "severity": "MEDIUM",
-      "title": "Supply fell by 156,719 HOOKED"
+      "title": "Supply fell by 447,775 HOOKED"
     },
     {
-      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
-      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 100.00% -> 44.53%",
-      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
-      "severity": "CRITICAL",
-      "title": "LP locked percentage fell materially"
+      "action": "INVESTIGATE",
+      "detail": "8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz funded with 2.00000 SOL; holds 0 HOOKED",
+      "key": "funded:8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz",
+      "severity": "MEDIUM",
+      "title": "New creator-funded wallet"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 3UhGYN3WmW1TJQQhZC4SqPVHxbk9ajBMUJd9ap7R58ru69JSyj86cEXxyPssRqnQAVherFfoR41VoMA2y5ruU1gQ",
+      "detail": "Latest tx 5imwGzwvT2HjPKhLxYQwXnc1wo7BWET18nKZEF6vYp19kG3udsixyhDUDiDqrgar5ToGpTgKjnW4xpEbCet4VtHB",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
+    },
+    {
+      "action": "REVIEW TRANSACTION",
+      "detail": "Latest tx 3FeKg6SYzNp6qk9SMEzzjaVER6RcwPjWKQPYuy4BUg4QgE9x16nUT4k9YW6x1AwGbTMKfNmeiQzJf7sDCPShvudb",
+      "key": "upgrade_activity",
+      "severity": "HIGH",
+      "title": "Upgrade authority wallet has new activity"
+    },
+    {
+      "action": "THESIS STRENGTHENED",
+      "detail": "182,998 HOOKED burned",
+      "key": "burn:f8L7LcqELFBjmBtGYamzk1hUMmxSskuKopkitpTJptJqhBRwUqWsJUEHhECtfYWajqyj18XGDfm128Qw3Krgf8q",
+      "severity": "MEDIUM",
+      "title": "New flywheel burn"
     }
   ],
   "issue": {
-    "number": 26,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/26"
+    "number": 27,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/27"
   },
   "telegram": {
     "error": "telegram secrets not configured"
