@@ -1,37 +1,37 @@
 # HOOKED Watch - Latest
 
-Checked: **2026-10-04T22:45:21+00:00**
+Checked: **2026-10-05T01:36:59+00:00**
 
 ## Position
 - Entry reference: **1,000 USD at ~950,000 USD MC**
-- Current MC: **9,816,443 USD**
-- MC vs entry: **+933.3%**
-- Rough value if token amount unchanged: **10,333 USD**
+- Current MC: **8,368,148 USD**
+- MC vs entry: **+780.9%**
+- Rough value if token amount unchanged: **8,809 USD**
 
 ## Market
-- Price: **0.00981600 USD**
-- Liquidity: **1,156,318 USD**
-- 24h volume: **7,490,409 USD**
-- Top pair 1h buys/sells: **155 / 134**
+- Price: **0.00836800 USD**
+- Liquidity: **1,210,599 USD**
+- 24h volume: **6,898,463 USD**
+- Top pair 1h buys/sells: **266 / 90**
 
 ## Token / security
-- Supply: **953,132,636 HOOKED**
-- Burned from 1B ref: **46,867,364 HOOKED**
+- Supply: **952,197,986 HOOKED**
+- Burned from 1B ref: **47,802,014 HOOKED**
 - Mint authority: **None**
 - Freeze authority: **None**
 - Creator direct balance: **0**
 - RugCheck graph insiders: **32**
-- Top-10 holder concentration: **21.89%**
+- Top-10 holder concentration: **21.53%**
 
 ## Product
 - Launches detected: **100**
 
 ## Alerts this run
-- **[HIGH] Supply fell by 2,724,019 HOOKED** - Current supply 953,132,636; cumulative burn ~46,867,364 - Action: **THESIS STRENGTHENED**
-- **[MEDIUM] New creator-funded wallet** - 8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz funded with 6.00000 SOL; holds 0 HOOKED - Action: **INVESTIGATE**
-- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 4gxPMEqMVdCtz1JcxjVYBLEeEJ8WzQC9cvEWbQzDR2ZoFgkFVXfE4erNj7yuU9TxxD33RaHopY4ug9MFejKF9bXT - Action: **REVIEW TRANSACTION**
-- **[HIGH] Upgrade authority wallet has new activity** - Latest tx 2BbJoqVeASzWcAjYGRCK2oPjHDY4VJhyesehnVynhAGdzYvDYyE5NNASVtVfzhTpbpDer8Y2A4uWreV4gFMbyoEx - Action: **REVIEW TRANSACTION**
-- **[MEDIUM] New flywheel burn** - 92,189 HOOKED burned - Action: **THESIS STRENGTHENED**
-- **[HIGH] Program account data changed** - surfaced_8 14db9tcpdGzzTkHRgsmSGu2C6h1QgVVUbymjQyVnHg9r - Action: **REVIEW UPGRADE**
+- **[MEDIUM] Supply fell by 934,650 HOOKED** - Current supply 952,197,986; cumulative burn ~47,802,014 - Action: **THESIS STRENGTHENED**
+- **[CRITICAL] LP locked percentage fell materially** - C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 57.60% -> 30.85% - Action: **REDUCE RISK / VERIFY LIQUIDITY CONTROL**
+- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 544oZjfLETKy8cqC879oeo2mnaxWFMqSTRr7raMJjtYDqbZKMieQwxCbCnk32J7B3ZfdAKAfqEh679Vv4WL1d18y - Action: **REVIEW TRANSACTION**
+- **[HIGH] Upgrade authority wallet has new activity** - Latest tx 4nv2Lon59rrWbZ4pygMm6f3WARHRYVb39d5tkgZTv6EYpuJwc4DEATNTa3R7KNYpfkuEJ53MiLK4arWW3vGQX6eo - Action: **REVIEW TRANSACTION**
+- **[MEDIUM] New flywheel burn** - 57,126 HOOKED burned - Action: **THESIS STRENGTHENED**
+- **[HIGH] Program account data changed** - surfaced_2 12L53TQKT3DZqb1a7XMX9wTRuEMcSHQRLZwRiNrresZN - Action: **REVIEW UPGRADE**
 
 _Monitor only. No automatic trading._
