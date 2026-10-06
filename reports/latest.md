@@ -1,33 +1,34 @@
 # HOOKED Watch - Latest
 
-Checked: **2026-10-06T09:26:12+00:00**
+Checked: **2026-10-06T16:08:59+00:00**
 
 ## Position
 - Entry reference: **1,000 USD at ~950,000 USD MC**
-- Current MC: **8,032,525 USD**
-- MC vs entry: **+745.5%**
-- Rough value if token amount unchanged: **8,455 USD**
+- Current MC: **7,241,694 USD**
+- MC vs entry: **+662.3%**
+- Rough value if token amount unchanged: **7,623 USD**
 
 ## Market
-- Price: **0.00803200 USD**
-- Liquidity: **1,149,864 USD**
-- 24h volume: **6,157,513 USD**
-- Top pair 1h buys/sells: **52 / 163**
+- Price: **0.00724100 USD**
+- Liquidity: **1,155,476 USD**
+- 24h volume: **5,358,166 USD**
+- Top pair 1h buys/sells: **117 / 85**
 
 ## Token / security
-- Supply: **944,947,298 HOOKED**
-- Burned from 1B ref: **55,052,702 HOOKED**
+- Supply: **944,396,535 HOOKED**
+- Burned from 1B ref: **55,603,465 HOOKED**
 - Mint authority: **None**
 - Freeze authority: **None**
 - Creator direct balance: **0**
 - RugCheck graph insiders: **32**
-- Top-10 holder concentration: **21.92%**
+- Top-10 holder concentration: **22.05%**
 
 ## Product
 - Launches detected: **100**
 
 ## Alerts this run
-- **[HIGH] Supply fell by 1,310,610 HOOKED** - Current supply 944,947,298; cumulative burn ~55,052,702 - Action: **THESIS STRENGTHENED**
-- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 638hZ8FDnCMPsJFgrYuWChCkShCqE5p5Doz8sYQZp4CSajGkL7YnjgBavs5KbnryTiUTnijMUenFmmmtMhCW3QX1 - Action: **REVIEW TRANSACTION**
+- **[MEDIUM] Supply fell by 550,763 HOOKED** - Current supply 944,396,535; cumulative burn ~55,603,465 - Action: **THESIS STRENGTHENED**
+- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 2ygfUEKiGyqgBdWfMWMQPCdGK6B43GgNeX1KauGYr6ggCHoJ94wmqGUDFjCJrERmfwxpcatA2JyA8F81voK8ksxb - Action: **REVIEW TRANSACTION**
+- **[MEDIUM] New flywheel burn** - 53,388 HOOKED burned - Action: **THESIS STRENGTHENED**
 
 _Monitor only. No automatic trading._

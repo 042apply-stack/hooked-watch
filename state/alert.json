@@ -1,24 +1,31 @@
 {
-  "checked_at": "2026-10-06T09:26:12+00:00",
+  "checked_at": "2026-10-06T16:08:59+00:00",
   "events": [
     {
       "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 944,947,298; cumulative burn ~55,052,702",
+      "detail": "Current supply 944,396,535; cumulative burn ~55,603,465",
       "key": "burn",
-      "severity": "HIGH",
-      "title": "Supply fell by 1,310,610 HOOKED"
+      "severity": "MEDIUM",
+      "title": "Supply fell by 550,763 HOOKED"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 638hZ8FDnCMPsJFgrYuWChCkShCqE5p5Doz8sYQZp4CSajGkL7YnjgBavs5KbnryTiUTnijMUenFmmmtMhCW3QX1",
+      "detail": "Latest tx 2ygfUEKiGyqgBdWfMWMQPCdGK6B43GgNeX1KauGYr6ggCHoJ94wmqGUDFjCJrERmfwxpcatA2JyA8F81voK8ksxb",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
+    },
+    {
+      "action": "THESIS STRENGTHENED",
+      "detail": "53,388 HOOKED burned",
+      "key": "burn:DjKq1akfFnxDZpGxU14do5wqWYg3Fn5L6XsPUGt6XUYaRNPX3s5sLKpuF9A2Ld8qWCmHLwceQkwS7GfRxLi65it",
+      "severity": "MEDIUM",
+      "title": "New flywheel burn"
     }
   ],
   "issue": {
-    "number": 35,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/35"
+    "number": 36,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/36"
   },
   "telegram": {
     "error": "telegram secrets not configured"
