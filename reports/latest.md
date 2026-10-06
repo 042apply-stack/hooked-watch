@@ -1,34 +1,33 @@
 # HOOKED Watch - Latest
 
-Checked: **2026-10-05T22:50:19+00:00**
+Checked: **2026-10-06T02:41:47+00:00**
 
 ## Position
 - Entry reference: **1,000 USD at ~950,000 USD MC**
-- Current MC: **8,275,458 USD**
-- MC vs entry: **+771.1%**
-- Rough value if token amount unchanged: **8,711 USD**
+- Current MC: **7,601,315 USD**
+- MC vs entry: **+700.1%**
+- Rough value if token amount unchanged: **8,001 USD**
 
 ## Market
-- Price: **0.00827500 USD**
-- Liquidity: **1,220,137 USD**
-- 24h volume: **6,001,052 USD**
-- Top pair 1h buys/sells: **205 / 223**
+- Price: **0.00760100 USD**
+- Liquidity: **1,184,909 USD**
+- 24h volume: **5,386,095 USD**
+- Top pair 1h buys/sells: **212 / 199**
 
 ## Token / security
-- Supply: **947,621,196 HOOKED**
-- Burned from 1B ref: **52,378,804 HOOKED**
+- Supply: **946,257,908 HOOKED**
+- Burned from 1B ref: **53,742,092 HOOKED**
 - Mint authority: **None**
 - Freeze authority: **None**
 - Creator direct balance: **0**
 - RugCheck graph insiders: **32**
-- Top-10 holder concentration: **21.61%**
+- Top-10 holder concentration: **21.60%**
 
 ## Product
 - Launches detected: **100**
 
 ## Alerts this run
-- **[HIGH] Supply fell by 3,728,630 HOOKED** - Current supply 947,621,196; cumulative burn ~52,378,804 - Action: **THESIS STRENGTHENED**
-- **[CRITICAL] LP locked percentage fell materially** - C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 43.08% -> 31.65% - Action: **REDUCE RISK / VERIFY LIQUIDITY CONTROL**
-- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 3nEgA76QLGnKUdXAu1RRY4NJjw8E4HSMQRsTC5EMDV1LqzH6s41VibGsRxxEpYGWAqhD7FVBt5xMtEyxhJwmKZTU - Action: **REVIEW TRANSACTION**
+- **[HIGH] Supply fell by 1,363,288 HOOKED** - Current supply 946,257,908; cumulative burn ~53,742,092 - Action: **THESIS STRENGTHENED**
+- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 4TpkS4HBVtP6876CCYEbeGRcMWfXCSYWmgMtPaPcWEYHGRZ4aGjVfxDxSh5uxT7sw8HyGBjJv4xof9bWYUUF4oKC - Action: **REVIEW TRANSACTION**
 
 _Monitor only. No automatic trading._
