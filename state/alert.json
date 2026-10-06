@@ -1,31 +1,66 @@
 {
-  "checked_at": "2026-10-06T16:08:59+00:00",
+  "checked_at": "2026-10-06T20:58:36+00:00",
   "events": [
     {
       "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 944,396,535; cumulative burn ~55,603,465",
+      "detail": "Current supply 942,768,880; cumulative burn ~57,231,120",
       "key": "burn",
+      "severity": "HIGH",
+      "title": "Supply fell by 1,627,655 HOOKED"
+    },
+    {
+      "action": "REVIEW LINKED WALLETS",
+      "detail": "32 -> 33",
+      "key": "insider_growth",
+      "severity": "HIGH",
+      "title": "Insider graph expanded"
+    },
+    {
+      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
+      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 100.00% -> 87.85%",
+      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
+      "severity": "CRITICAL",
+      "title": "LP locked percentage fell materially"
+    },
+    {
+      "action": "INVESTIGATE",
+      "detail": "BGTy8NtJ4EzPyFGArEu1JJvim536h4FBURsMyW5rrn7Z funded with 2.97636 SOL; holds 0 HOOKED",
+      "key": "funded:BGTy8NtJ4EzPyFGArEu1JJvim536h4FBURsMyW5rrn7Z",
       "severity": "MEDIUM",
-      "title": "Supply fell by 550,763 HOOKED"
+      "title": "New creator-funded wallet"
+    },
+    {
+      "action": "INVESTIGATE",
+      "detail": "CcTNKBhQKYu7nB4eRrRFQoXEvpd6H5QnGKh93pwniBtp funded with 0.00002 SOL; holds 0 HOOKED",
+      "key": "funded:CcTNKBhQKYu7nB4eRrRFQoXEvpd6H5QnGKh93pwniBtp",
+      "severity": "MEDIUM",
+      "title": "New creator-funded wallet"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 2ygfUEKiGyqgBdWfMWMQPCdGK6B43GgNeX1KauGYr6ggCHoJ94wmqGUDFjCJrERmfwxpcatA2JyA8F81voK8ksxb",
+      "detail": "Latest tx 3E2iZDwQS6UfEGYezT4PYQfxFoJCUQ1BcMyy3FBqr7aapiwQjrVoV6qUUtK1T7MpZpYimHAFDGsQW6hBRt65MS6Z",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     },
     {
-      "action": "THESIS STRENGTHENED",
-      "detail": "53,388 HOOKED burned",
-      "key": "burn:DjKq1akfFnxDZpGxU14do5wqWYg3Fn5L6XsPUGt6XUYaRNPX3s5sLKpuF9A2Ld8qWCmHLwceQkwS7GfRxLi65it",
-      "severity": "MEDIUM",
-      "title": "New flywheel burn"
+      "action": "REVIEW TRANSACTION",
+      "detail": "Latest tx 35DWjBmRVGP5uutMSHkxJELbn9TfVxQJ61rvt6hQ8ZcPk6AJtKEGKy755jhB1fWcnr7oEYssHhcCPVCWxWJRMtDc",
+      "key": "upgrade_activity",
+      "severity": "HIGH",
+      "title": "Upgrade authority wallet has new activity"
+    },
+    {
+      "action": "REVIEW UPGRADE",
+      "detail": "surfaced_9 1xPPNdQUthpfKE8C6kF6zeuMKyJiMF4LXHh1MoKoeHf",
+      "key": "progchg:1xPPNdQUthpfKE8C6kF6zeuMKyJiMF4LXHh1MoKoeHf",
+      "severity": "HIGH",
+      "title": "Program account data changed"
     }
   ],
   "issue": {
-    "number": 36,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/36"
+    "number": 37,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/37"
   },
   "telegram": {
     "error": "telegram secrets not configured"
