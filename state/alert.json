@@ -1,30 +1,23 @@
 {
-  "checked_at": "2026-10-09T10:32:50+00:00",
+  "checked_at": "2026-10-09T17:11:23+00:00",
   "events": [
     {
       "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 935,635,462; cumulative burn ~64,364,538",
+      "detail": "Current supply 935,357,821; cumulative burn ~64,642,179",
       "key": "burn",
       "severity": "MEDIUM",
-      "title": "Supply fell by 175,311 HOOKED"
-    },
-    {
-      "action": "REVIEW LINKED WALLETS",
-      "detail": "33 -> 34",
-      "key": "insider_growth",
-      "severity": "HIGH",
-      "title": "Insider graph expanded"
+      "title": "Supply fell by 277,640 HOOKED"
     },
     {
       "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
-      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 51.37% -> 31.64%",
-      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
+      "detail": "4BVLfyKKb4YHDhScADscYVJ7ie9jG9i7t8KxdkVm7YU9 24.00% -> 0.00%",
+      "key": "lp_unlock:4BVLfyKKb4YHDhScADscYVJ7ie9jG9i7t8KxdkVm7YU9",
       "severity": "CRITICAL",
       "title": "LP locked percentage fell materially"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 5sdjxu4BGo3BGP7mya9W1emKRggdieiHfUCDw63puseaefpj5vRU8RiCScQkg6qhz6NDVmXHbdN2uHDpwNV2cxqf",
+      "detail": "Latest tx 5RnSZLfnAmmtPMjy128KzDfVz5EYrNQnNgnTvXYjyni1HALySxrQbHbNGkmukgYPTgq4Nbofc8yz2mbf4Pp5mDkT",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
@@ -38,8 +31,8 @@
     }
   ],
   "issue": {
-    "number": 48,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/48"
+    "number": 49,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/49"
   },
   "telegram": {
     "error": "telegram secrets not configured"
