@@ -1,38 +1,45 @@
 {
-  "checked_at": "2026-10-10T13:58:11+00:00",
+  "checked_at": "2026-10-10T18:24:02+00:00",
   "events": [
     {
-      "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 933,962,421; cumulative burn ~66,037,579",
-      "key": "burn",
+      "action": "REVIEW PROFIT / RISK",
+      "detail": "8,010,762 USD -> 6,802,623 USD",
+      "key": "mc_move",
       "severity": "MEDIUM",
-      "title": "Supply fell by 220,509 HOOKED"
+      "title": "Market cap moved -15.1%"
     },
     {
-      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
-      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 100.00% -> 33.09%",
-      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
-      "severity": "CRITICAL",
-      "title": "LP locked percentage fell materially"
+      "action": "THESIS STRENGTHENED",
+      "detail": "Current supply 933,773,477; cumulative burn ~66,226,523",
+      "key": "burn",
+      "severity": "MEDIUM",
+      "title": "Supply fell by 188,944 HOOKED"
+    },
+    {
+      "action": "REVIEW LINKED WALLETS",
+      "detail": "34 -> 35",
+      "key": "insider_growth",
+      "severity": "HIGH",
+      "title": "Insider graph expanded"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 5mEzFzuvJ58YhUy2ztPvtGBAsF6NsEKdKyxYL8tTBuWenZNyQbvJzNmtqwU55RNfGgd2qs9c6NRTd3gwdZwWZ9BL",
+      "detail": "Latest tx 4UqpiVijHBLMwdFbtcC9ci5zHpaWRqb7G3duqayApA9sfsDnZiiTrA4Ht9dMyb2UVK7TtntVE9W7LZMQWZH2Jodj",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     },
     {
-      "action": "REVIEW UPGRADE",
-      "detail": "surfaced_3 12wtaZg2JzAbf8CdKkjdxsNSxgsoeDE9DBvnXxSZVFzU",
-      "key": "progchg:12wtaZg2JzAbf8CdKkjdxsNSxgsoeDE9DBvnXxSZVFzU",
-      "severity": "HIGH",
-      "title": "Program account data changed"
+      "action": "THESIS STRENGTHENED",
+      "detail": "93,475 HOOKED burned",
+      "key": "burn:4vqKzQQVJkr8fT2ujmpgBAZ75HwKkr9RbXyTFNVxVaR6ywRJEusEZAwweRa1xrjinmFiH6uNjsWzRee3gaS3mFMf",
+      "severity": "MEDIUM",
+      "title": "New flywheel burn"
     }
   ],
   "issue": {
-    "number": 53,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/53"
+    "number": 54,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/54"
   },
   "telegram": {
     "error": "telegram secrets not configured"
