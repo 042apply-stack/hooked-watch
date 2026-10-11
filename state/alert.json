@@ -1,31 +1,24 @@
 {
-  "checked_at": "2026-10-11T06:28:57+00:00",
+  "checked_at": "2026-10-11T13:23:04+00:00",
   "events": [
     {
-      "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 933,427,241; cumulative burn ~66,572,759",
-      "key": "burn",
+      "action": "REVIEW PROFIT / RISK",
+      "detail": "6,098,471 USD -> 4,916,730 USD",
+      "key": "mc_move",
       "severity": "MEDIUM",
-      "title": "Supply fell by 109,315 HOOKED"
+      "title": "Market cap moved -19.4%"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 43BFhz7LNEZjycBm5TcESUoQTaFeYkimxcLBJ3Bfazk3sseGzso1TXmMtxwv6Kej8cRCMu8CTi1jTddb9SLARZhF",
+      "detail": "Latest tx 2QgyGThQN4a7zXSqbLaW6KdpytR8k8Svsm7G1N6D13cDBHcZWyZessRFW132xMkyhYm1QzXgC7MLLtWZJbsfYYAd",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
-    },
-    {
-      "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 4dZ5aUZtGwefSENq4v9sbtV4hTVYkdXE1UDyfbYyeWKtuEWKZ9CVgjiKF3XK4hBGzWDzxRCB1d25XGRerMcjbVfo",
-      "key": "upgrade_activity",
-      "severity": "HIGH",
-      "title": "Upgrade authority wallet has new activity"
     }
   ],
   "issue": {
-    "number": 57,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/57"
+    "number": 58,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/58"
   },
   "telegram": {
     "error": "telegram secrets not configured"
