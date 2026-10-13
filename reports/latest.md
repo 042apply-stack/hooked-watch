@@ -1,35 +1,36 @@
 # HOOKED Watch - Latest
 
-Checked: **2026-10-13T19:48:02+00:00**
+Checked: **2026-10-13T23:36:02+00:00**
 
 ## Position
 - Entry reference: **1,000 USD at ~950,000 USD MC**
-- Current MC: **2,842,175 USD**
-- MC vs entry: **+199.2%**
-- Rough value if token amount unchanged: **2,992 USD**
+- Current MC: **2,358,827 USD**
+- MC vs entry: **+148.3%**
+- Rough value if token amount unchanged: **2,483 USD**
 
 ## Market
-- Price: **0.00304800 USD**
-- Liquidity: **603,669 USD**
-- 24h volume: **1,968,218 USD**
-- Top pair 1h buys/sells: **157 / 69**
+- Price: **0.00253000 USD**
+- Liquidity: **559,299 USD**
+- 24h volume: **2,120,224 USD**
+- Top pair 1h buys/sells: **232 / 86**
 
 ## Token / security
-- Supply: **931,941,441 HOOKED**
-- Burned from 1B ref: **68,058,559 HOOKED**
+- Supply: **931,731,896 HOOKED**
+- Burned from 1B ref: **68,268,104 HOOKED**
 - Mint authority: **None**
 - Freeze authority: **None**
 - Creator direct balance: **0**
 - RugCheck graph insiders: **37**
-- Top-10 holder concentration: **22.32%**
+- Top-10 holder concentration: **23.39%**
 
 ## Product
 - Launches detected: **100**
 
 ## Alerts this run
-- **[MEDIUM] Market cap moved -24.2%** - 3,751,574 USD -> 2,842,175 USD - Action: **REVIEW PROFIT / RISK**
-- **[MEDIUM] Supply fell by 250,750 HOOKED** - Current supply 931,941,441; cumulative burn ~68,058,559 - Action: **THESIS STRENGTHENED**
-- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 3i6e291HByh5aVGDDjiqYQDsLifig2pCQpDR6eTxKoYmWisvRD7C6pxmd8ViiHDMGc1w8u46fDt4K2u3Um9LskGS - Action: **REVIEW TRANSACTION**
-- **[HIGH] Upgrade authority wallet has new activity** - Latest tx 5T9pxgVUhPrYdV5P5Pcmps3K9XKSHRr47j9xdEwp8VphednUJyTKxR1bU56EP2bdvGgcBnJbnTX37WVxtzzuLLWp - Action: **REVIEW TRANSACTION**
+- **[MEDIUM] Market cap moved -17.0%** - 2,842,175 USD -> 2,358,827 USD - Action: **REVIEW PROFIT / RISK**
+- **[MEDIUM] Supply fell by 209,545 HOOKED** - Current supply 931,731,896; cumulative burn ~68,268,104 - Action: **THESIS STRENGTHENED**
+- **[CRITICAL] LP locked percentage fell materially** - C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 100.00% -> 72.63% - Action: **REDUCE RISK / VERIFY LIQUIDITY CONTROL**
+- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 2rFJuV3fkx4GJHu8nvExZv6fFDTMpDSjbXFa1qdi6ooQys11eDFY6weqnZZC2syrh1NGUwoB4k975RNtff9HeL1R - Action: **REVIEW TRANSACTION**
+- **[MEDIUM] New flywheel burn** - 50,311 HOOKED burned - Action: **THESIS STRENGTHENED**
 
 _Monitor only. No automatic trading._
