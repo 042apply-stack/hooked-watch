@@ -1,45 +1,31 @@
 {
-  "checked_at": "2026-10-14T18:00:46+00:00",
+  "checked_at": "2026-10-14T21:40:48+00:00",
   "events": [
     {
-      "action": "REVIEW PROFIT / RISK",
-      "detail": "2,186,630 USD -> 1,622,604 USD",
-      "key": "mc_move",
-      "severity": "HIGH",
-      "title": "Market cap moved -25.8%"
-    },
-    {
-      "action": "REDUCE RISK / VERIFY LP",
-      "detail": "453,176 USD -> 363,932 USD",
-      "key": "liq_drop",
-      "severity": "HIGH",
-      "title": "Liquidity dropped -19.7%"
-    },
-    {
       "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 930,877,273; cumulative burn ~69,122,727",
+      "detail": "Current supply 930,435,574; cumulative burn ~69,564,426",
       "key": "burn",
       "severity": "MEDIUM",
-      "title": "Supply fell by 462,559 HOOKED"
+      "title": "Supply fell by 441,699 HOOKED"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 5jpKoKUyW85dxMwTbrogCLHa7P4TGqkp6BajPAYfbRKjq3AGEqtJq49zdwspmU7fnm1dykd6utKgX8H3gsaJT4XP",
+      "detail": "Latest tx 5QtfNRmfcE2FMfrDiSVe25Evq1hxEiESVzmzwAgNfJwhRp8WzvSEnmBnvotDVscZXU2w5pgp5ZbRLmiZoxockWVp",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     },
     {
-      "action": "THESIS STRENGTHENED",
-      "detail": "76,259 HOOKED burned",
-      "key": "burn:52VpQz8Gckbs1uZHzQr8TPTi62grhVT4M9GghrK7kbjUnhP33cnyneofyd3D7QsDiuNqMRQnggD8UZrNuuQxYdQZ",
-      "severity": "MEDIUM",
-      "title": "New flywheel burn"
+      "action": "REVIEW TRANSACTION",
+      "detail": "Latest tx 65HEr21CsiKVLPDRBdqmthVhkad4kDSTKq8wrpMMfk7DEizB5AUjM3FmYtyNrTMZQKQta3Rdjj8Fkn4mqFDQbVZX",
+      "key": "upgrade_activity",
+      "severity": "HIGH",
+      "title": "Upgrade authority wallet has new activity"
     }
   ],
   "issue": {
-    "number": 72,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/72"
+    "number": 73,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/73"
   },
   "telegram": {
     "error": "telegram secrets not configured"
