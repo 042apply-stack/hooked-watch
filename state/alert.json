@@ -1,24 +1,38 @@
 {
-  "checked_at": "2026-10-15T21:41:12+00:00",
+  "checked_at": "2026-10-15T23:52:50+00:00",
   "events": [
     {
-      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
-      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 30.66% -> 25.20%",
-      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
-      "severity": "CRITICAL",
-      "title": "LP locked percentage fell materially"
+      "action": "INVESTIGATE",
+      "detail": "8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz funded with 10.00000 SOL; holds 0 HOOKED",
+      "key": "funded:8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz",
+      "severity": "MEDIUM",
+      "title": "New creator-funded wallet"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 2i8gDKpbaWRtA9kDzQtLFo8fCS3Q7iVwqWcnCxXud7p9ZtxFL2CnqzqYbhT4c9Piertx3Vd5GFi9Tb47wRa72w6j",
+      "detail": "Latest tx 5DuMvFEKREUX2AFEh73G7rSTt9WXpQCN3DbdkGkcw56wPaQ8AwqtsBuadXpXzbkpUFWi4bUVHxBchi9vH9dEwPKP",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
+    },
+    {
+      "action": "REVIEW TRANSACTION",
+      "detail": "Latest tx 5riJEwKhheavNwRLTq1XxBQ4noqdai6mxJgr9KNY28qhkPoGxd72CdJUA3QXu3oF51ruYkiNNvMz5GEHGREg3mo8",
+      "key": "upgrade_activity",
+      "severity": "HIGH",
+      "title": "Upgrade authority wallet has new activity"
+    },
+    {
+      "action": "REVIEW ANNOUNCEMENT",
+      "detail": "2110881672950424021, 2110881672950424021",
+      "key": "x_posts",
+      "severity": "MEDIUM",
+      "title": "New official X post detected"
     }
   ],
   "issue": {
-    "number": 79,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/79"
+    "number": 80,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/80"
   },
   "telegram": {
     "error": "telegram secrets not configured"
