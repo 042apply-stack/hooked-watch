@@ -1,38 +1,66 @@
 {
-  "checked_at": "2026-10-15T23:52:50+00:00",
+  "checked_at": "2026-10-16T03:13:56+00:00",
   "events": [
     {
-      "action": "INVESTIGATE",
-      "detail": "8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz funded with 10.00000 SOL; holds 0 HOOKED",
-      "key": "funded:8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz",
+      "action": "THESIS STRENGTHENED",
+      "detail": "Current supply 929,629,502; cumulative burn ~70,370,498",
+      "key": "burn",
       "severity": "MEDIUM",
-      "title": "New creator-funded wallet"
+      "title": "Supply fell by 119,976 HOOKED"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 5DuMvFEKREUX2AFEh73G7rSTt9WXpQCN3DbdkGkcw56wPaQ8AwqtsBuadXpXzbkpUFWi4bUVHxBchi9vH9dEwPKP",
+      "detail": "Latest tx 2xhktUSWL4Ft4xaSEVtuQZk7exeiUidULNrmJjPSrHuhCrEANPuxpohyNa8yoGBexMb5ykPSm5Cc54BferEoR7xz",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 5riJEwKhheavNwRLTq1XxBQ4noqdai6mxJgr9KNY28qhkPoGxd72CdJUA3QXu3oF51ruYkiNNvMz5GEHGREg3mo8",
+      "detail": "Latest tx 2mnqAVE6WwuDEkRV1o6VzzP4Gh9qBDUykcyN42deSv26zks12MmRJRcLx78a41nKz13x4f3JgHBPW4EqSwkJYfJH",
       "key": "upgrade_activity",
       "severity": "HIGH",
       "title": "Upgrade authority wallet has new activity"
     },
     {
-      "action": "REVIEW ANNOUNCEMENT",
-      "detail": "2110881672950424021, 2110881672950424021",
-      "key": "x_posts",
-      "severity": "MEDIUM",
-      "title": "New official X post detected"
+      "action": "REVIEW UPGRADE",
+      "detail": "surfaced_6 13nJPX6nC9tr9KCYvp2Q6Bt4J2CeVPrMShL2FhABFxCS",
+      "key": "progchg:13nJPX6nC9tr9KCYvp2Q6Bt4J2CeVPrMShL2FhABFxCS",
+      "severity": "HIGH",
+      "title": "Program account data changed"
+    },
+    {
+      "action": "REVIEW UPGRADE",
+      "detail": "surfaced_7 14db9tcpdGzzTkHRgsmSGu2C6h1QgVVUbymjQyVnHg9r",
+      "key": "progchg:14db9tcpdGzzTkHRgsmSGu2C6h1QgVVUbymjQyVnHg9r",
+      "severity": "HIGH",
+      "title": "Program account data changed"
+    },
+    {
+      "action": "REVIEW UPGRADE",
+      "detail": "surfaced_8 1TChotqKangQqU7KVf9wsjJu8RW2cHkU5caydvnWC5d",
+      "key": "progchg:1TChotqKangQqU7KVf9wsjJu8RW2cHkU5caydvnWC5d",
+      "severity": "HIGH",
+      "title": "Program account data changed"
+    },
+    {
+      "action": "REVIEW UPGRADE",
+      "detail": "surfaced_9 1UctSzAktRBbHqq8dEhiZfhP7N3AgMZJzk4vQFAVXqc",
+      "key": "progchg:1UctSzAktRBbHqq8dEhiZfhP7N3AgMZJzk4vQFAVXqc",
+      "severity": "HIGH",
+      "title": "Program account data changed"
+    },
+    {
+      "action": "REVIEW UPGRADE",
+      "detail": "surfaced_10 1xPPNdQUthpfKE8C6kF6zeuMKyJiMF4LXHh1MoKoeHf",
+      "key": "progchg:1xPPNdQUthpfKE8C6kF6zeuMKyJiMF4LXHh1MoKoeHf",
+      "severity": "HIGH",
+      "title": "Program account data changed"
     }
   ],
   "issue": {
-    "number": 80,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/80"
+    "number": 81,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/81"
   },
   "telegram": {
     "error": "telegram secrets not configured"
