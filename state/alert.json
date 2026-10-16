@@ -1,24 +1,38 @@
 {
-  "checked_at": "2026-10-16T13:25:26+00:00",
+  "checked_at": "2026-10-16T17:36:36+00:00",
   "events": [
     {
+      "action": "REVIEW PROFIT / RISK",
+      "detail": "1,770,023 USD -> 1,433,655 USD",
+      "key": "mc_move",
+      "severity": "MEDIUM",
+      "title": "Market cap moved -19.0%"
+    },
+    {
+      "action": "REDUCE RISK / VERIFY LP",
+      "detail": "296,330 USD -> 250,935 USD",
+      "key": "liq_drop",
+      "severity": "HIGH",
+      "title": "Liquidity dropped -15.3%"
+    },
+    {
+      "action": "THESIS STRENGTHENED",
+      "detail": "Current supply 929,333,826; cumulative burn ~70,666,174",
+      "key": "burn",
+      "severity": "MEDIUM",
+      "title": "Supply fell by 149,694 HOOKED"
+    },
+    {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 5oh7KkGhmXvEUtEnsZFsxKvfAHnLENqBBjHGBssuAkjb9jcuXevLMF3ZmHbLwWQw92K3MSWXEvsnzPcBRimJ9wwd",
+      "detail": "Latest tx 25GVBgh91fHYTYt147UG6QjbTWK3xoxhfnGebrA57qx3rUR93vPHVpk91C2b8A6ziqSNszN8XJX9965v7rgptv9y",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
-    },
-    {
-      "action": "REVIEW UPGRADE",
-      "detail": "surfaced_6 13nJPX6nC9tr9KCYvp2Q6Bt4J2CeVPrMShL2FhABFxCS",
-      "key": "progchg:13nJPX6nC9tr9KCYvp2Q6Bt4J2CeVPrMShL2FhABFxCS",
-      "severity": "HIGH",
-      "title": "Program account data changed"
     }
   ],
   "issue": {
-    "number": 83,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/83"
+    "number": 84,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/84"
   },
   "telegram": {
     "error": "telegram secrets not configured"
