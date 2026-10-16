@@ -1,31 +1,24 @@
 {
-  "checked_at": "2026-10-16T08:16:03+00:00",
+  "checked_at": "2026-10-16T13:25:26+00:00",
   "events": [
     {
-      "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 929,525,377; cumulative burn ~70,474,623",
-      "key": "burn",
-      "severity": "MEDIUM",
-      "title": "Supply fell by 104,125 HOOKED"
-    },
-    {
-      "action": "REVIEW LINKED WALLETS",
-      "detail": "40 -> 41",
-      "key": "insider_growth",
-      "severity": "HIGH",
-      "title": "Insider graph expanded"
-    },
-    {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 424Bx8ezj66s9jEE8d14ycbZgLTAShf9rsKZwdmZy2orCkPbTNX6LRp2Q9asH3W5uEXkUBywb9ddNjEBwQeNZXCW",
+      "detail": "Latest tx 5oh7KkGhmXvEUtEnsZFsxKvfAHnLENqBBjHGBssuAkjb9jcuXevLMF3ZmHbLwWQw92K3MSWXEvsnzPcBRimJ9wwd",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
+    },
+    {
+      "action": "REVIEW UPGRADE",
+      "detail": "surfaced_6 13nJPX6nC9tr9KCYvp2Q6Bt4J2CeVPrMShL2FhABFxCS",
+      "key": "progchg:13nJPX6nC9tr9KCYvp2Q6Bt4J2CeVPrMShL2FhABFxCS",
+      "severity": "HIGH",
+      "title": "Program account data changed"
     }
   ],
   "issue": {
-    "number": 82,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/82"
+    "number": 83,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/83"
   },
   "telegram": {
     "error": "telegram secrets not configured"
