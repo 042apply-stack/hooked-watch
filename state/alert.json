@@ -1,38 +1,24 @@
 {
-  "checked_at": "2026-10-17T21:01:28+00:00",
+  "checked_at": "2026-10-17T23:07:41+00:00",
   "events": [
     {
-      "action": "REVIEW PROFIT / RISK",
-      "detail": "1,181,866 USD -> 1,362,842 USD",
-      "key": "mc_move",
+      "action": "THESIS STRENGTHENED",
+      "detail": "Current supply 928,695,321; cumulative burn ~71,304,679",
+      "key": "burn",
       "severity": "MEDIUM",
-      "title": "Market cap moved +15.3%"
-    },
-    {
-      "action": "INVESTIGATE",
-      "detail": "8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz funded with 3.50000 SOL; holds 0 HOOKED",
-      "key": "funded:8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz",
-      "severity": "MEDIUM",
-      "title": "New creator-funded wallet"
+      "title": "Supply fell by 114,608 HOOKED"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx d2RF15SJgxku9pcmeCVeLTm9y6qrrrWG3PSQPLrnxT2scaoA8Sk99roTDtm3wV7kE7BmxTiK7FkBnwNoic93CGd",
+      "detail": "Latest tx 8JKUqUdsjLMhkC8NbubRrwug2i35SUDzWBQVJrL8RTSUTgiTzGH8c9goZkUcoAAX9fabYG9Entogm2ikZ1g7vMi",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
-    },
-    {
-      "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 5Mt2Qs8jss2xYf1jzTXpBBJhQrKmqgFxKqRLHTv5nV4jwzrCEuRaCFDP9rW8xNiAcNQC7xVGFiUrudcwbMexUFAz",
-      "key": "upgrade_activity",
-      "severity": "HIGH",
-      "title": "Upgrade authority wallet has new activity"
     }
   ],
   "issue": {
-    "number": 93,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/93"
+    "number": 94,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/94"
   },
   "telegram": {
     "error": "telegram secrets not configured"
