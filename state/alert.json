@@ -1,31 +1,17 @@
 {
-  "checked_at": "2026-10-17T09:41:17+00:00",
+  "checked_at": "2026-10-17T13:14:06+00:00",
   "events": [
     {
-      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
-      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 100.00% -> 30.92%",
-      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
-      "severity": "CRITICAL",
-      "title": "LP locked percentage fell materially"
-    },
-    {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 2JZ1ew5N8xy3XpA6DBsednig8cTyT5Rb8uhDSuDpnMNGLsAj2cCNuSpaG59dNERtx3QLmpTPDdkbaPb7KkdHpmhx",
+      "detail": "Latest tx 2qneuTwdQ3f17APR22tfEbhfBamofZtfHFGkX4g2bC1naFD6kEKr5GDocyw7kqwPSe1ioQAuX5AZNADHoNPqykUW",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
-    },
-    {
-      "action": "THESIS STRENGTHENED",
-      "detail": "65,004 HOOKED burned",
-      "key": "burn:5sRSiKBwpnGMh1xtivbeGJTMb5RbdkoYJyxDdK6UZhkb4amBveYfbBCgaqLmajeYqAx9on2Rs9fJz5nCduVxDKSD",
-      "severity": "MEDIUM",
-      "title": "New flywheel burn"
     }
   ],
   "issue": {
-    "number": 89,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/89"
+    "number": 90,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/90"
   },
   "telegram": {
     "error": "telegram secrets not configured"
