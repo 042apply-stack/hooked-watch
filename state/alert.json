@@ -1,23 +1,9 @@
 {
-  "checked_at": "2026-10-18T23:55:07+00:00",
+  "checked_at": "2026-10-19T03:22:03+00:00",
   "events": [
     {
-      "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 928,354,260; cumulative burn ~71,645,740",
-      "key": "burn",
-      "severity": "MEDIUM",
-      "title": "Supply fell by 122,477 HOOKED"
-    },
-    {
-      "action": "REVIEW RISK",
-      "detail": "Dpmutmc4ZLqvJwHbwabvKYeFJ9zkQ86nutUAUviRrXG2 -> None",
-      "key": "metadata_auth",
-      "severity": "HIGH",
-      "title": "Metadata authority changed"
-    },
-    {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 47AJiESxKAGZ5CvvtDywf6oPqUqpq1YpYdxjvkgdL4GUc1XMYGSMTQzk259rQCpdM8AYXjh8v5P2yFDiKWKWo5JS",
+      "detail": "Latest tx 1PXPuPExgfgqy3GfHmo3xSKrX6GfnjH6wYVSmyJBryTptTm2ZYkhAe6rWjvKaAYY48VKzhoK6vWBxym5ZJcujPr",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
@@ -31,8 +17,8 @@
     }
   ],
   "issue": {
-    "number": 102,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/102"
+    "number": 103,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/103"
   },
   "telegram": {
     "error": "telegram secrets not configured"

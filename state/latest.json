@@ -1,49 +1,35 @@
 {
   "baseline_initialized": false,
-  "checked_at": "2026-10-18T23:55:07+00:00",
+  "checked_at": "2026-10-19T03:22:03+00:00",
   "creator": {
-    "latest": "47AJiESxKAGZ5CvvtDywf6oPqUqpq1YpYdxjvkgdL4GUc1XMYGSMTQzk259rQCpdM8AYXjh8v5P2yFDiKWKWo5JS",
-    "sol": 49.273004139,
-    "time": 1792366674
+    "latest": "1PXPuPExgfgqy3GfHmo3xSKrX6GfnjH6wYVSmyJBryTptTm2ZYkhAe6rWjvKaAYY48VKzhoK6vWBxym5ZJcujPr",
+    "sol": 49.378310551,
+    "time": 1792379568
   },
   "creator_burns": [],
   "creator_funded": {},
   "dex": {
-    "b1": 9,
-    "b24": 273,
-    "c1": -3.77,
-    "c24": -7.8,
+    "b1": 0,
+    "b24": 256,
+    "c1": -2.54,
+    "c24": -7.47,
     "dex": "meteora",
-    "liq": 224510.25,
-    "mc": 1202550.0,
+    "liq": 231083.12,
+    "mc": 1322156.0,
     "pair": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
     "pairs": 12,
-    "price": 0.001295,
-    "s1": 6,
-    "s24": 239,
-    "vol24": 488685.93
+    "price": 0.001424,
+    "s1": 10,
+    "s24": 220,
+    "vol24": 442098.3
   },
   "errors": {
     "rug": "URLError: <urlopen error [Errno -2] Name or service not known>"
   },
   "events_this_run": [
     {
-      "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 928,354,260; cumulative burn ~71,645,740",
-      "key": "burn",
-      "severity": "MEDIUM",
-      "title": "Supply fell by 122,477 HOOKED"
-    },
-    {
-      "action": "REVIEW RISK",
-      "detail": "Dpmutmc4ZLqvJwHbwabvKYeFJ9zkQ86nutUAUviRrXG2 -> None",
-      "key": "metadata_auth",
-      "severity": "HIGH",
-      "title": "Metadata authority changed"
-    },
-    {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 47AJiESxKAGZ5CvvtDywf6oPqUqpq1YpYdxjvkgdL4GUc1XMYGSMTQzk259rQCpdM8AYXjh8v5P2yFDiKWKWo5JS",
+      "detail": "Latest tx 1PXPuPExgfgqy3GfHmo3xSKrX6GfnjH6wYVSmyJBryTptTm2ZYkhAe6rWjvKaAYY48VKzhoK6vWBxym5ZJcujPr",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
@@ -57,14 +43,14 @@
     }
   ],
   "flywheel": {
-    "latest": "5FjafE4bmR5abMp11rdWsEKP3ro7mh5QTFdEGiGJnDiPz4WQArJbTPkcHVKHXb1FmWbHeZqmBot577gaRSnLKbpz",
-    "sol": 4.262720828,
-    "time": 1792367646
+    "latest": "2mmuFaq768RQZ3Y8nnWsp6KSG58PHhsBqKqxYoGQq3yAiyVfna6fc9dUFuQCwpnWPj6ufTyMosmp3fLoA5hbhCad",
+    "sol": 4.812853849,
+    "time": 1792380067
   },
   "flywheel_burns": [],
   "issue_created": {
-    "number": 102,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/102"
+    "number": 103,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/103"
   },
   "mint": "C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE",
   "programs": {
@@ -95,9 +81,9 @@
       "data_hash": "30ba8c965260761cd658f5c8eefe3d23c0dfb9e529d52ff75005084f433c8429",
       "exec": true,
       "exists": true,
-      "latest": "4Mk26PbUbERtGveLRNayYqdC4onBeuUhxdfsYNt5y8XohtJAzejGbRaedpUEQa6X2jH5y7BfnpHEv8QKsG39UaMk",
+      "latest": "5DyevUkgc2UMULD458CXYx9CUthghFMsyuCTyP6ygvgiWPvxCw7tJpzVh5kDYPPCADHfVXV6HhRBCQ25CGQ85mYZ",
       "owner": "BPFLoaderUpgradeab1e11111111111111111111111",
-      "time": 1792367166
+      "time": 1792380094
     },
     "surfaced_1": {
       "address": "125D5rkQciP5LMuaKAVrcaFDeU7rrfYB4iUjeNnnPCMk",
@@ -113,9 +99,9 @@
       "data_hash": "94a6b54d879a0ec92338f203ec0272065beece3678601d603356729f2e9e24cd",
       "exec": false,
       "exists": true,
-      "latest": "cuj7JUqRQjoX9XL7tFAA4vvXzmmyr2zPeuoJAs7tJTLAyWSWSVz3Vd8LxXZSCtF9TD295PBETj5VhCVkw4GRExg",
+      "latest": null,
       "owner": "dbcij3LWUppWqq96dh6gJWwBifmcGfLSB5D4DuSMaqN",
-      "time": 1791314087
+      "time": null
     },
     "surfaced_2": {
       "address": "12L53TQKT3DZqb1a7XMX9wTRuEMcSHQRLZwRiNrresZN",
@@ -155,12 +141,12 @@
     },
     "surfaced_6": {
       "address": "13nJPX6nC9tr9KCYvp2Q6Bt4J2CeVPrMShL2FhABFxCS",
-      "data_hash": "81d945492ad5c7091e1c2879a8ceaa51e1e48c94fec2ddae7b4bccb837bf4773",
+      "data_hash": "211ad819b7187032f81050e3117b40b801374f0baad2ce27fac9be76eaefba2e",
       "exec": false,
       "exists": true,
-      "latest": "2ZyqTeui84tLUb6U6rhaEDdWgpYUVDE2Jxe3ytJbeXBsbQp8PL7EdFUz2yzdZ9cw4vFGDc4wvybqbqyPTbLouwmP",
+      "latest": "25LVXJTQjeirC8iAEDiQFxWyzejgVNX4JGKwhnLENMbUg6PVnmJ1ahx4bNXoHk39LR4WhMYvKDMdPRanva5BMs9r",
       "owner": "dbcij3LWUppWqq96dh6gJWwBifmcGfLSB5D4DuSMaqN",
-      "time": 1792366670
+      "time": 1792368089
     },
     "surfaced_7": {
       "address": "14db9tcpdGzzTkHRgsmSGu2C6h1QgVVUbymjQyVnHg9r",
@@ -176,9 +162,9 @@
       "data_hash": "8a09aba4490e1ef390edde4b8423c420f96548ae60fc2ef16c603e58f2f0a248",
       "exec": false,
       "exists": true,
-      "latest": "4BJxHAUPaTQwykiEic3EPGGG5D4167uQTfbAWwraPNCFJstrDF95hq4QRjL1gB5svNABS3UX74zgiuFembGANzBF",
+      "latest": null,
       "owner": "dbcij3LWUppWqq96dh6gJWwBifmcGfLSB5D4DuSMaqN",
-      "time": 1791566289
+      "time": null
     },
     "surfaced_9": {
       "address": "1UctSzAktRBbHqq8dEhiZfhP7N3AgMZJzk4vQFAVXqc",
@@ -296,11 +282,11 @@
     ],
     "home_hash": "33846f4d382af5c640324f69e0838fb54e9dad99a52c9e123a4e687b30221e8b",
     "launch_count": 100,
-    "launch_hash": "b40c946d3b9bf0bded05e9f6ae7d5cfc67eceb3a6b6518d477abab71c2e43aec"
+    "launch_hash": "513dff018c7e49e34eedd8cc628a711e9e471301fdaa9be32707b8c2e7806360"
   },
   "supply_rpc": {
     "decimals": 6,
-    "supply": 928354260.395531
+    "supply": 928354254.66315
   },
   "telegram_sent": {
     "error": "telegram secrets not configured"
