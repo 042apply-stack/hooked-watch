@@ -1,27 +1,27 @@
 {
   "baseline_initialized": false,
-  "checked_at": "2026-10-19T03:22:03+00:00",
+  "checked_at": "2026-10-19T09:11:42+00:00",
   "creator": {
-    "latest": "1PXPuPExgfgqy3GfHmo3xSKrX6GfnjH6wYVSmyJBryTptTm2ZYkhAe6rWjvKaAYY48VKzhoK6vWBxym5ZJcujPr",
-    "sol": 49.378310551,
-    "time": 1792379568
+    "latest": "4jEZUHuceJ3ygAKxMnnYy7foyL7HYmuHnL3o5YHUN9js1Z67jUYkk6A3vxrsacfZv28QuK9GonmYzaHF9nsLDHdA",
+    "sol": 0.721091763,
+    "time": 1792400871
   },
   "creator_burns": [],
   "creator_funded": {},
   "dex": {
-    "b1": 0,
-    "b24": 256,
-    "c1": -2.54,
-    "c24": -7.47,
+    "b1": 3,
+    "b24": 253,
+    "c1": -3.9,
+    "c24": 1.02,
     "dex": "meteora",
-    "liq": 231083.12,
-    "mc": 1322156.0,
+    "liq": 216851.36,
+    "mc": 1223577.0,
     "pair": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
     "pairs": 12,
-    "price": 0.001424,
-    "s1": 10,
-    "s24": 220,
-    "vol24": 442098.3
+    "price": 0.001317,
+    "s1": 9,
+    "s24": 219,
+    "vol24": 442450.92
   },
   "errors": {
     "rug": "URLError: <urlopen error [Errno -2] Name or service not known>"
@@ -29,28 +29,21 @@
   "events_this_run": [
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 1PXPuPExgfgqy3GfHmo3xSKrX6GfnjH6wYVSmyJBryTptTm2ZYkhAe6rWjvKaAYY48VKzhoK6vWBxym5ZJcujPr",
+      "detail": "Latest tx 4jEZUHuceJ3ygAKxMnnYy7foyL7HYmuHnL3o5YHUN9js1Z67jUYkk6A3vxrsacfZv28QuK9GonmYzaHF9nsLDHdA",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
-    },
-    {
-      "action": "REVIEW UPGRADE",
-      "detail": "surfaced_6 13nJPX6nC9tr9KCYvp2Q6Bt4J2CeVPrMShL2FhABFxCS",
-      "key": "progchg:13nJPX6nC9tr9KCYvp2Q6Bt4J2CeVPrMShL2FhABFxCS",
-      "severity": "HIGH",
-      "title": "Program account data changed"
     }
   ],
   "flywheel": {
-    "latest": "2mmuFaq768RQZ3Y8nnWsp6KSG58PHhsBqKqxYoGQq3yAiyVfna6fc9dUFuQCwpnWPj6ufTyMosmp3fLoA5hbhCad",
-    "sol": 4.812853849,
-    "time": 1792380067
+    "latest": "5UnFPx3P95P2nZtsYed8VbtzPSYuqr9akgVUNKxyL9YTp6Cc2PJEeRjEiaa3YsvEBqoEmKKJ21jNnSJpezsKc6yK",
+    "sol": 6.093093723,
+    "time": 1792401069
   },
   "flywheel_burns": [],
   "issue_created": {
-    "number": 103,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/103"
+    "number": 104,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/104"
   },
   "mint": "C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE",
   "programs": {
@@ -72,27 +65,27 @@
       "data_hash": "f6840b62b88b7c967b30f85b697df7c2dcdcca8054c14d3214335fc0888769c4",
       "exec": true,
       "exists": true,
-      "latest": "4rostpQLz8dNpcAwqoaHpA5UGjENLfyMkfZ1hHn6eo9eJH7336tGMVhhNpsMHTyzLucQUu2YaymMCD3vqEZCrYzq",
+      "latest": null,
       "owner": "BPFLoaderUpgradeab1e11111111111111111111111",
-      "time": 1792230828
+      "time": null
     },
     "core_2": {
       "address": "4Tabcoy1niosiNAGHMruLBFscgJWXZsVF3pfij3FqMB5",
       "data_hash": "30ba8c965260761cd658f5c8eefe3d23c0dfb9e529d52ff75005084f433c8429",
       "exec": true,
       "exists": true,
-      "latest": "5DyevUkgc2UMULD458CXYx9CUthghFMsyuCTyP6ygvgiWPvxCw7tJpzVh5kDYPPCADHfVXV6HhRBCQ25CGQ85mYZ",
+      "latest": "2prPCmBjhjkZKG4U4DT7RrHF2aRHXTxiHc6sLZhfQRGRkjzLf6wU1XbMPuRCikMYGH9aC4rdYRDP6WS6Z67CZSSg",
       "owner": "BPFLoaderUpgradeab1e11111111111111111111111",
-      "time": 1792380094
+      "time": 1792400847
     },
     "surfaced_1": {
       "address": "125D5rkQciP5LMuaKAVrcaFDeU7rrfYB4iUjeNnnPCMk",
       "data_hash": "6118744feed01f74c872c7007834fed8dd054fb46cf4e9e55003557afbdbf255",
       "exec": false,
       "exists": true,
-      "latest": "2PpZTRcUyYaR4ktJ5FppeEju2PUPhpHepSzEtj6xgpPUofoK3PSUSp6HKsFcrGfbCxNvPauEaDHRufSL3ufw6RSQ",
+      "latest": null,
       "owner": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
-      "time": 1791050416
+      "time": null
     },
     "surfaced_10": {
       "address": "1xPPNdQUthpfKE8C6kF6zeuMKyJiMF4LXHh1MoKoeHf",
@@ -108,36 +101,36 @@
       "data_hash": "ae9536b0827557f9e2a75f7af3e3cbb00df172caa04c9705393e610b905fbc0d",
       "exec": false,
       "exists": true,
-      "latest": "wMnR3PfWEwHskgTSzXWYuVACj2DKDArjQd8htgug4NYrF62RAK87GYmRvCWtUasfnw1gRW2ggbLinV1NsVdMn9C",
+      "latest": null,
       "owner": "dbcij3LWUppWqq96dh6gJWwBifmcGfLSB5D4DuSMaqN",
-      "time": 1791155331
+      "time": null
     },
     "surfaced_3": {
       "address": "12wtaZg2JzAbf8CdKkjdxsNSxgsoeDE9DBvnXxSZVFzU",
       "data_hash": "e11a9ba3c549439954c6bb6328be06dec4a43ed697384fa1f637deeb9174bc12",
       "exec": false,
       "exists": true,
-      "latest": "5PuLZFe3LFgWCLc5WNvvUJbLF544iRcTRt5TNWvZTyZJSmzsEtYVMLeJ2B6ZL7YfBuKWn82iX5PoqgLjxjjMhMZ",
+      "latest": null,
       "owner": "dbcij3LWUppWqq96dh6gJWwBifmcGfLSB5D4DuSMaqN",
-      "time": 1791630990
+      "time": null
     },
     "surfaced_4": {
       "address": "12ypsCgFnKHH2Ux9Dn8B1NgsoHWY92cVrkRjAK1oBsYg",
       "data_hash": "06348c30bec0fcf4506c370840e9ab2124f9a175c480d7f1bd91e536ded479f3",
       "exec": false,
       "exists": true,
-      "latest": "2rH4NkX9v2atxDJPmHBKh4W3rRBCNL9XwUD8N7zTmGm4ZKnSkS7EE2DandnuG7CXS2K4FgCPN1BrspvQGqZ5P98f",
+      "latest": null,
       "owner": "dbcij3LWUppWqq96dh6gJWwBifmcGfLSB5D4DuSMaqN",
-      "time": 1790886086
+      "time": null
     },
     "surfaced_5": {
       "address": "13Nzm25EYADLyQBpJEnTwCdp3aRuN9FrcYqsvH6ZboKE",
       "data_hash": "1a2d160c5cefc771b998525d49a9b0f38360570505e3decce7e81cff2349ff74",
       "exec": false,
       "exists": true,
-      "latest": "3TYhx51YRUaqAjuhq2dreogs18cFCs54H4iBAeVzRfYs29r2EMn7c7RkaVQZYEg2rAiYt4coSGQZ7hcz3Xg2fb2c",
+      "latest": null,
       "owner": "dbcij3LWUppWqq96dh6gJWwBifmcGfLSB5D4DuSMaqN",
-      "time": 1790985617
+      "time": null
     },
     "surfaced_6": {
       "address": "13nJPX6nC9tr9KCYvp2Q6Bt4J2CeVPrMShL2FhABFxCS",
@@ -153,9 +146,9 @@
       "data_hash": "ac1d4cc45c350cd587bd058f615f3a044d9ce369dedd88705e132339e6f48368",
       "exec": false,
       "exists": true,
-      "latest": "2uY3mR16DCu9EgvVf9mPJmuuHaoiroG3Lxma8EVA9Aa4qWcrrW82aVmN4adN3GF43ATqub9NtxZmhUt1reVidxSu",
+      "latest": null,
       "owner": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
-      "time": 1790900274
+      "time": null
     },
     "surfaced_8": {
       "address": "1TChotqKangQqU7KVf9wsjJu8RW2cHkU5caydvnWC5d",
@@ -282,11 +275,11 @@
     ],
     "home_hash": "33846f4d382af5c640324f69e0838fb54e9dad99a52c9e123a4e687b30221e8b",
     "launch_count": 100,
-    "launch_hash": "513dff018c7e49e34eedd8cc628a711e9e471301fdaa9be32707b8c2e7806360"
+    "launch_hash": "e6aebc2239d952139c26a3ec62ddb274e7f5abad6954fa6a20576f1684a9d28d"
   },
   "supply_rpc": {
     "decimals": 6,
-    "supply": 928354254.66315
+    "supply": 928354254.603988
   },
   "telegram_sent": {
     "error": "telegram secrets not configured"
