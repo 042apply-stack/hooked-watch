@@ -1,18 +1,18 @@
 # HOOKED Watch - Latest
 
-Checked: **2026-10-20T19:16:26+00:00**
+Checked: **2026-10-20T22:30:00+00:00**
 
 ## Position
 - Entry reference: **1,000 USD at ~950,000 USD MC**
-- Current MC: **725,637 USD**
-- MC vs entry: **-23.6%**
-- Rough value if token amount unchanged: **764 USD**
+- Current MC: **751,043 USD**
+- MC vs entry: **-20.9%**
+- Rough value if token amount unchanged: **791 USD**
 
 ## Market
-- Price: **0.00078210 USD**
-- Liquidity: **152,552 USD**
-- 24h volume: **438,293 USD**
-- Top pair 1h buys/sells: **12 / 3**
+- Price: **0.00080950 USD**
+- Liquidity: **155,832 USD**
+- 24h volume: **326,372 USD**
+- Top pair 1h buys/sells: **1 / 3**
 
 ## Token / security
 - Supply: **927,618,152 HOOKED**
@@ -21,12 +21,13 @@ Checked: **2026-10-20T19:16:26+00:00**
 - Freeze authority: **None**
 - Creator direct balance: **0**
 - RugCheck graph insiders: **42**
-- Top-10 holder concentration: **27.98%**
+- Top-10 holder concentration: **27.77%**
 
 ## Product
 - Launches detected: **100**
 
 ## Alerts this run
-- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 36NhZeZY2uovB6S7rjzbkPnBDamaxDoi6tFG4kmK7sCpz6Fa2KFJWgaCUBhunwhLLum26U9bTGcdPf4rerQtgfde - Action: **REVIEW TRANSACTION**
+- **[CRITICAL] LP locked percentage fell materially** - C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 100.00% -> 60.78% - Action: **REDUCE RISK / VERIFY LIQUIDITY CONTROL**
+- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 2DtTWzu6qsNQS2uXeHmk8zuHEDg2CPayNex4hY3stLBVNnV3S9G3fj1WuM23eztkpD2EAX3tMYJwVbEdbpjkhaBp - Action: **REVIEW TRANSACTION**
 
 _Monitor only. No automatic trading._
