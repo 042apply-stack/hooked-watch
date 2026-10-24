@@ -1,24 +1,24 @@
 {
-  "checked_at": "2026-10-24T11:59:44+00:00",
+  "checked_at": "2026-10-24T15:49:06+00:00",
   "events": [
     {
-      "action": "REVIEW PROFIT / RISK",
-      "detail": "1,033,716 USD -> 852,248 USD",
-      "key": "mc_move",
+      "action": "THESIS STRENGTHENED",
+      "detail": "Current supply 924,154,566; cumulative burn ~75,845,434",
+      "key": "burn",
       "severity": "MEDIUM",
-      "title": "Market cap moved -17.6%"
+      "title": "Supply fell by 117,938 HOOKED"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 2bTD3LX7sRNEfVCSq2UNaN3FH6uHcXdo5JkCdDrnTd3cYJTP1zZ6ySV3qxa4Kvv1NodFkGK95HdfomccV9D89wKd",
+      "detail": "Latest tx 3KkfEFQAygzzs7Exu6C6J1UQoHFrUtPEXcABevc1Giup4kYc1Ra93iD1m4C7821zWXRAbuQEdZMzG28qxuwnj1Zi",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     }
   ],
   "issue": {
-    "number": 133,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/133"
+    "number": 134,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/134"
   },
   "telegram": {
     "error": "telegram secrets not configured"
