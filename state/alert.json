@@ -1,38 +1,24 @@
 {
-  "checked_at": "2026-10-23T23:31:29+00:00",
+  "checked_at": "2026-10-24T01:59:32+00:00",
   "events": [
     {
-      "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 924,548,078; cumulative burn ~75,451,922",
-      "key": "burn",
+      "action": "REVIEW PROFIT / RISK",
+      "detail": "647,141 USD -> 757,797 USD",
+      "key": "mc_move",
       "severity": "MEDIUM",
-      "title": "Supply fell by 764,747 HOOKED"
-    },
-    {
-      "action": "REVIEW LINKED WALLETS",
-      "detail": "43 -> 44",
-      "key": "insider_growth",
-      "severity": "HIGH",
-      "title": "Insider graph expanded"
+      "title": "Market cap moved +17.1%"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 2zUmQ1dz65aCgAN5j4wr6g6gSqzrAo5ZrFxZD3ZD5yMbof5UxywjZYHLea4KtFtEFKuxtiawXoPhWNL8yPNisXuB",
+      "detail": "Latest tx 39mqdhgryKUGRZu2C8nATnbPF2WZ398CqFCGgExJQT4j6n7wZe7aq2tQUBHraSLvwdyY95TWgjgAQ8P8qqFcvacw",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
-    },
-    {
-      "action": "THESIS STRENGTHENED",
-      "detail": "60,371 HOOKED burned",
-      "key": "burn:5zHcaexUGqpqvb5CtszuVQb5CA6BmvmA8zdgJjriZNYSXN5XpKeieDA2hwoYedVJB6Rr4Bf54zXh61S3xZgEhEYx",
-      "severity": "MEDIUM",
-      "title": "New flywheel burn"
     }
   ],
   "issue": {
-    "number": 130,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/130"
+    "number": 131,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/131"
   },
   "telegram": {
     "error": "telegram secrets not configured"
