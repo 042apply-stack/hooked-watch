@@ -1,38 +1,24 @@
 {
-  "checked_at": "2026-10-24T07:10:00+00:00",
+  "checked_at": "2026-10-24T11:59:44+00:00",
   "events": [
     {
       "action": "REVIEW PROFIT / RISK",
-      "detail": "757,797 USD -> 1,033,716 USD",
+      "detail": "1,033,716 USD -> 852,248 USD",
       "key": "mc_move",
-      "severity": "HIGH",
-      "title": "Market cap moved +36.4%"
-    },
-    {
-      "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 924,306,650; cumulative burn ~75,693,350",
-      "key": "burn",
       "severity": "MEDIUM",
-      "title": "Supply fell by 161,992 HOOKED"
-    },
-    {
-      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
-      "detail": "4BVLfyKKb4YHDhScADscYVJ7ie9jG9i7t8KxdkVm7YU9 86.00% -> 51.00%",
-      "key": "lp_unlock:4BVLfyKKb4YHDhScADscYVJ7ie9jG9i7t8KxdkVm7YU9",
-      "severity": "CRITICAL",
-      "title": "LP locked percentage fell materially"
+      "title": "Market cap moved -17.6%"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 4GGP475g31ebuyPTaBgFjYTJGrFwoUAd96aGCb1xnAEV6NaZJgBAEwu5KzTjNzm9giu9CdJVwDWKLXWH8tPCxVSa",
+      "detail": "Latest tx 2bTD3LX7sRNEfVCSq2UNaN3FH6uHcXdo5JkCdDrnTd3cYJTP1zZ6ySV3qxa4Kvv1NodFkGK95HdfomccV9D89wKd",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     }
   ],
   "issue": {
-    "number": 132,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/132"
+    "number": 133,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/133"
   },
   "telegram": {
     "error": "telegram secrets not configured"
