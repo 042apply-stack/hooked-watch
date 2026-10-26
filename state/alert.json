@@ -1,24 +1,31 @@
 {
-  "checked_at": "2026-10-26T09:15:05+00:00",
+  "checked_at": "2026-10-26T16:11:17+00:00",
   "events": [
     {
       "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 916,471,633; cumulative burn ~83,528,367",
+      "detail": "Current supply 916,267,364; cumulative burn ~83,732,636",
       "key": "burn",
       "severity": "MEDIUM",
-      "title": "Supply fell by 147,738 HOOKED"
+      "title": "Supply fell by 204,269 HOOKED"
+    },
+    {
+      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
+      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 100.00% -> 28.99%",
+      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
+      "severity": "CRITICAL",
+      "title": "LP locked percentage fell materially"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 3mx83ySkbsSqQe2ZxGmPjGWCoofga2ZnnEtjboRN2MJEYUwXdDJHUPN4Ss8Whay2sjDYG9fw3zn9bXrsvMasDkuU",
+      "detail": "Latest tx 2hyqT6fiAX6VXEdrgo6VRqKkHWbgD5njFztTwP8seRQqxChKaS1gcV8ApFkWp296bVRPX7svbDnCDtjUmizVN4jq",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     }
   ],
   "issue": {
-    "number": 146,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/146"
+    "number": 147,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/147"
   },
   "telegram": {
     "error": "telegram secrets not configured"
