@@ -1,24 +1,24 @@
 {
-  "checked_at": "2026-10-27T00:25:25+00:00",
+  "checked_at": "2026-10-27T05:23:11+00:00",
   "events": [
     {
+      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
+      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 55.84% -> 27.46%",
+      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
+      "severity": "CRITICAL",
+      "title": "LP locked percentage fell materially"
+    },
+    {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 3fQB3Aqy4Gf1SkQonTpqwJjVUwmC8AHJHzrd8DiSD4Pxx4L2jp2BNhNbDv9GbpvGhYM3sUKSA5seaYAnCizpCnWT",
+      "detail": "Latest tx 5KWUYhoMwkhRCY5PcaTNoUMLMUR3SCvd1extVdbYCaQdYx5khUkGqmQZ4PFsfNLpCrhscjwb2s9xSLdhNGnHvTy7",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
-    },
-    {
-      "action": "REVIEW ANNOUNCEMENT",
-      "detail": "2114825789397230042, 2114825789397230042, 2114825789397230042",
-      "key": "x_posts",
-      "severity": "MEDIUM",
-      "title": "New official X post detected"
     }
   ],
   "issue": {
-    "number": 149,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/149"
+    "number": 150,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/150"
   },
   "telegram": {
     "error": "telegram secrets not configured"
