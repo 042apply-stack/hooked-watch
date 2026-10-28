@@ -1,35 +1,33 @@
 # HOOKED Watch - Latest
 
-Checked: **2026-10-28T00:03:36+00:00**
+Checked: **2026-10-28T05:41:50+00:00**
 
 ## Position
 - Entry reference: **1,000 USD at ~950,000 USD MC**
-- Current MC: **1,462,851 USD**
-- MC vs entry: **+54.0%**
-- Rough value if token amount unchanged: **1,540 USD**
+- Current MC: **1,286,061 USD**
+- MC vs entry: **+35.4%**
+- Rough value if token amount unchanged: **1,354 USD**
 
 ## Market
-- Price: **0.00159700 USD**
-- Liquidity: **192,134 USD**
-- 24h volume: **277,230 USD**
-- Top pair 1h buys/sells: **6 / 29**
+- Price: **0.00140400 USD**
+- Liquidity: **178,135 USD**
+- 24h volume: **301,068 USD**
+- Top pair 1h buys/sells: **1 / 9**
 
 ## Token / security
-- Supply: **915,467,989 HOOKED**
-- Burned from 1B ref: **84,532,011 HOOKED**
+- Supply: **915,313,875 HOOKED**
+- Burned from 1B ref: **84,686,125 HOOKED**
 - Mint authority: **None**
 - Freeze authority: **None**
 - Creator direct balance: **0**
 - RugCheck graph insiders: **54**
-- Top-10 holder concentration: **23.72%**
+- Top-10 holder concentration: **23.88%**
 
 ## Product
 - Launches detected: **100**
 
 ## Alerts this run
-- **[MEDIUM] Supply fell by 377,513 HOOKED** - Current supply 915,467,989; cumulative burn ~84,532,011 - Action: **THESIS STRENGTHENED**
-- **[CRITICAL] LP locked percentage fell materially** - 4BVLfyKKb4YHDhScADscYVJ7ie9jG9i7t8KxdkVm7YU9 51.00% -> 16.00% - Action: **REDUCE RISK / VERIFY LIQUIDITY CONTROL**
-- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 2xbq3A3ypRWc7QCP6NHTvH3eUhmpgub6At8qweocxkcgvx5tkbtN1s84LTrAfSDeXNDkHf4Ww7UjuuE678xzbT2m - Action: **REVIEW TRANSACTION**
-- **[HIGH] Upgrade authority wallet has new activity** - Latest tx 29DTrjvuc8dqbLdJn2fPaMdQ1wBmuEmtqJf7E3gUpujtgzXAk2RbrsvtkxWqaLEmVVCiT4U1FDnnn1T4prgCn5WC - Action: **REVIEW TRANSACTION**
+- **[MEDIUM] Supply fell by 154,114 HOOKED** - Current supply 915,313,875; cumulative burn ~84,686,125 - Action: **THESIS STRENGTHENED**
+- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 4aH6mcoEDVkKZcHeiv3JvCGsbo2SLqt4cUH1J6uUkSsyEkPWRJBQe5EyoK6YSNVZicd4syqqfAq8V3YiauhPCf1N - Action: **REVIEW TRANSACTION**
 
 _Monitor only. No automatic trading._

@@ -1,38 +1,24 @@
 {
-  "checked_at": "2026-10-28T00:03:36+00:00",
+  "checked_at": "2026-10-28T05:41:50+00:00",
   "events": [
     {
       "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 915,467,989; cumulative burn ~84,532,011",
+      "detail": "Current supply 915,313,875; cumulative burn ~84,686,125",
       "key": "burn",
       "severity": "MEDIUM",
-      "title": "Supply fell by 377,513 HOOKED"
-    },
-    {
-      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
-      "detail": "4BVLfyKKb4YHDhScADscYVJ7ie9jG9i7t8KxdkVm7YU9 51.00% -> 16.00%",
-      "key": "lp_unlock:4BVLfyKKb4YHDhScADscYVJ7ie9jG9i7t8KxdkVm7YU9",
-      "severity": "CRITICAL",
-      "title": "LP locked percentage fell materially"
+      "title": "Supply fell by 154,114 HOOKED"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 2xbq3A3ypRWc7QCP6NHTvH3eUhmpgub6At8qweocxkcgvx5tkbtN1s84LTrAfSDeXNDkHf4Ww7UjuuE678xzbT2m",
+      "detail": "Latest tx 4aH6mcoEDVkKZcHeiv3JvCGsbo2SLqt4cUH1J6uUkSsyEkPWRJBQe5EyoK6YSNVZicd4syqqfAq8V3YiauhPCf1N",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
-    },
-    {
-      "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 29DTrjvuc8dqbLdJn2fPaMdQ1wBmuEmtqJf7E3gUpujtgzXAk2RbrsvtkxWqaLEmVVCiT4U1FDnnn1T4prgCn5WC",
-      "key": "upgrade_activity",
-      "severity": "HIGH",
-      "title": "Upgrade authority wallet has new activity"
     }
   ],
   "issue": {
-    "number": 154,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/154"
+    "number": 155,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/155"
   },
   "telegram": {
     "error": "telegram secrets not configured"
