@@ -1,17 +1,24 @@
 {
-  "checked_at": "2026-10-29T14:39:23+00:00",
+  "checked_at": "2026-10-29T19:51:58+00:00",
   "events": [
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 4Lp4v51JpUNRGiTKZsHNaqAD9ekcGZMPRK8VAXbsYE5mTkAqtSY8XS6XtqyDVha7BYryk6r29TM9zahHtewjHK9J",
+      "detail": "Latest tx 3QqsxUr8SUdLZbNhWqPJ1wKUtdsJ5ZvwzUbv7AhiW6bJSTKUnhS3GfxhF8csQMCfYgvBtmYuE9UCCAgU37yMy7xx",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
+    },
+    {
+      "action": "THESIS STRENGTHENED",
+      "detail": "52,207 HOOKED burned",
+      "key": "burn:4vQgNj33uoMwtrTQB9VEnjbHqgcUnhCq542E2FrPxdLyy3CMr4mF53YJBu9VXSmFsK8FCdwteGKPkrHy8fQgEWzk",
+      "severity": "MEDIUM",
+      "title": "New flywheel burn"
     }
   ],
   "issue": {
-    "number": 161,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/161"
+    "number": 162,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/162"
   },
   "telegram": {
     "error": "telegram secrets not configured"
