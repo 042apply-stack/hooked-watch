@@ -1,56 +1,49 @@
 {
   "baseline_initialized": false,
-  "checked_at": "2026-10-31T06:47:55+00:00",
+  "checked_at": "2026-10-31T13:18:43+00:00",
   "creator": {
-    "latest": "5FxNozaj2knAbqnT9bao8usLryMNLvbbw2XEQEUY15jE3DqrfNYA7Ana29wXA8hvyLcpJcCgfceJkAHr3MHAscHP",
-    "sol": 10.656604036,
-    "time": 1793427671
+    "latest": "2xSWMruk2ay3Cs14kEYh5P93Q56hhUj62CyBANPRtZEKwtrkStYiSCMi6xt5pSczdggypoUVvBjJJXpYUzymKRnc",
+    "sol": 10.677103383,
+    "time": 1793449063
   },
   "creator_burns": [],
   "creator_funded": {},
   "dex": {
     "b1": 0,
-    "b24": 116,
-    "c1": 0.0,
-    "c24": -12.76,
+    "b24": 130,
+    "c1": 0.57,
+    "c24": -18.28,
     "dex": "meteora",
-    "liq": 113570.7,
-    "mc": 612014.0,
+    "liq": 102667.67,
+    "mc": 584733.0,
     "pair": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
     "pairs": 16,
-    "price": 0.0006691,
-    "s1": 0,
-    "s24": 73,
-    "vol24": 132051.74
+    "price": 0.0006393,
+    "s1": 1,
+    "s24": 71,
+    "vol24": 138517.47
   },
   "errors": {
     "rug": "HTTPError: HTTP Error 400: Bad Request"
   },
   "events_this_run": [
     {
-      "action": "REVIEW RISK",
-      "detail": "Dpmutmc4ZLqvJwHbwabvKYeFJ9zkQ86nutUAUviRrXG2 -> None",
-      "key": "metadata_auth",
-      "severity": "HIGH",
-      "title": "Metadata authority changed"
-    },
-    {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 5FxNozaj2knAbqnT9bao8usLryMNLvbbw2XEQEUY15jE3DqrfNYA7Ana29wXA8hvyLcpJcCgfceJkAHr3MHAscHP",
+      "detail": "Latest tx 2xSWMruk2ay3Cs14kEYh5P93Q56hhUj62CyBANPRtZEKwtrkStYiSCMi6xt5pSczdggypoUVvBjJJXpYUzymKRnc",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     }
   ],
   "flywheel": {
-    "latest": "28Axp5cFS7ZjZxrqKj4VXqeXsir5txZo6yPrbuvrbjooMzqekCVeEpcLaqQVLNQdPK2xssDrPAD9q97q4fsN1h9F",
-    "sol": 3.838263043,
-    "time": 1793429232
+    "latest": "5d2giBR9nAWRBYgfGvEre5oRQ9hmncpoNdRWgoqnjAxsYS9vzMVzz9xobHfYmc9F7ANp22jooj4toFn5vf8yKECA",
+    "sol": 3.846467606,
+    "time": 1793452634
   },
   "flywheel_burns": [],
   "issue_created": {
-    "number": 169,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/169"
+    "number": 170,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/170"
   },
   "mint": "C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE",
   "programs": {
@@ -81,9 +74,9 @@
       "data_hash": "30ba8c965260761cd658f5c8eefe3d23c0dfb9e529d52ff75005084f433c8429",
       "exec": true,
       "exists": true,
-      "latest": "FifwbqTuE4MTLzc1XSTywPTn5g7hBFsvpADcYKS2J6F9BpKxfKDRDBUGxDBiJ75dWxjsWmSE7AxzvL2v68XeysK",
+      "latest": "2aK3gA8eVEjbSgvA8fuciWCMyqZMA2u5Cr84qxqooMDaawwt674Sj3L7LcvXuWXbnwPpB6MVpoLfsgHSkUfZ5Moq",
       "owner": "BPFLoaderUpgradeab1e11111111111111111111111",
-      "time": 1793424069
+      "time": 1793452278
     },
     "surfaced_1": {
       "address": "125D5rkQciP5LMuaKAVrcaFDeU7rrfYB4iUjeNnnPCMk",
@@ -99,9 +92,9 @@
       "data_hash": "94a6b54d879a0ec92338f203ec0272065beece3678601d603356729f2e9e24cd",
       "exec": false,
       "exists": true,
-      "latest": "cuj7JUqRQjoX9XL7tFAA4vvXzmmyr2zPeuoJAs7tJTLAyWSWSVz3Vd8LxXZSCtF9TD295PBETj5VhCVkw4GRExg",
+      "latest": null,
       "owner": "dbcij3LWUppWqq96dh6gJWwBifmcGfLSB5D4DuSMaqN",
-      "time": 1791314087
+      "time": null
     },
     "surfaced_2": {
       "address": "12L53TQKT3DZqb1a7XMX9wTRuEMcSHQRLZwRiNrresZN",
@@ -282,11 +275,11 @@
     ],
     "home_hash": "c1ee4b85a84f2e9370e058a7cd264eb984e4af4cdcbee0cc3d35d71d7fc58614",
     "launch_count": 100,
-    "launch_hash": "11e441535f893b416e3d5ea3dfeee9a9137fa21f3d0d140cd5f351bad18dd829"
+    "launch_hash": "5903922c14705656e57fe82cca93255124a8e64131b3bf4d0416b82d0183e70e"
   },
   "supply_rpc": {
     "decimals": 6,
-    "supply": 914519131.721551
+    "supply": 914507956.162883
   },
   "telegram_sent": {
     "error": "telegram secrets not configured"
@@ -303,7 +296,7 @@
     ],
     "error": null,
     "excerpt": "Title: Hooked (@Hoookedpad) on X URL Source: https://x.com/Hoookedpad Markdown Content: [](https://x.com/) [](https://x.com/) [Log in](https://x.com/i/jf/onboarding/web?mode=login&redirect_after_login=%2FHoookedpad)[Sign up](https://x.com/i/jf/onboarding/web?mode=signup&redirect_after_login=%2FHoookedpad) [Log in](https://x.com/i/jf/onboarding/web?mode=login&redirect_after_login=%2FHoookedpad)[Sign up](https://x.com/i/jf/onboarding/web?mode=signup&redirect_after_login=%2FHoookedpad) Hooked 211 posts [![Image 1: Hooked profile banner](https://pbs.twimg.com/profile_banners/2104332177475284992/1790547033/1500x500)](https://x.com/Hoookedpad/header_photo) [![Image 2: @Hoookedpad](https://pbs.twim",
-    "hash": "de03ac8d7c2476012d82b790627bb2458dc5a270509aed1a4a94173e683dcd41",
+    "hash": "b55539a7e867932303325beb91631d981a9ece33ebf0ce3ab3a46e19cab26de1",
     "ids": [
       "2113727929322749990",
       "2113727929322749990",
