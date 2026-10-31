@@ -1,33 +1,33 @@
 # HOOKED Watch - Latest
 
-Checked: **2026-10-31T17:51:32+00:00**
+Checked: **2026-10-31T20:59:49+00:00**
 
 ## Position
 - Entry reference: **1,000 USD at ~950,000 USD MC**
-- Current MC: **636,342 USD**
-- MC vs entry: **-33.0%**
-- Rough value if token amount unchanged: **670 USD**
+- Current MC: **724,477 USD**
+- MC vs entry: **-23.7%**
+- Rough value if token amount unchanged: **763 USD**
 
 ## Market
-- Price: **0.00069580 USD**
-- Liquidity: **108,871 USD**
-- 24h volume: **151,117 USD**
-- Top pair 1h buys/sells: **8 / 5**
+- Price: **0.00079220 USD**
+- Liquidity: **116,368 USD**
+- 24h volume: **166,465 USD**
+- Top pair 1h buys/sells: **12 / 5**
 
 ## Token / security
-- Supply: **914,466,029 HOOKED**
-- Burned from 1B ref: **85,533,971 HOOKED**
+- Supply: **914,445,160 HOOKED**
+- Burned from 1B ref: **85,554,840 HOOKED**
 - Mint authority: **None**
 - Freeze authority: **None**
 - Creator direct balance: **0**
 - RugCheck graph insiders: **54**
-- Top-10 holder concentration: **26.75%**
+- Top-10 holder concentration: **25.77%**
 
 ## Product
 - Launches detected: **100**
 
 ## Alerts this run
-- **[HIGH] New RugCheck risk flag** - Mutable metadata - Action: **DO NOT ADD UNTIL VERIFIED**
-- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 5XwT6VVK83eWUfJzdjcRNHbLQbUC8w3Ck6PNbE45LiDE6TiwXvCR8ZZZY5YxyuP6Z2pkFMB6WS6XwCgcepCuZCvL - Action: **REVIEW TRANSACTION**
+- **[CRITICAL] LP locked percentage fell materially** - C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 36.67% -> 31.27% - Action: **REDUCE RISK / VERIFY LIQUIDITY CONTROL**
+- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 5rhM3J3DBFDK7P97isKzgnxRpS9SqvTqVhWrfFxkiQpwzdJcmNhryuyF1ZJMJjWKdhkMCEoFw2VPpBYm7jstAXx5 - Action: **REVIEW TRANSACTION**
 
 _Monitor only. No automatic trading._
