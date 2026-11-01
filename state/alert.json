@@ -1,45 +1,17 @@
 {
-  "checked_at": "2026-11-01T18:28:34+00:00",
+  "checked_at": "2026-11-01T22:16:31+00:00",
   "events": [
     {
-      "action": "REVIEW PROFIT / RISK",
-      "detail": "738,080 USD -> 616,106 USD",
-      "key": "mc_move",
-      "severity": "MEDIUM",
-      "title": "Market cap moved -16.5%"
-    },
-    {
-      "action": "REDUCE RISK / VERIFY LP",
-      "detail": "120,501 USD -> 96,027 USD",
-      "key": "liq_drop",
-      "severity": "HIGH",
-      "title": "Liquidity dropped -20.3%"
-    },
-    {
-      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
-      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 50.90% -> 27.03%",
-      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
-      "severity": "CRITICAL",
-      "title": "LP locked percentage fell materially"
-    },
-    {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 285s6hUitMSJ9ztDE45kinv5ie7qizeMohGuW2o8q7XMDQJ6KfcywDFAYsJY3Ump9mjGXLnTiYS8PrYyG33Yxy2n",
+      "detail": "Latest tx 4feo9hMigoMr62C9RUyMQBLuycdp6wUzUNuTtTVhhwFLmFkncPLMdUhaArwvg4DjTSbudin1a5shcn1JnDnDYkSY",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
-    },
-    {
-      "action": "REVIEW UPGRADE",
-      "detail": "surfaced_2 12L53TQKT3DZqb1a7XMX9wTRuEMcSHQRLZwRiNrresZN",
-      "key": "progchg:12L53TQKT3DZqb1a7XMX9wTRuEMcSHQRLZwRiNrresZN",
-      "severity": "HIGH",
-      "title": "Program account data changed"
     }
   ],
   "issue": {
-    "number": 176,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/176"
+    "number": 177,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/177"
   },
   "telegram": {
     "error": "telegram secrets not configured"
