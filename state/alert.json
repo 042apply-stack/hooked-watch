@@ -1,31 +1,17 @@
 {
-  "checked_at": "2026-11-02T01:41:52+00:00",
+  "checked_at": "2026-11-02T08:20:23+00:00",
   "events": [
     {
-      "action": "INVESTIGATE",
-      "detail": "8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz funded with 2.00000 SOL; holds 0 HOOKED",
-      "key": "funded:8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz",
-      "severity": "MEDIUM",
-      "title": "New creator-funded wallet"
-    },
-    {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 5iNXU4HwbujR21Yw7xEm1D948vUcyrhsP8Z9jJkRarJX5YE5MvNfktgTCqmenQNw4ABbfhNHZSo3eKkR1v2Usfnc",
+      "detail": "Latest tx 2CeRfM2ZdmcjVPWtMMBGitG8BrKmkZLfEqpjH6bKB4NBstKVuWaP2KdwS9fftHj6EWKZSR37aPYqAtjtQz99eRxc",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
-    },
-    {
-      "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 5Dej8oHbH4BAdMMM1cjAP2cLMFKaHXgwgMRxD2sCUmh9nhSr7CjnRsJbapbog1FP6Tc9uxbV8Z5BfK79oXfpgwYe",
-      "key": "upgrade_activity",
-      "severity": "HIGH",
-      "title": "Upgrade authority wallet has new activity"
     }
   ],
   "issue": {
-    "number": 178,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/178"
+    "number": 179,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/179"
   },
   "telegram": {
     "error": "telegram secrets not configured"
