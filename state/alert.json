@@ -1,31 +1,38 @@
 {
-  "checked_at": "2026-11-03T21:53:04+00:00",
+  "checked_at": "2026-11-04T01:53:54+00:00",
   "events": [
     {
-      "action": "REVIEW PROFIT / RISK",
-      "detail": "638,532 USD -> 531,946 USD",
-      "key": "mc_move",
-      "severity": "MEDIUM",
-      "title": "Market cap moved -16.7%"
-    },
-    {
       "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
-      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 100.00% -> 67.94%",
+      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 67.94% -> 30.20%",
       "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
       "severity": "CRITICAL",
       "title": "LP locked percentage fell materially"
     },
     {
+      "action": "INVESTIGATE",
+      "detail": "8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz funded with 2.00000 SOL; holds 0 HOOKED",
+      "key": "funded:8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz",
+      "severity": "MEDIUM",
+      "title": "New creator-funded wallet"
+    },
+    {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 4zAZoVs5yqSF4Vz6xJ8iB4qsKjsspHcLuaaifNynuLh1pkeFsCj2r85nZEEZxqrHYHhePfjGFMaqFefEbNJi4A4n",
+      "detail": "Latest tx YM8iB4XubKoi12ZjQjm5wsTeZrKXhY7qMatR3AKY2MNEUVH6ith2RRJDj1mhBoX1kUXJDYMp7f5Jsxq3CY3yzqf",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
+    },
+    {
+      "action": "REVIEW TRANSACTION",
+      "detail": "Latest tx BajkWv5VW2pKvZKKHANfWDESJewhHSGFs28zp6zJuwnVQxcm3CDZxVMCa9SkF8nr868fX3saUKzNkqa8uPKKM5X",
+      "key": "upgrade_activity",
+      "severity": "HIGH",
+      "title": "Upgrade authority wallet has new activity"
     }
   ],
   "issue": {
-    "number": 184,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/184"
+    "number": 185,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/185"
   },
   "telegram": {
     "error": "telegram secrets not configured"
