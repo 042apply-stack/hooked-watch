@@ -1,32 +1,32 @@
 # HOOKED Watch - Latest
 
-Checked: **2026-11-07T03:03:29+00:00**
+Checked: **2026-11-07T10:07:04+00:00**
 
 ## Position
 - Entry reference: **1,000 USD at ~950,000 USD MC**
-- Current MC: **528,661 USD**
-- MC vs entry: **-44.4%**
-- Rough value if token amount unchanged: **556 USD**
+- Current MC: **496,266 USD**
+- MC vs entry: **-47.8%**
+- Rough value if token amount unchanged: **522 USD**
 
 ## Market
-- Price: **0.00057900 USD**
-- Liquidity: **87,388 USD**
-- 24h volume: **148,775 USD**
-- Top pair 1h buys/sells: **1 / 0**
+- Price: **0.00054350 USD**
+- Liquidity: **84,886 USD**
+- 24h volume: **112,270 USD**
+- Top pair 1h buys/sells: **7 / 4**
 
 ## Token / security
-- Supply: **913,048,678 HOOKED**
-- Burned from 1B ref: **86,951,322 HOOKED**
+- Supply: **912,994,399 HOOKED**
+- Burned from 1B ref: **87,005,601 HOOKED**
 - Mint authority: **None**
 - Freeze authority: **None**
 - Creator direct balance: **0**
 - RugCheck graph insiders: **56**
-- Top-10 holder concentration: **25.02%**
+- Top-10 holder concentration: **25.25%**
 
 ## Product
 - Launches detected: **100**
 
 ## Alerts this run
-- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 5dqdP5YXoLSAhdfMU3bETSxsGzc5XvNc6pjJBtziHwDvNxuQEe4nXQjLr2R5uoT8ERQVRMYXDMucS2MEDXQvYW54 - Action: **REVIEW TRANSACTION**
+- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 5sUQzdCaxjV9gz63WEVoZUXf9T8ccab8zJsUqiAYRVad1aEeCTzvAkVfQXFsu37THU77NpGrnHtaJW4xrryPSm8x - Action: **REVIEW TRANSACTION**
 
 _Monitor only. No automatic trading._
