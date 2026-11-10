@@ -1,24 +1,45 @@
 {
-  "checked_at": "2026-11-10T16:33:03+00:00",
+  "checked_at": "2026-11-10T21:57:45+00:00",
   "events": [
     {
       "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 912,264,248; cumulative burn ~87,735,752",
+      "detail": "Current supply 911,964,671; cumulative burn ~88,035,329",
       "key": "burn",
       "severity": "MEDIUM",
-      "title": "Supply fell by 334,536 HOOKED"
+      "title": "Supply fell by 299,577 HOOKED"
+    },
+    {
+      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
+      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 100.00% -> 25.28%",
+      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
+      "severity": "CRITICAL",
+      "title": "LP locked percentage fell materially"
+    },
+    {
+      "action": "INVESTIGATE",
+      "detail": "8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz funded with 2.00000 SOL; holds 0 HOOKED",
+      "key": "funded:8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz",
+      "severity": "MEDIUM",
+      "title": "New creator-funded wallet"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 59qs5HwscJsqkf7yfb7k5WfssfWwW6xR2ncGFvrmFPcN4KWLjGMv1m7U8CwuSamFbzxZUh1Ey5oEJrBSfST61poq",
+      "detail": "Latest tx cftm52dbUeTGd5wwpBiWHTVFHPBg6TTU9DAcsu6Tw2GwicS8ghm5r8F5GEpYNU2WVa7UR83vJPHJ9UMQbUrCLyA",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
+    },
+    {
+      "action": "REVIEW TRANSACTION",
+      "detail": "Latest tx 2WsQB1BY9ge1PU6dkfoLVqztWv9sw14kTDdniHQXwRHr1ZDdSR5S5jQoiZutqzDLwFsizNsRqSa6UAWvdPrsEbJW",
+      "key": "upgrade_activity",
+      "severity": "HIGH",
+      "title": "Upgrade authority wallet has new activity"
     }
   ],
   "issue": {
-    "number": 211,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/211"
+    "number": 212,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/212"
   },
   "telegram": {
     "error": "telegram secrets not configured"
