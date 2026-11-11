@@ -1,38 +1,24 @@
 {
-  "checked_at": "2026-11-11T01:47:08+00:00",
+  "checked_at": "2026-11-11T08:52:03+00:00",
   "events": [
     {
-      "action": "INVESTIGATE",
-      "detail": "9guRZn19dDLEVfJWd7hPPvGrPvsqYqKJMj1jeBkWY9YR funded with 0.30000 SOL; holds 0 HOOKED",
-      "key": "funded:9guRZn19dDLEVfJWd7hPPvGrPvsqYqKJMj1jeBkWY9YR",
+      "action": "THESIS STRENGTHENED",
+      "detail": "Current supply 911,769,710; cumulative burn ~88,230,290",
+      "key": "burn",
       "severity": "MEDIUM",
-      "title": "New creator-funded wallet"
-    },
-    {
-      "action": "INVESTIGATE",
-      "detail": "CCPtxQagjmWH2dLyNWWT5t7cQcnXdH8ov24CkTfTkcuC funded with 0.10000 SOL; holds 0 HOOKED",
-      "key": "funded:CCPtxQagjmWH2dLyNWWT5t7cQcnXdH8ov24CkTfTkcuC",
-      "severity": "MEDIUM",
-      "title": "New creator-funded wallet"
+      "title": "Supply fell by 109,226 HOOKED"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 2kjHrYxZ4wa4kTeF6tMXKr9xZAHmyWFmmk1vpjy2ob9DrJtbrGWd4sNxHbfkSd5mK8inzjcu4UtY8yMZqPWN5aX8",
+      "detail": "Latest tx 3JfGDVuZkEvUgGD4Tntw3wjZf3wztiK2BUmNRRo5TH1xHjBYSoqbvr3eZ53xBC5o8MALgptXrRWhkz4Yo1b87Et2",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
-    },
-    {
-      "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 2rP8pghnUBT5vgeHCjYai5Ru76PxWxSdtRmuMPdwmsXmF1UheTLHTTW2LdauKYxj1cBkLEu9sKnruuTx86rjBf1X",
-      "key": "upgrade_activity",
-      "severity": "HIGH",
-      "title": "Upgrade authority wallet has new activity"
     }
   ],
   "issue": {
-    "number": 213,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/213"
+    "number": 214,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/214"
   },
   "telegram": {
     "error": "telegram secrets not configured"

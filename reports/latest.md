@@ -1,35 +1,33 @@
 # HOOKED Watch - Latest
 
-Checked: **2026-11-11T01:47:08+00:00**
+Checked: **2026-11-11T08:52:03+00:00**
 
 ## Position
 - Entry reference: **1,000 USD at ~950,000 USD MC**
-- Current MC: **367,063 USD**
-- MC vs entry: **-61.4%**
-- Rough value if token amount unchanged: **386 USD**
+- Current MC: **361,451 USD**
+- MC vs entry: **-62.0%**
+- Rough value if token amount unchanged: **380 USD**
 
 ## Market
-- Price: **0.00040250 USD**
-- Liquidity: **65,301 USD**
-- 24h volume: **207,146 USD**
-- Top pair 1h buys/sells: **8 / 3**
+- Price: **0.00039640 USD**
+- Liquidity: **67,975 USD**
+- 24h volume: **188,649 USD**
+- Top pair 1h buys/sells: **2 / 2**
 
 ## Token / security
-- Supply: **911,878,936 HOOKED**
-- Burned from 1B ref: **88,121,064 HOOKED**
+- Supply: **911,769,710 HOOKED**
+- Burned from 1B ref: **88,230,290 HOOKED**
 - Mint authority: **None**
 - Freeze authority: **None**
 - Creator direct balance: **0**
 - RugCheck graph insiders: **56**
-- Top-10 holder concentration: **28.32%**
+- Top-10 holder concentration: **28.24%**
 
 ## Product
 - Launches detected: **100**
 
 ## Alerts this run
-- **[MEDIUM] New creator-funded wallet** - 9guRZn19dDLEVfJWd7hPPvGrPvsqYqKJMj1jeBkWY9YR funded with 0.30000 SOL; holds 0 HOOKED - Action: **INVESTIGATE**
-- **[MEDIUM] New creator-funded wallet** - CCPtxQagjmWH2dLyNWWT5t7cQcnXdH8ov24CkTfTkcuC funded with 0.10000 SOL; holds 0 HOOKED - Action: **INVESTIGATE**
-- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 2kjHrYxZ4wa4kTeF6tMXKr9xZAHmyWFmmk1vpjy2ob9DrJtbrGWd4sNxHbfkSd5mK8inzjcu4UtY8yMZqPWN5aX8 - Action: **REVIEW TRANSACTION**
-- **[HIGH] Upgrade authority wallet has new activity** - Latest tx 2rP8pghnUBT5vgeHCjYai5Ru76PxWxSdtRmuMPdwmsXmF1UheTLHTTW2LdauKYxj1cBkLEu9sKnruuTx86rjBf1X - Action: **REVIEW TRANSACTION**
+- **[MEDIUM] Supply fell by 109,226 HOOKED** - Current supply 911,769,710; cumulative burn ~88,230,290 - Action: **THESIS STRENGTHENED**
+- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 3JfGDVuZkEvUgGD4Tntw3wjZf3wztiK2BUmNRRo5TH1xHjBYSoqbvr3eZ53xBC5o8MALgptXrRWhkz4Yo1b87Et2 - Action: **REVIEW TRANSACTION**
 
 _Monitor only. No automatic trading._
