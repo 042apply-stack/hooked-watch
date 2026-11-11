@@ -1,45 +1,38 @@
 {
-  "checked_at": "2026-11-10T21:57:45+00:00",
+  "checked_at": "2026-11-11T01:47:08+00:00",
   "events": [
     {
-      "action": "THESIS STRENGTHENED",
-      "detail": "Current supply 911,964,671; cumulative burn ~88,035,329",
-      "key": "burn",
+      "action": "INVESTIGATE",
+      "detail": "9guRZn19dDLEVfJWd7hPPvGrPvsqYqKJMj1jeBkWY9YR funded with 0.30000 SOL; holds 0 HOOKED",
+      "key": "funded:9guRZn19dDLEVfJWd7hPPvGrPvsqYqKJMj1jeBkWY9YR",
       "severity": "MEDIUM",
-      "title": "Supply fell by 299,577 HOOKED"
-    },
-    {
-      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
-      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 100.00% -> 25.28%",
-      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
-      "severity": "CRITICAL",
-      "title": "LP locked percentage fell materially"
+      "title": "New creator-funded wallet"
     },
     {
       "action": "INVESTIGATE",
-      "detail": "8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz funded with 2.00000 SOL; holds 0 HOOKED",
-      "key": "funded:8D71hCD9xnQbxEjUedH4dHHVXrJowG4bDVVjCtdDwFGz",
+      "detail": "CCPtxQagjmWH2dLyNWWT5t7cQcnXdH8ov24CkTfTkcuC funded with 0.10000 SOL; holds 0 HOOKED",
+      "key": "funded:CCPtxQagjmWH2dLyNWWT5t7cQcnXdH8ov24CkTfTkcuC",
       "severity": "MEDIUM",
       "title": "New creator-funded wallet"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx cftm52dbUeTGd5wwpBiWHTVFHPBg6TTU9DAcsu6Tw2GwicS8ghm5r8F5GEpYNU2WVa7UR83vJPHJ9UMQbUrCLyA",
+      "detail": "Latest tx 2kjHrYxZ4wa4kTeF6tMXKr9xZAHmyWFmmk1vpjy2ob9DrJtbrGWd4sNxHbfkSd5mK8inzjcu4UtY8yMZqPWN5aX8",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 2WsQB1BY9ge1PU6dkfoLVqztWv9sw14kTDdniHQXwRHr1ZDdSR5S5jQoiZutqzDLwFsizNsRqSa6UAWvdPrsEbJW",
+      "detail": "Latest tx 2rP8pghnUBT5vgeHCjYai5Ru76PxWxSdtRmuMPdwmsXmF1UheTLHTTW2LdauKYxj1cBkLEu9sKnruuTx86rjBf1X",
       "key": "upgrade_activity",
       "severity": "HIGH",
       "title": "Upgrade authority wallet has new activity"
     }
   ],
   "issue": {
-    "number": 212,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/212"
+    "number": 213,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/213"
   },
   "telegram": {
     "error": "telegram secrets not configured"
