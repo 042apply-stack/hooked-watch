@@ -1,24 +1,17 @@
 {
-  "checked_at": "2026-11-13T01:24:45+00:00",
+  "checked_at": "2026-11-13T08:29:34+00:00",
   "events": [
     {
-      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
-      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 58.51% -> 34.64%",
-      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
-      "severity": "CRITICAL",
-      "title": "LP locked percentage fell materially"
-    },
-    {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 5nW7e9TtuAkmijWKEtUaDbBB1GgAaZLtUagdrZqRxvpQXtpdwriTvut9XNWMoicL8YgMohv46U4pPUSAD4fUhhup",
+      "detail": "Latest tx 5EY3p6rmRFVtKhQ9iSamLVUGUwUoN9yqi25QT1DLDkea9ejNnYupFj8ef9Bp5HSHL12xpyF9MFC413qmuwtZBBCn",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     }
   ],
   "issue": {
-    "number": 220,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/220"
+    "number": 221,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/221"
   },
   "telegram": {
     "error": "telegram secrets not configured"
