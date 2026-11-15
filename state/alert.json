@@ -1,31 +1,31 @@
 {
-  "checked_at": "2026-11-15T19:53:24+00:00",
+  "checked_at": "2026-11-15T23:44:54+00:00",
   "events": [
     {
-      "action": "REVIEW RISK",
-      "detail": "Dpmutmc4ZLqvJwHbwabvKYeFJ9zkQ86nutUAUviRrXG2 -> None",
-      "key": "metadata_auth",
-      "severity": "HIGH",
-      "title": "Metadata authority changed"
-    },
-    {
       "action": "DO NOT ADD UNTIL VERIFIED",
-      "detail": "Missing metadata",
+      "detail": "Mutable metadata",
       "key": "new_risk",
       "severity": "HIGH",
       "title": "New RugCheck risk flag"
     },
     {
+      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
+      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 71.00% -> 46.09%",
+      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
+      "severity": "CRITICAL",
+      "title": "LP locked percentage fell materially"
+    },
+    {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 35SfGp22YFAgjisJpg4XMAZCDwZQbN7JPVGa9iaKNjWEpSh6YG2ygoPvUgfucYyeya749PgvW91Vaw4FVvbPmrVC",
+      "detail": "Latest tx 5Kz9gXQiSYrn9jSkLhNUJ3SKm2omgatRiT4E6hH1XBWa3YLP1mmi48Mezysk3dBbTDhpwdtmHShPVnP9nB5CfYCG",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     }
   ],
   "issue": {
-    "number": 231,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/231"
+    "number": 232,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/232"
   },
   "telegram": {
     "error": "telegram secrets not configured"
