@@ -1,17 +1,31 @@
 {
-  "checked_at": "2026-11-15T14:18:50+00:00",
+  "checked_at": "2026-11-15T19:53:24+00:00",
   "events": [
     {
+      "action": "REVIEW RISK",
+      "detail": "Dpmutmc4ZLqvJwHbwabvKYeFJ9zkQ86nutUAUviRrXG2 -> None",
+      "key": "metadata_auth",
+      "severity": "HIGH",
+      "title": "Metadata authority changed"
+    },
+    {
+      "action": "DO NOT ADD UNTIL VERIFIED",
+      "detail": "Missing metadata",
+      "key": "new_risk",
+      "severity": "HIGH",
+      "title": "New RugCheck risk flag"
+    },
+    {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 66HprAZQQEZFd6GmunrkuUjbbByj1EzeRg43qahooA7CJJFxgnfczdyJs91ckkXvC5BGt59AKxoFAVCykRPYxeY5",
+      "detail": "Latest tx 35SfGp22YFAgjisJpg4XMAZCDwZQbN7JPVGa9iaKNjWEpSh6YG2ygoPvUgfucYyeya749PgvW91Vaw4FVvbPmrVC",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     }
   ],
   "issue": {
-    "number": 230,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/230"
+    "number": 231,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/231"
   },
   "telegram": {
     "error": "telegram secrets not configured"
