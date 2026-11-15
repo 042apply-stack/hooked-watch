@@ -1,33 +1,32 @@
 # HOOKED Watch - Latest
 
-Checked: **2026-11-15T00:10:17+00:00**
+Checked: **2026-11-15T06:30:39+00:00**
 
 ## Position
 - Entry reference: **1,000 USD at ~950,000 USD MC**
-- Current MC: **214,446 USD**
-- MC vs entry: **-77.4%**
-- Rough value if token amount unchanged: **226 USD**
+- Current MC: **220,069 USD**
+- MC vs entry: **-76.8%**
+- Rough value if token amount unchanged: **232 USD**
 
 ## Market
-- Price: **0.00023530 USD**
-- Liquidity: **44,090 USD**
-- 24h volume: **85,300 USD**
-- Top pair 1h buys/sells: **9 / 1**
+- Price: **0.00024150 USD**
+- Liquidity: **44,840 USD**
+- 24h volume: **75,738 USD**
+- Top pair 1h buys/sells: **0 / 1**
 
 ## Token / security
-- Supply: **911,224,740 HOOKED**
-- Burned from 1B ref: **88,775,260 HOOKED**
+- Supply: **911,204,550 HOOKED**
+- Burned from 1B ref: **88,795,450 HOOKED**
 - Mint authority: **None**
 - Freeze authority: **None**
 - Creator direct balance: **0**
 - RugCheck graph insiders: **64**
-- Top-10 holder concentration: **30.31%**
+- Top-10 holder concentration: **30.18%**
 
 ## Product
 - Launches detected: **100**
 
 ## Alerts this run
-- **[CRITICAL] LP locked percentage fell materially** - C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 100.00% -> 71.00% - Action: **REDUCE RISK / VERIFY LIQUIDITY CONTROL**
-- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 5HmcGL5Qow5A2GW41H17QswU7XBWcWXaBxVT9ypkRSREMav2Bcz7mBbaKHiatQ82DXCJKE7kMswJ6KpwS7QCTJRU - Action: **REVIEW TRANSACTION**
+- **[HIGH] Creator/deployer wallet has new activity** - Latest tx 5mgucPJSaMHVYkkVGbDW1jqDhUbuyZ9pB6Fc9EJM2qxPfFXBcGwk1B6cb2DnKM5V5fRxnRK2an7sTbcieT9XJtUu - Action: **REVIEW TRANSACTION**
 
 _Monitor only. No automatic trading._
