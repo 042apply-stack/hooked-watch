@@ -1,47 +1,47 @@
 {
   "baseline_initialized": false,
-  "checked_at": "2026-11-19T09:25:06+00:00",
+  "checked_at": "2026-11-19T18:29:37+00:00",
   "creator": {
-    "latest": "3fxDZcZUFNRUGVbpWT6MKD4yDnm5aKmGCYmqty9UCJqBegiJ8VkgrYpjWRfXpDYpQe1kqR7CdzB3a9GUCQPd1pAT",
-    "sol": 23.825907493,
-    "time": 1795079560
+    "latest": "4FCtsuRz61L7cY5dGpWAVEzUGvzEgVsvkk6pmw2rqcYPR2DsPywGzjcqk6doqMcCPiyji2sL38N88KcgbLDjjTJN",
+    "sol": 0.294101835,
+    "time": 1795112316
   },
   "creator_burns": [],
   "creator_funded": {},
   "dex": {
-    "b1": 2,
-    "b24": 71,
-    "c1": 0.39,
-    "c24": -21.08,
+    "b1": 0,
+    "b24": 123,
+    "c1": 2.07,
+    "c24": -13.69,
     "dex": "meteora",
-    "liq": 44263.299999999996,
-    "mc": 208916.0,
+    "liq": 41831.780000000006,
+    "mc": 187180.0,
     "pair": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
     "pairs": 11,
-    "price": 0.0002293,
+    "price": 0.0002054,
     "s1": 1,
-    "s24": 57,
-    "vol24": 20533.62
+    "s24": 61,
+    "vol24": 30510.8
   },
   "errors": {},
   "events_this_run": [
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 3fxDZcZUFNRUGVbpWT6MKD4yDnm5aKmGCYmqty9UCJqBegiJ8VkgrYpjWRfXpDYpQe1kqR7CdzB3a9GUCQPd1pAT",
+      "detail": "Latest tx 4FCtsuRz61L7cY5dGpWAVEzUGvzEgVsvkk6pmw2rqcYPR2DsPywGzjcqk6doqMcCPiyji2sL38N88KcgbLDjjTJN",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     }
   ],
   "flywheel": {
-    "latest": "3rL46vYh6PtKmoEf7RU1ydRgtceyAMxu7kS5RtJqwgEA4jgTE95mEGTbdNLPc7MaMyeS3ZSDvsT7bsBTe9mZTTwE",
-    "sol": 3.379148912,
-    "time": 1795080291
+    "latest": "4G4CBgnsKzCpvjC2zRWgDKtYQ5bcCnzBSt5Fk1zNdjzNdJzWYdcqrSARo4KpvP3x2ziyXFddc5uQ4agLyjqiZEhE",
+    "sol": 3.368990521,
+    "time": 1795112975
   },
   "flywheel_burns": [],
   "issue_created": {
-    "number": 243,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/243"
+    "number": 244,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/244"
   },
   "mint": "C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE",
   "programs": {
@@ -54,27 +54,27 @@
       "data_hash": "7387052d99894e602e416c675fab2387b579614370ba993817549dfadbb531a7",
       "exec": true,
       "exists": true,
-      "latest": null,
+      "latest": "1WBW8sREJjKf4Eu7cTkUTwch3i6Q9mGiqSkuoVgVtcuTceYVRWbS1EzUPJeNd5Zty4MeDJh6zvfy3HysAMRYivb",
       "owner": "BPFLoaderUpgradeab1e11111111111111111111111",
-      "time": null
+      "time": 1794808207
     },
     "core_1": {
       "address": "3uxoNzXjn6hKxuFqi5sZjnSoFauSXjnq6i9vWPJf99Zs",
       "data_hash": "f6840b62b88b7c967b30f85b697df7c2dcdcca8054c14d3214335fc0888769c4",
       "exec": true,
       "exists": true,
-      "latest": null,
+      "latest": "4uaBbBiM6pkZoriSpbQN3LA1E6LtNvvJCy26fHPLerUxsC82oWka6fCzbQVu2GZQSVfy9XHFsxQeXSDhYHsS8LE6",
       "owner": "BPFLoaderUpgradeab1e11111111111111111111111",
-      "time": null
+      "time": 1793725287
     },
     "core_2": {
       "address": "4Tabcoy1niosiNAGHMruLBFscgJWXZsVF3pfij3FqMB5",
       "data_hash": "30ba8c965260761cd658f5c8eefe3d23c0dfb9e529d52ff75005084f433c8429",
       "exec": true,
       "exists": true,
-      "latest": "2HEC8AzdkJbzajgooL47MKuGjG7hmZ9BRpwNQD1RfgPBge2StApWbwGWTDjJjRvQLWKKStjwt4WUAjwFZmxHHube",
+      "latest": "5xBpnzaUsSvKFUGt9jQJvRxqk2LGmP46DpP5kXUQ3ZQNT1CGzKFaMAgUwmcZWzCtRHpurduho2pqRwfMsXiTZ1Z3",
       "owner": "BPFLoaderUpgradeab1e11111111111111111111111",
-      "time": 1795073828
+      "time": 1795112854
     },
     "surfaced_1": {
       "address": "125D5rkQciP5LMuaKAVrcaFDeU7rrfYB4iUjeNnnPCMk",
@@ -90,9 +90,9 @@
       "data_hash": "94a6b54d879a0ec92338f203ec0272065beece3678601d603356729f2e9e24cd",
       "exec": false,
       "exists": true,
-      "latest": null,
+      "latest": "cuj7JUqRQjoX9XL7tFAA4vvXzmmyr2zPeuoJAs7tJTLAyWSWSVz3Vd8LxXZSCtF9TD295PBETj5VhCVkw4GRExg",
       "owner": "dbcij3LWUppWqq96dh6gJWwBifmcGfLSB5D4DuSMaqN",
-      "time": null
+      "time": 1791314087
     },
     "surfaced_2": {
       "address": "12L53TQKT3DZqb1a7XMX9wTRuEMcSHQRLZwRiNrresZN",
@@ -144,36 +144,36 @@
       "data_hash": "ac1d4cc45c350cd587bd058f615f3a044d9ce369dedd88705e132339e6f48368",
       "exec": false,
       "exists": true,
-      "latest": null,
+      "latest": "2uY3mR16DCu9EgvVf9mPJmuuHaoiroG3Lxma8EVA9Aa4qWcrrW82aVmN4adN3GF43ATqub9NtxZmhUt1reVidxSu",
       "owner": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
-      "time": null
+      "time": 1790900274
     },
     "surfaced_8": {
       "address": "1TChotqKangQqU7KVf9wsjJu8RW2cHkU5caydvnWC5d",
       "data_hash": "8a09aba4490e1ef390edde4b8423c420f96548ae60fc2ef16c603e58f2f0a248",
       "exec": false,
       "exists": true,
-      "latest": null,
+      "latest": "4BJxHAUPaTQwykiEic3EPGGG5D4167uQTfbAWwraPNCFJstrDF95hq4QRjL1gB5svNABS3UX74zgiuFembGANzBF",
       "owner": "dbcij3LWUppWqq96dh6gJWwBifmcGfLSB5D4DuSMaqN",
-      "time": null
+      "time": 1791566289
     },
     "surfaced_9": {
       "address": "1UctSzAktRBbHqq8dEhiZfhP7N3AgMZJzk4vQFAVXqc",
       "data_hash": "31ef3d87a8b768b74861fb54cf8d8032d591cc71a361a4ad96f57cb8893c69c8",
       "exec": false,
       "exists": true,
-      "latest": "46jFDHWDXCtu5XYpBGTzLr5jYEaUkaAZ8q3kBSr6jeExhxKVuKNdD73qFcai25JMK8TmXAvvbBteK1C8L7k7mWkR",
+      "latest": "5Hyu1BvUKAhTwrrEYZXvQrS6p2AmwMTESBHhXEtPdQWPKA1U2ykKbQmEtNTpRTfiqkgA7WUSKJ1uREeFLKeqK5M8",
       "owner": "11111111111111111111111111111111",
-      "time": 1795026123
+      "time": 1795112812
     }
   },
   "rug": {
-    "burned": 89081631.92295897,
+    "burned": 89120450.37564504,
     "creator": "Dpmutmc4ZLqvJwHbwabvKYeFJ9zkQ86nutUAUviRrXG2",
     "creator_balance": 0,
     "freeze_authority": null,
     "graph_error": null,
-    "graph_hash": "c082593ddeab040123e65dd6674893e9dc3f178397aff2e97b5aae223e994d76",
+    "graph_hash": "a321fb372825c23ad2aa84afc26f00828fda9c46dbba00bd45334f02d5c943b8",
     "graph_insiders": 64,
     "insider_networks": [
       {
@@ -217,42 +217,42 @@
         "type": "transfer"
       }
     ],
-    "liq": 48641.85806624306,
+    "liq": 45387.15096299092,
     "markets": [
       {
-        "base_usd": 19091.70332428098,
+        "base_usd": 17907.35876176225,
         "locked_pct": 43.53937949360692,
-        "locked_usd": 17058.610363568707,
+        "locked_usd": 15746.933007458536,
         "pubkey": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
-        "quote_usd": 20088.024457722662,
+        "quote_usd": 18259.746030741117,
         "type": "meteora_damm_v2"
       },
       {
         "base_usd": 3333.8246203316253,
         "locked_pct": 100,
-        "locked_usd": 3396.1221507646587,
+        "locked_usd": 3388.921822926783,
         "pubkey": "J3Sr6rnYg8FfY2kLojXaBRAtKJf1qSFjjCYFPkQr95JR",
-        "quote_usd": 62.29753043303344,
+        "quote_usd": 55.09720259515792,
         "type": "meteora_damm_v2"
       },
       {
-        "base_usd": 337.02092121149116,
+        "base_usd": 542.9212982805716,
         "locked_pct": 0,
         "locked_usd": 0,
         "pubkey": "FtiotJckV2ZG4S1YgJDJLiXKKDAnKWXgQxo7vxsjPwPe",
-        "quote_usd": 2203.902610767192,
+        "quote_usd": 1988.3529561477205,
         "type": "meteoraDlmm"
       },
       {
-        "base_usd": 403.7918224139372,
+        "base_usd": 351.6401562746684,
         "locked_pct": 0,
         "locked_usd": 0,
         "pubkey": "CnA7BFovX8q8gv2z9QEndo8hPi1PD5nqhABRH4rSnGEc",
-        "quote_usd": 1503.8168171548798,
+        "quote_usd": 1431.7326939410245,
         "type": "meteoraDlmm"
       },
       {
-        "base_usd": 288.86763520102943,
+        "base_usd": 255.48041004553033,
         "locked_pct": 0,
         "locked_usd": 0,
         "pubkey": "B9LBA6TQ9YX7y7TyowPkKJ9mgXGpAAQXmfm1Ex53Zkoa",
@@ -260,31 +260,31 @@
         "type": "meteoraDlmm"
       },
       {
-        "base_usd": 172.03190145212346,
+        "base_usd": 160.99567233495242,
         "locked_pct": 0,
         "locked_usd": 0,
         "pubkey": "DnBRjCN5LfLPXq6k6V6PZWGMkNK9std6McBPH1Pq6FQk",
-        "quote_usd": 191.03831400559608,
+        "quote_usd": 165.4905039071956,
         "type": "meteora_damm_v2"
       },
       {
-        "base_usd": 86.8622433512299,
+        "base_usd": 78.7252548233669,
         "locked_pct": 34,
-        "locked_usd": 89.85718541196483,
+        "locked_usd": 82.95254852696272,
         "pubkey": "4BVLfyKKb4YHDhScADscYVJ7ie9jG9i7t8KxdkVm7YU9",
-        "quote_usd": 177.4235960957255,
+        "quote_usd": 165.25282907946462,
         "type": "raydium_clmm"
       },
       {
-        "base_usd": 52.99493596166969,
+        "base_usd": 52.54480792607855,
         "locked_pct": 0,
         "locked_usd": 0,
         "pubkey": "5hw8qr4RG1Mr2iPZEive1w6fpFNnsg5SmyW8nRmcjSb8",
-        "quote_usd": 162.42232597823337,
+        "quote_usd": 156.8717015295862,
         "type": "meteoraDlmm"
       },
       {
-        "base_usd": 15.974385994248836,
+        "base_usd": 14.128071776528762,
         "locked_pct": 0,
         "locked_usd": 0,
         "pubkey": "975Nkfi5CV2PYjW61BbTpSodauUdxgHFinLHMyHNjNcZ",
@@ -292,15 +292,15 @@
         "type": "meteoraDlmm"
       },
       {
-        "base_usd": 20.712101618856313,
+        "base_usd": 18.318203805724398,
         "locked_pct": 0,
         "locked_usd": 0,
         "pubkey": "3mm16Bre8ew8HsEkRzX5RPXhLMsejwxkfk2MdmdjDVDM",
-        "quote_usd": 50.374943367511165,
+        "quote_usd": 50.40821857603052,
         "type": "meteoraDlmm"
       },
       {
-        "base_usd": 4.92748919300749e-07,
+        "base_usd": 4.3579716317073474e-07,
         "locked_pct": 0,
         "locked_usd": 0,
         "pubkey": "AXZQE7L4dVGpwP9V6s8yEqzEJjThKDBpycFLB8a5rA6T",
@@ -308,15 +308,15 @@
         "type": "meteora_damm_v2"
       },
       {
-        "base_usd": 4.4221643152095064e-07,
+        "base_usd": 3.9110520351378237e-07,
         "locked_pct": 0,
         "locked_usd": 0,
         "pubkey": "5wC7Vy92vAHiUGud6dg52oBfokYJ8hth3XatTCgW2LcJ",
-        "quote_usd": 54.59683323648189,
+        "quote_usd": 54.63289721767957,
         "type": "meteora_damm_v2"
       },
       {
-        "base_usd": 2.1076709282265864,
+        "base_usd": 1.864067023672069,
         "locked_pct": 0,
         "locked_usd": 0,
         "pubkey": "GTEb47Ljtw1gHaBuQeK4GgYWihBrRsfFtTLzmqHcDvVF",
@@ -324,55 +324,55 @@
         "type": "meteoraDlmm"
       },
       {
-        "base_usd": 8.563541775244387e-06,
+        "base_usd": 7.5737704663899575e-06,
         "locked_pct": 0,
         "locked_usd": 0,
         "pubkey": "HmNcCvW9PpVP4ZCiRwB5iq667fQoZWW6CU5HiYtotzAC",
-        "quote_usd": 14.686894078755925,
+        "quote_usd": 14.696595518207813,
         "type": "meteoraDlmm"
       },
       {
-        "base_usd": 2.1264802549869912e-08,
+        "base_usd": 1.880702374704331e-08,
         "locked_pct": 0,
         "locked_usd": 0,
         "pubkey": "HWGUPXmZhB7NeNKkxkGQjf3UjYyMqKgUXJ9NTDJSeQ6f",
-        "quote_usd": 10.022486886021337,
+        "quote_usd": 10.029107247628133,
         "type": "meteoraDlmm"
       },
       {
-        "base_usd": 8.976131448148083,
+        "base_usd": 8.982060638846226,
         "locked_pct": 92,
-        "locked_usd": 8.729259238411597,
+        "locked_usd": 8.680250838831505,
         "pubkey": "DybEHXLtJxDCq4e3hcb8jRDxSeFqe1sN7vDeZWgbcgWY",
-        "quote_usd": 0.5121938109949563,
+        "quote_usd": 0.4529946207532355,
         "type": "raydium_clmm"
       },
       {
-        "base_usd": 6.740902418041532,
+        "base_usd": 6.745355126443257,
         "locked_pct": 0,
         "locked_usd": 0,
         "pubkey": "AEQvoUzWfB9Nqei7VhPWx8gCHa8VnRrvQhomtVQHE4cY",
-        "quote_usd": 9.672055353327927e-08,
+        "quote_usd": 8.554162413977764e-08,
         "type": "raydium_clmm"
       },
       {
-        "base_usd": 3.7041914119128237e-08,
+        "base_usd": 3.2760622010978675e-08,
         "locked_pct": 0,
         "locked_usd": 0,
         "pubkey": "HyRiEGP6EfdpaA4oMEigG48hCuRY7z1jC58xfrvvUknt",
-        "quote_usd": 5.756050446679126,
+        "quote_usd": 5.75706511448103,
         "type": "meteoraDlmm"
       },
       {
-        "base_usd": 0.2237079491953067,
+        "base_usd": 0.22385571965735174,
         "locked_pct": 0,
         "locked_usd": 0,
         "pubkey": "6JeBu9rLPAsuo4YzEj28pGA4ZNonYYwGUk2muVtME7AD",
-        "quote_usd": 1.1809515053454005,
+        "quote_usd": 1.0444575233205429,
         "type": "orca"
       },
       {
-        "base_usd": 9.14615163435265e-09,
+        "base_usd": 8.089042471846586e-09,
         "locked_pct": 0,
         "locked_usd": 0,
         "pubkey": "FeoLUboiFdsjdAXiKJ8ba2EQ1XYsZPLtJhdntrQKrJMb",
@@ -391,128 +391,128 @@
         "value": ""
       }
     ],
-    "supply": 910918368.077041,
-    "top10": 30.880729207907155,
+    "supply": 910879549.624355,
+    "top10": 30.363368725884722,
     "top20": [
       {
-        "amount": 83496115.47035,
+        "amount": 88551191.68474,
         "insider": false,
         "owner": "HLnpSz9h2S4hiLQ43rnSD9XkcUThA7B8hQMKmDaiTLcC",
-        "pct": 9.166146868529092
+        "pct": 9.721503981647007
       },
       {
         "amount": 37263837.359668,
         "insider": false,
         "owner": "9BMzTpSo4URse1oN666pmexhdjpU1vA5p7LtroCFQdLU",
-        "pct": 4.090798765901755
+        "pct": 4.090973101222389
       },
       {
-        "amount": 30473861.571971,
-        "insider": false,
-        "owner": "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ",
-        "pct": 3.34539983382942
-      },
-      {
-        "amount": 26181352.937,
+        "amount": 26504612.056025,
         "insider": false,
         "owner": "DqgH42xYE2xKiCH7wzoyQahHWSCtjun7ACTncXJwyz22",
-        "pct": 2.874171150184306
+        "pct": 2.909782316109243
       },
       {
         "amount": 21141867.454558,
         "insider": false,
         "owner": "49nvFkUxnxd4wXY5W9XygB93rzDUvugaxK5AkMqqxmgS",
-        "pct": 2.320939855366922
+        "pct": 2.321038765583975
       },
       {
-        "amount": 19623775.199302,
+        "amount": 20464746.389092,
         "insider": false,
         "owner": "3FLiK5JJZBz1nWwmE8kCFvbDSK4NvzJU2cmLpvSNp7n1",
-        "pct": 2.154284718259443
+        "pct": 2.2467017068866704
+      },
+      {
+        "amount": 19530036.798929,
+        "insider": false,
+        "owner": "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ",
+        "pct": 2.1440855497286275
       },
       {
         "amount": 0,
         "insider": false,
         "owner": "11111111111111111111111111111111",
-        "pct": 2.045313058168048
+        "pct": 2.0454002221495085
       },
       {
         "amount": 17397173.095301,
         "insider": false,
         "owner": "8DxNqRqtNWjRo35wnDHTsbf8x1GPqk21Z3fo3AkKp4kk",
-        "pct": 1.9098498509835333
+        "pct": 1.9099312420040129
       },
       {
         "amount": 14386336.419163,
         "insider": false,
         "owner": "3RFq4vquo9CFab2A8EhtU7knyBXKumLz4z5vBiyLsbGk",
-        "pct": 1.5734533626850518
+        "pct": 1.5735204176814435
       },
       {
         "amount": 12756243.437453,
         "insider": false,
         "owner": "i9dbJqAtkzULNRJtbThxVYkWpjmmsaA5Q7u4yFv4w5a",
-        "pct": 1.400371743999583
+        "pct": 1.400431422871844
       },
       {
         "amount": 0,
         "insider": false,
         "owner": "9nXDunV8eNvYSVys7JSBkm2hz9Q79Q3EYeko19srVeMC",
-        "pct": 1.3872907589558254
+        "pct": 1.3873498803629427
       },
       {
         "amount": 11761832.744716,
         "insider": false,
         "owner": "7eruynSYdPxZRM7e3rM9kLdMpngLgLDhKipx4mKnS7rW",
-        "pct": 1.291206013283645
+        "pct": 1.2912610399000128
       },
       {
         "amount": 11070146.466345,
         "insider": false,
         "owner": "GdCpoDn4BTdsqrNWtRLF3vmJEDMjN6816u1KYFMmH6F7",
-        "pct": 1.2152731632488873
+        "pct": 1.2153249538767565
       },
       {
         "amount": 10812423.942058,
         "insider": false,
         "owner": "95skFTVj6xJGA4YgBgTjDVadZmCvFZ7J5QQfjh9zPdYd",
-        "pct": 1.1869805595075604
+        "pct": 1.1870311444050996
       },
       {
         "amount": 10792135.133987,
         "insider": false,
         "owner": "6HmceQy7t4bhCD21Tkbha4zDFFBYQYSymEjpACqpMRYP",
-        "pct": 1.184753267932155
+        "pct": 1.1848037579104347
+      },
+      {
+        "amount": 10031000.637735,
+        "insider": false,
+        "owner": "6bKzMn1dwZ6Gv5crctKqffXstmJ29cxsqptyMnkWhq1w",
+        "pct": 1.1012433687716192
       },
       {
         "amount": 10000000.259428,
         "insider": false,
         "owner": "FcX764QpFks3UuyCAUBLqdiGjpWv3SmThKxkmA5vh4pT",
-        "pct": 1.0977932392051895
+        "pct": 1.0978400232557621
       },
       {
         "amount": 9911668.314206,
         "insider": false,
         "owner": "3nLh14fRyZr1EBpp7jJqwBqKt8uLBFZ1rTmVTfLvnkfj",
-        "pct": 1.088096218229702
+        "pct": 1.088142589027666
       },
       {
-        "amount": 9637458.974127,
+        "amount": 9904105.304764,
+        "insider": false,
+        "owner": "7mXjuqi1oMmZG8aeR5dgtojdvTuwmPTfxh9ZjEjHEXyb",
+        "pct": 1.0873122916030373
+      },
+      {
+        "amount": 9816509.315959,
         "insider": false,
         "owner": "BMMFoihMgxXFe44WRaobdRrchjD5QNGc2frtM97uz39s",
-        "pct": 1.0579937030440811
-      },
-      {
-        "amount": 9588728.745328,
-        "insider": false,
-        "owner": "BvovJeBAzTLJYb4kFbpHduc5A6j36XjtENi7V4ccnpfr",
-        "pct": 1.0526441316108177
-      },
-      {
-        "amount": 9429126.575971,
-        "insider": false,
-        "owner": "2EGcqkFurLAtATX5it9CkMdrU1vocwTEjGuLEq5syGiU",
-        "pct": 1.0351231138171022
+        "pct": 1.0776956536138405
       }
     ],
     "update_authority": "Dpmutmc4ZLqvJwHbwabvKYeFJ9zkQ86nutUAUviRrXG2"
@@ -622,11 +622,11 @@
     ],
     "home_hash": "8fe013a74881e1ec26a76b50300febd416ab0264f5ead9e4d88eeb873adf2af1",
     "launch_count": 100,
-    "launch_hash": "198973b606fa59ce39c3ff42684d9baf4cd6bc562cfe8e5a3eb015a289debfb4"
+    "launch_hash": "06d029836512e895e5407e1a273176f9357a646d635511d56997417a049f8382"
   },
   "supply_rpc": {
     "decimals": 6,
-    "supply": 910918368.077041
+    "supply": 910879549.624355
   },
   "telegram_sent": {
     "error": "telegram secrets not configured"
@@ -638,10 +638,10 @@
   },
   "x": {
     "addresses": [],
-    "error": "HTTPError: HTTP Error 401: Unauthorized; API: X_BEARER_TOKEN not configured",
-    "excerpt": "",
-    "hash": null,
+    "error": null,
+    "excerpt": "Title: Hooked (@Hoookedpad) on X URL Source: https://x.com/Hoookedpad Markdown Content: Hooked 226 posts [![Image 1: Hooked profile banner](https://pbs.twimg.com/profile_banners/2104332177475284992/1794307271/1500x500)](https://x.com/Hoookedpad/header_photo) [![Image 2: @Hoookedpad](https://pbs.twimg.com/profile_images/2120104472542052352/NZCeXary_400x400.png)](https://x.com/Hoookedpad/photo) @Hoookedpad Launch a token with rules built into the token itself. The transfer hook runs on every trade. ## Hooked\u2019s posts * [![Image 3: @Hoookedpad](https://pbs.twimg.com/profile_images/2120104472542052352/NZCeXary_normal.png)](https://x.com/Hoookedpad) Shielded Trading is live on [$HOOKED](https://x.",
+    "hash": "3e7ce9d354225dc1c40df5bac656e7779f72667e3c75899fe1ede987d9d41ea9",
     "ids": [],
-    "source": null
+    "source": "https://r.jina.ai/https://x.com/Hoookedpad"
   }
 }
