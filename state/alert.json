@@ -1,17 +1,17 @@
 {
-  "checked_at": "2026-11-21T03:53:08+00:00",
+  "checked_at": "2026-11-21T12:07:35+00:00",
   "events": [
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 2hMSYpJiZnfzWums9FUevXX8B8MVDbtDGVXyUTU1gcpPE1UyAFvdSp3aWdinoydf3Psf79NZm18owVzjPp5qJpsq",
+      "detail": "Latest tx CaCK3Ac6RnLCqrZc3kF6kLkxVN1JnCQSDRfc5LMkcQA8xBvU54L8jjhNTm77dT1A29iaLi5M1mTRAncsMGMxef4",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     }
   ],
   "issue": {
-    "number": 249,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/249"
+    "number": 250,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/250"
   },
   "telegram": {
     "error": "telegram secrets not configured"
