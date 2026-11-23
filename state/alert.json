@@ -1,24 +1,31 @@
 {
-  "checked_at": "2026-11-22T20:26:00+00:00",
+  "checked_at": "2026-11-23T01:03:19+00:00",
   "events": [
     {
-      "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 471jU3t7Zb4eqrQ52jC2BLfBZxa1M6qDyiNiG3Kznspj74KqPSHLVpdsvcyQnktU7ou5BRkWLTBQgFA1spwDgMXQ",
-      "key": "creator_activity",
-      "severity": "HIGH",
-      "title": "Creator/deployer wallet has new activity"
+      "action": "REVIEW PROFIT / RISK",
+      "detail": "223,692 USD -> 177,823 USD",
+      "key": "mc_move",
+      "severity": "MEDIUM",
+      "title": "Market cap moved -20.5%"
+    },
+    {
+      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
+      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 48.33% -> 34.18%",
+      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
+      "severity": "CRITICAL",
+      "title": "LP locked percentage fell materially"
     },
     {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx qg93DSxbsspiYzKFY49yk1sx2oPKCGJ16XCTh7MMKJoQ75fF5GwJ4xxACY1nPdRb8b25NBbmU2VGYrQeMAMKLvm",
-      "key": "upgrade_activity",
+      "detail": "Latest tx 3QFtMp6gnk2CWEByXmgw3zcVfLj66rqgnN7CQrseBXAb32CpC6EuJZcmzDH6myyo3FF4gQKgutVp1HX9swELZLer",
+      "key": "creator_activity",
       "severity": "HIGH",
-      "title": "Upgrade authority wallet has new activity"
+      "title": "Creator/deployer wallet has new activity"
     }
   ],
   "issue": {
-    "number": 255,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/255"
+    "number": 256,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/256"
   },
   "telegram": {
     "error": "telegram secrets not configured"
