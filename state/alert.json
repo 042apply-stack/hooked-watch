@@ -1,17 +1,31 @@
 {
-  "checked_at": "2026-11-24T16:08:56+00:00",
+  "checked_at": "2026-11-25T00:43:42+00:00",
   "events": [
     {
+      "action": "REVIEW PROFIT / RISK",
+      "detail": "136,682 USD -> 161,583 USD",
+      "key": "mc_move",
+      "severity": "MEDIUM",
+      "title": "Market cap moved +18.2%"
+    },
+    {
+      "action": "REDUCE RISK / VERIFY LIQUIDITY CONTROL",
+      "detail": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk 87.20% -> 25.85%",
+      "key": "lp_unlock:C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
+      "severity": "CRITICAL",
+      "title": "LP locked percentage fell materially"
+    },
+    {
       "action": "REVIEW TRANSACTION",
-      "detail": "Latest tx 4zVRuYdmxX28bAnpf7Fz3UTr9ptGLcz7GT4jgvddZjsoecztRkpkud1WGhNsNFyFGisnvEUJaajiC2T5hvNsxBRQ",
+      "detail": "Latest tx 2EJxX6F3hs2VBtY5FjkxNT5kP4SChKnT17TWXcMQKjE3ByYu8yBePzz4xWvfLws4pqrmFMJSpmtBmYstvAX9AUfv",
       "key": "creator_activity",
       "severity": "HIGH",
       "title": "Creator/deployer wallet has new activity"
     }
   ],
   "issue": {
-    "number": 260,
-    "url": "https://github.com/042apply-stack/hooked-watch/issues/260"
+    "number": 261,
+    "url": "https://github.com/042apply-stack/hooked-watch/issues/261"
   },
   "telegram": {
     "error": "telegram secrets not configured"
